@@ -34,7 +34,7 @@ sass:
 disqus_shortname:   default
 
 # Social
-anaytics-id:        default
+analytics-id:       "default"
 twitter:            default
 facebook:           default
 instagram:          default
