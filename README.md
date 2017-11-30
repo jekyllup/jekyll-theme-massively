@@ -8,6 +8,7 @@ Open a terminal window or a command line and ```cd``` to that location.
 Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
 
 ## Features
+## kkkkkkkk
 ### Auto-Generating Sitemap
 The sitemap is auto generated! Just simply change the sitemap variable in front matter of each page. It looks like so...
 ```
