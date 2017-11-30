@@ -12,6 +12,7 @@ sitemap:
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
 It is blog skin test for the class "OpenSource SW". My name is Simon, 2017012879, ICT융합학부.
+yubinpark, 2017012888, ICT융합학부.
 
 ### Content is Imortant
 <div class="box">
