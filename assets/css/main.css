@@ -2183,6 +2183,7 @@
 		padding: 0 1rem;
 		text-decoration: none;
 		width: 100%;
+		resize: vertical;
 	}
 
 		input[type="text"]:invalid,
