@@ -1,9 +1,9 @@
 # Site
-title:              Massively
+title:              FOSS
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/foss-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 defaults:
@@ -35,15 +35,15 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            amfoss_in
+facebook:           amfoss.in
+instagram:          amfoss_
+github:             amfoss
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Amrita School of Engineering, Amritapuri, Kerala.
+phone:              09567543876
+email:              amritapurifoss@gmail.com
 
 # Gems
 gems:
