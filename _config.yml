@@ -37,8 +37,8 @@ disqus_shortname:   default
 analytics-id:       "default"
 twitter:            amfoss_in
 facebook:           amfoss.in
-instagram:          default
-github:             default
+instagram:          amfoss_
+github:             amfoss
 
 # personal
 location:           Amrita School of Engineering, Amritapuri, Kerala.
