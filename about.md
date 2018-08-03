@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
+title: Jekylls Theme - About - Massively
 description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
 sitemap:
     priority: 0.7
