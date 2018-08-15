@@ -7,6 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
+formspree_thankyou_page: /thank-you
 
 defaults:
 - scope:
@@ -45,7 +46,7 @@ github:             default
 # personal
 location:           Los Angeles, CA
 phone:              310-318-5555
-email:              info@default.com
+email:              mistermeesix1@gmail.com
 
 # Gems
 gems:
