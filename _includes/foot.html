@@ -1,6 +1,7 @@
 <footer id="footer">
   <section>
     <form method="POST" action="https://formspree.io/{{site.email}}">
+      <input type="hidden" name="_next" value="{{site.url}}{{site.formspree_thankyou_page}}" />
       <div class="field">
         <label for="name">Name</label>
         <input type="text" name="name" id="name" />
@@ -44,5 +45,5 @@
 </footer>
 <!-- Copyright -->
 <div id="copyright">
-  <ul><li>&copy; HTML5 UP</li><li>Design by <a href="https://html5up.net">HTML5 UP</a></li><li>Jekyll Integration by <a href="https://somiibo.com">Somiibo</a></li></ul>
+  <ul><li>&copy; HTML5 UP</li><li>Design by <a href="https://html5up.net" rel="nofollow">HTML5 UP</a></li><li>Jekyll Integration by <a href="https://jekyllthemes.xyz">JekyllThemes</a> & <a href="https://jekyllup.com">JekyllUp</a> </li></ul>
 </div>

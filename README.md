@@ -1,11 +1,21 @@
+# Massively
+> This is Massively, a text-heavy, article-oriented design built around a huge background
+image.
+
 ## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+Jekyll consumes themes in two flavors; gem-based or spread across multiple folders
+in the site source. This port is of the second type. Concretely, it means that you
+can simply grab the [zip][zip] or clone this repository, run `bundle install`
+in the new directory and finally `bundle exec jekyll serve`.
+You can now access your brand-new Jekyll site on [http://127.0.0.1:4000/][local].
+Enjoy!
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively-src/archive/master.zip) and save it to any folder you want.
+If you're completely new to Jekyll, check out it's [documentation][jekyll] first.
+It's not too hard, we promise!
 
-Open a terminal window or a command line and ```cd``` to that location.
-
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
+[zip]: https://github.com/iwiedenm/jekyll-theme-massively-src/archive/master.zip
+[local]: http://127.0.0.1:4000/
+[jekyll]: https://jekyllrb.com/
 
 ## Features
 ### Auto-Generating Sitemap
@@ -17,8 +27,10 @@ sitemap:
     changefreq: weekly
 ```
 
-### Formspring.io Integration
-Formspring is supported out of the box! Just add your email to ```_config.yml```
+### Formspree.io Integration
+Formspree is supported out of the box! Just add your email to ```_config.yml``` and test the form.
+You have to confirm your email address the first time you use it on each url. Alternatively,
+move the from to a dedicated page or consider a pro subscription.
 
 
 ## Credits
