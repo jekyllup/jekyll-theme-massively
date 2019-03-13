@@ -18,6 +18,11 @@ It's not too hard, we promise!
 [jekyll]: https://jekyllrb.com/
 
 ## Features
+
+### Slapform.com Integration
+[Slapform](https://slapform.com) is supported out of the box! Just add your email to ```_config.yml``` and test the form.
+Every time one of your visitors submits the form, you'll get an email straight to your inbox containing the submission so you can get back to them right away. Slapform is very extendable, including AJAX submissions, webhooks, and more.
+
 ### Auto-Generating Sitemap
 The sitemap is auto generated! Just simply change the sitemap variable in front matter of each page. It looks like so...
 ```
@@ -26,12 +31,6 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ```
-
-### Formspree.io Integration
-Formspree is supported out of the box! Just add your email to ```_config.yml``` and test the form.
-You have to confirm your email address the first time you use it on each url. Alternatively,
-move the from to a dedicated page or consider a pro subscription.
-
 
 ## Credits
 ### Original README from HTML5 UP
