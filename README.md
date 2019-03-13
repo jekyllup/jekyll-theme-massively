@@ -2,6 +2,9 @@
 > This is Massively, a text-heavy, article-oriented design built around a huge background
 image.
 
+See a preview of the Massively Jekyll Theme here: [https://iwiedenm.github.io/jekyll-theme-massively/](https://iwiedenm.github.io/jekyll-theme-massively/)
+Massively was originally designed by HTML5UP and Jekyll was integrated by [JekyllUp: Jekyll Themes](https://jekyllup.com)
+
 ## How to Use This Theme
 Jekyll consumes themes in two flavors; gem-based or spread across multiple folders
 in the site source. This port is of the second type. Concretely, it means that you
