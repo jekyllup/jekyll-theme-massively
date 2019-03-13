@@ -30,9 +30,9 @@ Every time one of your visitors submits the form, you'll get an email straight t
 The sitemap is auto generated! Just simply change the sitemap variable in front matter of each page. It looks like so...
 ```
 sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
+  priority: 0.7
+  lastmod: 2017-11-02
+  changefreq: weekly
 ```
 
 ## Credits
