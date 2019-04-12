@@ -1,3 +1,12 @@
+---
+layout: null
+title: Blog
+description: Segui il nostro blog per restare informato sulle attività dello Squadrone, per aggiornarti con le guide pubblicate e per conoscere gli eventi nella Galassia.
+sitemap:
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
 <!DOCTYPE HTML>
 <!--
 	Massively by HTML5 UP
@@ -51,7 +60,7 @@
           </article>
 					<!-- Post -->
 					<section class="posts">
-						{% for post in site.posts %}
+						{% for post in paginator.posts %}
 						{% assign mod3 = forloop.index | modulo: 3 %}
 							<article>
 								<header>
@@ -79,7 +88,32 @@
 					</div>
 
 				<!-- Footer -->
-        {% include foot.html %}
+				<footer>
+					<!-- pagination -->
+						{% if paginator.total_pages > 1 %}
+						<div class="pagination"> 
+							{% if paginator.previous_page %}
+								<a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="previous">Prev</a>
+							{% endif %}
+
+							{% for page in (1..paginator.total_pages) %}
+								{% if page == paginator.page %}
+									<span class="page active">{{ page }}</span>
+								{% elsif page == 1 %}
+									<a href="/">{{ page }}</a>
+								{% else %}
+									<a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="page">{{ page }}</a>
+								{% endif %}
+							{% endfor %}
+
+							{% if paginator.next_page %}
+								<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="next">Next</a>
+							{% endif %}
+						</div>
+						{% endif %}
+				</footer>
+			</div>
+      {% include foot.html %}
 
 			</div>
 
