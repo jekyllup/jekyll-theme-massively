@@ -14,7 +14,7 @@ We have made this page a resource for prospective students who want to join or w
 
 This covers most people who are interest in doing research based work with the group. We are a multidisciplinary group so you can come from multiple backgrounds/disciplines.
 
-See this [GUIDE](https://docs.google.com/document/d/1-AdUPZmvmq47hHd47yJsGZCTfZAw770WfST0bQIlsQo/edit?usp=sharing) before you contact me.
+See this [[GUIDE]](https://docs.google.com/document/d/1-AdUPZmvmq47hHd47yJsGZCTfZAw770WfST0bQIlsQo/edit?usp=sharing) before you contact Vukosi.
 
 ## MIT Big Data Science Students @ University of Pretoria
 
