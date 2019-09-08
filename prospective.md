@@ -4,11 +4,19 @@ title: Data Science for Social Impact - Prospective Students
 description: 
 sitemap:
     priority: 0.7
-    lastmod: 2019-09-02
+    lastmod: 2019-09-08
     changefreq: weekly
 ---
 
 We have made this page a resource for prospective students who want to join or work with our group. It is split into all students, then specific options for some subset.
+
+## Research Group Themes
+
+* Machine Learning [ML]
+* Natural Language Processing [NLP]
+* Social Media [SM]
+* Society [Soc]
+* Web Technologies [WT]
 
 ## All prospective students
 
@@ -17,6 +25,10 @@ This covers most people who are interest in doing research based work with the g
 See this [[GUIDE]](https://docs.google.com/document/d/1-AdUPZmvmq47hHd47yJsGZCTfZAw770WfST0bQIlsQo/edit?usp=sharing) before you contact Vukosi.
 
 ## MIT Big Data Science Students @ University of Pretoria
+
+MIT Big Data Science students have to do a 2nd year project and mini dissertation. We have opportunities for projects, supervision as well. 
+
+### Potential Projects Available for MIT Big Data Science
 
 * Local Language Classification Models [NLP]
 * Text Augmentation Approaches [NLP]
@@ -27,9 +39,6 @@ See this [[GUIDE]](https://docs.google.com/document/d/1-AdUPZmvmq47hHd47yJsGZCTf
 * Project collaboration the [Mail and Guardian](https://www.mg.co.za) [NLP][Soc]
 * Project collaboration with [DSTI Sierra Leone](https://dsti.gov.sl/) [ML][Soc]
 * *propose a project around our themes*
-MIT Big Data Science students have to do a 2nd year project and mini dissertation. We have opportunities for projects, supervision as wel. 
-
-### Potential Projects Available for MIT Big Data Science
 
 ## CS Honours Students @ University of Pretoria
 
