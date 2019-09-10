@@ -22,6 +22,7 @@ The group is made up of a number of people who work on a few themes.
 
 ## Masters
 
+* Alexandra Flusk [UP][ML][Soc]
 * Avashlin Moodley [UP - MIT Big Data Science][ML, NLP, SM]
 * Colyn van Zyl [UP - MIT Big Data Science][ML]
 * Henry Wandera [UP - MIT Big Data Science][ML, Soc]
