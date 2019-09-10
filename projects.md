@@ -18,6 +18,14 @@ We do a number of projects with partners and collaborators. See below. This list
 ## Collaborators
 
 * Dr. Bubaccar Bah - African Institue for Mathematical Sciences
+* Prof. Turgay Celik - Wits University
 * Council for Scientific and Industrical Research (CSIR)
 
 ## Data Donors
+
+TBA
+
+## Support
+
+* National Research Foundation
+* Mastercard Foundation
