@@ -50,7 +50,7 @@ For hounours students, projects are mostly towards research. Best you try to mak
 * Text Augmentation Approaches [NLP]
 * Public and Government Textual Data Understanding [NLP][Soc]
 * Education System Modelling [ML][Soc]
-* Deep Learning at the edge with [Google Coral](https://coral.withgoogle.com/)
+* Deep Learning at the edge with [Google Coral](https://coral.withgoogle.com/)[ML]
 * *propose a project around our themes*
 
 ## All Undegrad Students @ University of Pretoria
@@ -63,5 +63,5 @@ All the projects discussed above are available for discussion but you can also e
 * Project collaboration the [Mail and Guardian](https://www.mg.co.za) [NLP][Soc]
 * Project collaboration with [DSTI Sierra Leone](https://dsti.gov.sl/) [ML][Soc]
 * Project collaboration with [CSIR](https://www.csir.co.za) [ML][NLP][Soc]
+* Deep Learning at the edge with [Google Coral](https://coral.withgoogle.com/)[ML]
 * *propose a project around our themes*
-
