@@ -10,11 +10,6 @@ sitemap:
 
 We do a number of projects with partners and collaborators. See below. This list is not exhaustive. We will update as time goes on.
 
-## Partners
-
-* [DSTI Sierra Leone](https://dsti.gov.sl/)
-* [Mail and Guardian](https://mg.co.za)
-
 ## Collaborators
 
 * Dr. Bubaccar Bah - African Institue for Mathematical Sciences
@@ -24,6 +19,16 @@ We do a number of projects with partners and collaborators. See below. This list
 ## Data Donors
 
 TBA
+
+## Initiatives
+
+* [Deep Learning Indaba](http://deeplearningindaba.com)
+* [SautiYetu AfricanNLP Unconference](https://sites.google.com/view/sautiyetu-nlp/)
+
+## Partners
+
+* [DSTI Sierra Leone](https://dsti.gov.sl/)
+* [Mail and Guardian](https://mg.co.za)
 
 ## Support
 
