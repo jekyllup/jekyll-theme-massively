@@ -32,5 +32,7 @@ TBA
 
 ## Support
 
+* Amazon Web Services Research Credit Grant [2018/2019]
+* Google Cloud Platform Research Credit Grant [2019/2020]
 * National Research Foundation
 * Mastercard Foundation
