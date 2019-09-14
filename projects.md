@@ -14,6 +14,8 @@ We do a number of projects with partners and collaborators. See below. This list
 
 * Dr. Bubaccar Bah - African Institue for Mathematical Sciences
 * Prof. Turgay Celik - Wits University
+* Nyalleng MOorosi - Google AI
+* Emily Muller - UCL
 * Council for Scientific and Industrical Research (CSIR)
 
 ## Data Donors
