@@ -22,8 +22,8 @@ Here is a repository of classes led by or affiliated with the research group mem
 
 ### University of Pretoria
 
-* Introduction to Data Sciecnce
-* Introdcution to Natural Language Processing
+* Introduction to Data Science
+* Introduction to Natural Language Processing
 * Introductoin to Reinforcement Learning
 
 ### Elsewhere
