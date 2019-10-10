@@ -35,7 +35,7 @@ MIT Big Data Science students have to do a 2nd year project and mini dissertatio
 * Cyber Safety understanding [NLP]
 * Public and Government Textual Data Understanding [NLP][Soc]
 * Education System Modelling [ML][Soc]
-* Project collaboration with Dr. Ciira Maina [The Kenya Bioacoustics Project](https://sites.google.com/site/kenyabioacoustics/) [ML][Soc]
+* Project collaboration with Dr. Ciira Maina [The Kenya Bioacoustics Project](https://sites.google.com/site/kenyabioacoustics/) [ML][Soc][Topics](https://docs.google.com/document/d/1DQGUUc1rUAa2xDUZ9eZt96yaHteXht6Nw66eI3_TzcY/edit?usp=sharing)
 * Project collaboration the [Mail and Guardian](https://www.mg.co.za) [NLP][Soc]
 * Project collaboration with [DSTI Sierra Leone](https://dsti.gov.sl/) [ML][Soc]
 * *propose a project around our themes*
@@ -59,7 +59,7 @@ All the projects discussed above are available for discussion but you can also e
 
 ### Potential Projects Available for All Undegrad Students
 
-* Project collaboration with Ciira Maina [The Kenya Bioacoustics Project](https://sites.google.com/site/kenyabioacoustics/) [ML][Soc]
+* Project collaboration with Ciira Maina [The Kenya Bioacoustics Project](https://sites.google.com/site/kenyabioacoustics/) [ML][Soc][Topics](https://docs.google.com/document/d/1DQGUUc1rUAa2xDUZ9eZt96yaHteXht6Nw66eI3_TzcY/edit?usp=sharing)
 * Project collaboration the [Mail and Guardian](https://www.mg.co.za) [NLP][Soc]
 * Project collaboration with [DSTI Sierra Leone](https://dsti.gov.sl/) [ML][Soc]
 * Project collaboration with [CSIR](https://www.csir.co.za) [ML][NLP][Soc]
