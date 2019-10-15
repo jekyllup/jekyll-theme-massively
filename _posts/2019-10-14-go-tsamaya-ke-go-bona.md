@@ -41,20 +41,20 @@ Deep Learning Indaba #4 2019 will take place in Tunisia. A new adventure awaits!
 ## A call to action
 ### As an individual:
 
-1. You can keep an eye out for Indaba announcements. The Indaba uses the Machine Learning Data Science Africa (MLDSA) mailing list extensively (see link at the bottom of http://mldsafrica.co.za/).
+1. You can keep an eye out for Indaba announcements. The Indaba uses the Machine Learning Data Science Africa (MLDSA) mailing list extensively (see link at the bottom of [http://mldsafrica.co.za/](http://mldsafrica.co.za/)).
 2.Bring others into the conversation and connect potential mentees to potential mentors.
 
 ### As an organisation:
 
 1. Encourage and assist your organisation ML/AI/DS members to apply and assist with funding for them to attend Indaba or IndabaX events.
-2. Assist the main Indaba organisation. You can do this by reaching out to the Deep Learning Indaba at https://www.deeplearningindaba.com.
+2. Assist the main Indaba organisation. You can do this by reaching out to the Deep Learning Indaba at [https://www.deeplearningindaba.com](https://www.deeplearningindaba.com).
 3. Advocate for a more connected ML/AI community in your country, organisation, etc.
 
 You can also look at some recent coverage on the Indaba:
 
-* An open letter to the Deep Learning Indaba team – 2019 edition URL
-* Africa Is Building an AI Industry That Doesn’t Look Like Silicon Valley URL
-* Citizen Science URL
+* An open letter to the Deep Learning Indaba team – 2019 edition [URL](https://medium.com/@alienelf/an-open-letter-to-the-deep-learning-indaba-team-2019-edition-6f86fddb1cc8)
+* Africa Is Building an AI Industry That Doesn’t Look Like Silicon Valley [URL](https://onezero.medium.com/africa-is-building-an-a-i-industry-that-doesnt-look-like-silicon-valley-72198eba706d)
+* Citizen Science [URL](https://medium.com/@emilymuller1991/at-this-years-deep-learning-indaba-in-partnership-with-unesco-we-co-organised-an-ethics-and-f98f7c1b69b8)
 
 Dr Vukosi Marivate is a founder of the Deep Learning Indaba and the UP ABSA Chair of Data Science in the Faculty of Engineering, Built Environment and Information Technology.
 
