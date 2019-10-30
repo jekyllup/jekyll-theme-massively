@@ -14,9 +14,9 @@ Here is a repository of classes led by or affiliated with the research group mem
 
 ### Courses at University of Pretoria
 
-* MIT 804: Optimisation for Big Data Science
-* MIT 809: Research Methods for Big Data Science
-* COS 802: Defense against the Dark Text Arts [NLP + Cyber Safety]
+* MIT 804: Optimisation for Big Data Science [Coming Soon]
+* MIT 809: Research Methods for Big Data Science [[URL](https://dsfsi.github.io/mit809/)]
+* COS 802: Defense against the Dark Text Arts [NLP + Cyber Safety] [[URL](https://dsfsi.github.io/cos802/)]
 
 ## Guest Lectures
 
