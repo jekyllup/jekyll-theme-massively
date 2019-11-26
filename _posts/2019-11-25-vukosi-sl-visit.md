@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Science & Salone - Visiting Sierra Leone"
-date:   2019-04-01
+date:   2019-11-25
 excerpt: "Through an NRF Knowledge Interchange and Collaboration grant, I was able to visit some collaborators in Sierra Leone"
 image: ""
 ---
