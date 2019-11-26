@@ -73,7 +73,7 @@ sitemap:
 						<!-- Posts -->
 							<section class="posts">
                 {% for post in site.posts limit:4 %}
-                {% assign mod3 = forloop.index | modulo: 4 %}
+                {% assign mod4 = forloop.index | modulo: 4 %}
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
@@ -92,8 +92,8 @@ sitemap:
   									</header>
 
   								</article>
-                  {% endif %}
-                {% endfor %} -->
+                  {% endif %}-->
+                {% endfor %} 
 
 							</section>
 
