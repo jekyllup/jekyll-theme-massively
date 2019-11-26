@@ -68,13 +68,12 @@ sitemap:
 								
 <!-- 								<a class="image main"><img src="{{ "/images/logo_transparent.png" | absolute_url }}" alt="" /></a> -->
 							</article>
-							 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/datascience-up" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/datascience-up', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
          
 
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
+                {% for post in site.posts limit:4 %}
+                {% assign mod3 = forloop.index | modulo: 4 %}
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
@@ -86,7 +85,7 @@ sitemap:
   										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
   									</ul>
   								</article>
-                  {% if mod3 == 0 %}
+<!--                   {% if mod4 == 0 %}
                   <article>
   									<header>
   										<h2><a href="#">Sponsored</a></h2>
@@ -94,7 +93,7 @@ sitemap:
 
   								</article>
                   {% endif %}
-                {% endfor %}
+                {% endfor %} -->
 
 							</section>
 
