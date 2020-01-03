@@ -7,6 +7,9 @@ sitemap:
     lastmod: 2019-11-18
     changefreq: weekly
 ---
+### 2020
+
+* M Naidoo, V Marivate. Unsupervised Anomaly Detection of Healthcare Providers using Generative Adversarial Networks [Accepted]
 
 ### 2019
 
