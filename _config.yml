@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Cosmological Horizon
+bio:                "TBD1"
+description:        "TBD2"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -17,9 +17,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+location:           Jersey City, NJ
+phone:              000-000-0000
+email:              uppalapati.teja@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
@@ -28,12 +28,13 @@ slapform_thankyou_page: /thank-you
 
 defaults:
 - scope:
-    path: ''
+    path: ""
     type: posts
   values:
     permalink: "/blog/:title/"
     layout: post
     author:
+    title: "Cosmos"
 
 # Jekyll
 permalink:          /blog/:title/
