@@ -10,10 +10,13 @@
 		&.special {
 			text-align: center;
 		}
+
+
 	}
 
 	header {
 		cursor: default;
+
 
 		> .date {
 			display: block;
@@ -25,6 +28,7 @@
 
 		> p {
 			font-style: italic;
+			font-size: 2.1rem;
 		}
 
 		> h1 + p {

@@ -28,6 +28,8 @@
 			text-align: center;
 		}
 
+
+
 		> .post {
 			@include padding((_size(padding) * 4), (_size(padding) * 4));
 
@@ -72,6 +74,84 @@
 				}
 			}
 		}
+
+
+		.left {
+					vertical-align: top;
+					width: 49%;
+					display: inline-block;
+					padding-right: 30px;
+					box-sizing: border-box;
+			}
+
+		.right {
+					vertical-align: top;
+					width: 50%;
+					display: inline-block;
+					padding-left: 30px;
+					box-sizing: border-box;
+					}
+
+		.resume_list{
+				padding-left: 100px;
+
+				ul {
+						list-style-type: none;
+						text-align: left;
+						}
+
+				.date {
+						font-size: 0.9em;
+						padding: 0;
+						margin-top:0px;
+						margin-bottom:-10px;
+						color: rgba(34,36,39,0.5);
+						}
+
+				.role {
+						font-size: 0.9em;
+						padding: 0;
+						margin-top:-10px;
+						margin-bottom:-10px;
+						}
+
+				.company {
+						font-size: 0.9em;
+						padding: 0;
+						margin-top:-10px;
+						margin-bottom:20px;
+						color: Blue;
+						}
+
+				}
+
+		.skill_list{
+				ul {
+					padding-left: 100px;
+					padding-right: 100px;
+					list-style-type: none;
+					}
+
+				.skill {
+						margin-top:0px;
+						margin-bottom:-10px;
+						}
+
+				.skill_score {
+						float: right;
+						}
+
+				.star:before{
+			    content: "\2605";
+					color: chocolate;
+					}
+
+				.star-grey:before{
+			    color: Grey;
+					}
+
+			}
+
 
 		> .posts {
 			@include flexgrid((
@@ -145,6 +225,8 @@
 				}
 			}
 		}
+
+
 
 		@include breakpoint(small) {
 			> * {
