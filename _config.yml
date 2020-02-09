@@ -11,10 +11,10 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+linkedin:            in/raviteja-uppalapati/
+facebook:           uppalapati.teja
+instagram:          raviteja936
+github:             raviteja936
 
 # personal
 location:           Jersey City, NJ
@@ -24,7 +24,7 @@ email:              uppalapati.teja@gmail.com # change this to your email to rec
 # Other
 background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
-slapform_thankyou_page: /thank-you
+slapform_thankyou_page: ""
 
 defaults:
 - scope:
