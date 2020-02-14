@@ -2,8 +2,8 @@
 
 Created using HTML and Jekyll. 
 
-## Credits
-### Original README from HTML5 UP
+#### Credits
+##### Original README from HTML5 UP
 ```
 Massively by HTML5 UP
 html5up.net | @ajlkn
