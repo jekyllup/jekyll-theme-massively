@@ -33,10 +33,79 @@
 		> .post {
 			@include padding((_size(padding) * 1.33), (_size(padding) * 2.4));
 
+			.row {
+				margin: 0rem 4rem 2rem 4rem;
+			  // display: inline;
+			}
+
+			.column {
+				float: left;
+			  width: 50%;
+				padding: 4rem 4rem 0rem 0rem;
+			}
+
+			.align-center {
+			  text-align: center;
+			}
+
+			.resume_list{
+					padding-left: 20%;
+					line-height: 2;
+
+					ul, li {
+							list-style-type: none;
+							text-align: left;
+							margin: 0;
+							padding: 0;
+							}
+
+					.date {
+							font-size: 0.9em;
+							color: rgba(34,36,39,0.5);
+							}
+
+					.role {
+							font-size: 0.9em;
+							}
+
+					.company {
+							font-size: 0.9em;
+							margin-bottom:30px;
+							}
+
+					}
+
+			.skill_list{
+					padding-left: 0%;
+					padding-right: 0%;
+					text-align: center;
+					ul, li {
+						list-style-type: none;
+						text-align: left;
+						margin: 0;
+						padding: 0;
+						}
+
+					.skill {
+							.skill_score {
+									float: right;
+									padding-right: 20%;
+									}
+									.star:before{
+										content: "\2605";
+										color: chocolate;
+										}
+
+									.star-grey:before{
+										color: Grey;
+										}
+							}
+				}
+
 			header {
 				&.major {
 					> .date {
-						margin-top: -2rem;
+						margin-top: 0rem;
 					}
 
 					> h1, h2 {
@@ -58,11 +127,23 @@
 			@include breakpoint(small) {
 				@include padding((_size(padding) * 0.1), (_size(padding) * 0.6));
 
+				.row {
+			   margin: 0rem 2rem 1rem 2rem;
+			  }
+
+				.column {
+			    width: 100%;
+					padding: 2rem 0rem 0rem 0rem;
+			  }
+
+				.resume_list{
+						padding-left: 0%;
+					}
+
 				header {
 					&.major {
 						> .date {
-							margin-top: -1rem;
-							margin-bottom: _size(element-margin);
+							margin-top: 2rem;
 						}
 
 						> h1, h2 {
@@ -76,81 +157,9 @@
 		}
 
 
-		.left {
-					vertical-align: top;
-					width: 49%;
-					display: inline-block;
-					padding-right: 30px;
-					box-sizing: border-box;
-			}
 
-		.right {
-					vertical-align: top;
-					width: 50%;
-					display: inline-block;
-					padding-left: 30px;
-					box-sizing: border-box;
-					}
 
-		.resume_list{
-				padding-left: 100px;
 
-				ul {
-						list-style-type: none;
-						text-align: left;
-						}
-
-				.date {
-						font-size: 0.9em;
-						padding: 0;
-						margin-top:0px;
-						margin-bottom:-10px;
-						color: rgba(34,36,39,0.5);
-						}
-
-				.role {
-						font-size: 0.9em;
-						padding: 0;
-						margin-top:-10px;
-						margin-bottom:-10px;
-						}
-
-				.company {
-						font-size: 0.9em;
-						padding: 0;
-						margin-top:-10px;
-						margin-bottom:20px;
-						color: Blue;
-						}
-
-				}
-
-		.skill_list{
-				ul {
-					padding-left: 100px;
-					padding-right: 100px;
-					list-style-type: none;
-					}
-
-				.skill {
-						margin-top:0px;
-						margin-bottom:-10px;
-						}
-
-				.skill_score {
-						float: right;
-						}
-
-				.star:before{
-			    content: "\2605";
-					color: chocolate;
-					}
-
-				.star-grey:before{
-			    color: Grey;
-					}
-
-			}
 
 
 		> .posts {
