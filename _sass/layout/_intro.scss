@@ -37,7 +37,7 @@
 		}
 
 		& + #header {
-			margin-top: -20rem;
+			margin-top: 0rem;
 
 			.logo {
 				@include vendor('transform', 'translateY(2rem)');

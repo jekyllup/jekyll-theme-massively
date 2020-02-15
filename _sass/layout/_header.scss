@@ -14,8 +14,8 @@
 		@include vendor('justify-content', 'flex-end');
 		@include vendor('pointer-events', 'none');
 		@include vendor('user-select', 'none');
-		height: 20rem;
-		padding-bottom: (_size(padding) * 4);
+		height: 13rem;
+		padding-bottom: (_size(padding) * 3);
 		position: relative;
 		text-align: center;
 		z-index: 2;

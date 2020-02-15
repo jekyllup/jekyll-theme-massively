@@ -426,7 +426,7 @@
 
 						// Create @media block.
 							@media screen and #{map-get($breakpoints, $name)} {
-								@include containers($containers);
+								// @include containers($containers);
 							}
 
 					}
@@ -515,7 +515,7 @@
 
 						// Create @media block.
 							@media screen and #{map-get($breakpoints, $name)} {
-								@include grid($grid-gutters, $name);
+								// @include grid($grid-gutters, $name);
 							}
 
 					}
