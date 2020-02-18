@@ -4,9 +4,15 @@ title: Data Science for Social Impact - Publications
 description: 
 sitemap:
     priority: 0.7
-    lastmod: 2019-11-18
+    lastmod: 2020-02-18
     changefreq: weekly
 ---
+
+### Work in Progress
+
+* V Marivate, T Sefara. Improving short text classification through global augmentation methods [[preprint]](https://arxiv.org/abs/1907.03752) [ML][NLP] 
+* V Marivate, T Sefara, V Chabalala, K Makhaya, T Mokgonyane, R Mokoena, A Modupe.Investigating an approach for low resource language dataset creation, curation and classification: Setswana and Sepedi [[preprint]][ML][NLP] 
+
 ### 2020
 
 * M Naidoo, V Marivate. Unsupervised Anomaly Detection of Healthcare Providers using Generative Adversarial Networks [Accepted]
@@ -14,8 +20,7 @@ sitemap:
 ### 2019
 
 * H Wandera, V Marivate, D Sengeh. Predicting National School Performance for Policy Making in South Africa. [Accepted] [ML][Soc] [[Preprint](https://www.k4all.org/wp-content/uploads/2019/07/Predicting-school-performance-using-a-combination-of-traditional-and-non-traditional-education-data-from-South-Africa.pdf)]
-* A Moodley, V Marivate. Topic Modelling of News Articles for Two Consecutive Elections in South Africa [Accepted] [ML][NLP]
-* V Marivate, T Sefara. Improving short text classification through global augmentation methods [[preprint]](https://arxiv.org/abs/1907.03752) [ML][NLP] [[Preprint](https://www.researchgate.net/publication/335691873_Topic_Modelling_Of_News_Articles_For_Two_Consecutive_Elections_In_South_Africa)]
+* A Moodley, V Marivate. Topic Modelling of News Articles for Two Consecutive Elections in South Africa [Accepted] [ML][NLP][[Preprint](https://www.researchgate.net/publication/335691873_Topic_Modelling_Of_News_Articles_For_Two_Consecutive_Elections_In_South_Africa)]
 * M Mokoatle, V Marivate, M Esiefarienrhe. Predicting Road Traffic Accident Severity using Accident Report Data in South Africa, *Proceedings of 20th Annual International Conference on Digital Government Research (dg.o’20*) [ML][Soc] - [URL](https://dl.acm.org/citation.cfm?id=3325211)
 
 ### 2018
