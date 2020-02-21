@@ -13,10 +13,16 @@ We do a number of projects with partners and collaborators. See below. This list
 ## Collaborators
 
 * Dr. Bubaccar Bah - African Institue for Mathematical Sciences
+* Dr. Ciira Maina - Dedan Kimathi University
 * Prof. Turgay Celik - Wits University
-* Nyalleng MOorosi - Google AI
+* Nyalleng Moorosi - Google AI
 * Emily Muller - UCL
 * Council for Scientific and Industrical Research (CSIR)
+
+## Datasets
+
+* [African Pre-Trained Embeddings [NLP]](https://zenodo.org/record/3668481)
+* [South African News Data](https://zenodo.org/record/3668495)
 
 ## Data Donors
 
@@ -24,6 +30,8 @@ TBA
 
 ## Initiatives
 
+* [Masakhane](https://www.masakhane.io/)
+* [AI for Development: AI4D](https://ai4d.ai/)
 * [Deep Learning Indaba](http://deeplearningindaba.com)
 * [SautiYetu AfricanNLP Unconference](https://sites.google.com/view/sautiyetu-nlp/)
 
