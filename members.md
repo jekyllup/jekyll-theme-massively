@@ -10,8 +10,6 @@ sitemap:
 
 The group is made up of a number of people who work on a few themes. 
 
-
-
 ## Faculty
 
 * Dr. Vukosi Marivate (UP ABSA Chair of Data Science)
@@ -24,27 +22,26 @@ The group is made up of a number of people who work on a few themes.
 
 * Alexandra Flusk [UP][ML][Soc]
 * Avashlin Moodley [UP - MIT Big Data Science][ML, NLP, SM]
-* Colyn van Zyl [UP - MIT Big Data Science][ML]
 * Henry Wandera [UP - MIT Big Data Science][ML, Soc]
 * Hombakazi Ngejane [UP][ML, NLP]
-* Jacqui Muller[UP][NLP]
-* Jeanine Schutte [UP - MIT Big Data Science][ML]
 * Jessica Nemasisi [Wits][ML, NLP, SM]
 * Mario Naidoo [UP][ML, Soc]
 * Nicole Garber[UP - MIT Big Data Science][ML, NLP]
-* Tshepiso Mokoena [Wits][ML]
 
 ## Honours
 
-* Lindokuhle Shezi [NLP, ML, Soc]
-* Mundofi Ledwaba [NLP, ML]
 
 ## Interns
 
-* Tshepisho Sefara [NRF-CSIR, 2018][ML, NLP, Soc]
-* Niciah Hlungwane [NRF-CSIR, 2018][NLP]
 
 ## Alumni
-* Patrick Monamo [MSc][UJ][ML] - 2018
+
+* Tshepiso Mokoena [Wits][ML] - 2020
+* Colyn van Zyl [UP - MIT Big Data Science][ML] - 2020
+* Jeanine Schutte [UP - MIT Big Data Science][ML] - 2020
 * Mpho Mokoatle [MSc][NWU][ML,Soc] - 2019
-* Jessica Nemasisi [Hons][UniVen][ML]
+* Patrick Monamo [MSc][UJ][ML] - 2018
+* Jessica Nemasisi [Hons][UniVen][ML] - 2017
+
+* Tshepisho Sefara [NRF-CSIR, 2018][ML, NLP, Soc] - 2018
+* Niciah Hlungwane [NRF-CSIR, 2018][NLP] - 2018
