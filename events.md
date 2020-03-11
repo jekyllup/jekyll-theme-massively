@@ -4,7 +4,7 @@ title: Data Science for Social Impact - Events
 description:
 sitemap:
     priority: 0.7
-    lastmod: 2019-09-02
+    lastmod: 2020-03-11
     changefreq: weekly
 ---
 
@@ -20,6 +20,7 @@ See this [page](https://docs.google.com/document/d/1FpXpnbSYXpcJvtEYQgil60WmSS2G
 
 ## Invited Talks and Presentations
 
+* ICTAS Keynote - Vulavula - Understanding Intelligence through text and the implications for the 4IR [[Google Docs](https://docs.google.com/presentation/d/15VyAZ2FRmF1SB16oj1ZQAuujCxjqOM3KipXjOFtjz7g/edit?usp=sharing)]
 * Randelas for your research - Funding [[PDF](https://github.com/dsfsi/dsfsi.github.io/raw/master/files/2019-11-23-All-About-Funding-Sanitised.pdf)] [[Google Docs](https://docs.google.com/presentation/d/1T4QUJYRdN0q4UYeneHfaI3gszRdgZcv-UJmPXsiQum4/edit?usp=sharing)]
 
 ## Schedule and Interactions (Primarily of PI)
