@@ -30,6 +30,7 @@ TBA
 
 ## Initiatives
 
+* [Corona Virus, COVID 19 ZA Dashboard](https://bitly.com/covid19za-dash)
 * [Masakhane](https://www.masakhane.io/)
 * [AI for Development: AI4D](https://ai4d.ai/)
 * [Deep Learning Indaba](http://deeplearningindaba.com)
