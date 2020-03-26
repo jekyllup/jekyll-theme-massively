@@ -12,6 +12,8 @@ Earlier this year, a group of epidemiologists led by Dr. Moritz Kraemer at Oxfor
 
 These data have many uses. It can help us understand the spread of the SARS-COV-2 in Africa, epidemiological characteristics of cases and how it compares to reports in other parts of the world. The data can also be used in models to study the impact of various interventions (such as social distancing) and for making recommendations on resource allocation. For example, this [dashboard](https://bitly.com/covid19za-dash) developed by Dr. Vukosi Marivate and colleagues provides a picture of COVID-19 in South Africa based on currently available data. 
 
+![dashboard](https://github.com/dsfsi/dsfsi.github.io/blob/master/images/dashboard_25_03_2020.png?raw=true)
+
 ## How can you help?
 
 First, we need more volunteers who can help in collating data. The data collation process can be a tedious effort for a few people, but many contributors will make the task easier. To volunteer to join this effort, please send an email to [onelaine@bu.edu](mailto:onelaine@bu.edu) and also take a look at the [Github Repo](https://github.com/dsfsi/covid19africa) for additional instructions. 
