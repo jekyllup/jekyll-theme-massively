@@ -4,25 +4,25 @@ title: Data Science for Social Impact - Publications
 description: 
 sitemap:
     priority: 0.7
-    lastmod: 2020-02-18
+    lastmod: 2020-04-13
     changefreq: weekly
 ---
 
 ### Work in Progress
-* V Marivate, HMvE Combrink. A Framework For Sharing Publicly Available Data To Inform The COVID-19 Outbreak in Africa: A South African Case Study [[preprint]](https://arxiv.org/abs/2004.04813) [Society] 
+* V Marivate, HMvE Combrink. A Framework For Sharing Publicly Available Data To Inform The COVID-19 Outbreak in Africa: A South African Case Study [[preprint]](https://arxiv.org/abs/2004.04813) [Soc] 
 * V Marivate, T Sefara. Improving short text classification through global augmentation methods [[preprint]](https://arxiv.org/abs/1907.03752) [ML][NLP] 
 * V Marivate, T Sefara, V Chabalala, K Makhaya, T Mokgonyane, R Mokoena, A Modupe. Investigating an approach for low resource language dataset creation, curation and classification: Setswana and Sepedi [[preprint](https://arxiv.org/abs/2003.04986)][ML][NLP] 
 
 ### 2020
 
-* M Naidoo, V Marivate. Unsupervised Anomaly Detection of Healthcare Providers using Generative Adversarial Networks [Accepted]
-* Masakhane -- Machine Translation For Africa [NLP][[preprint]](https://arxiv.org/abs/2003.11529)
+* M Naidoo, V Marivate. Unsupervised Anomaly Detection of Healthcare Providers using Generative Adversarial Networks. *Responsible Design, Implementation and Use of Information and Communication Technology* [[Paper URL](https://link.springer.com/chapter/10.1007/978-3-030-44999-5_35)] [ML][Soc]
+* Masakhane -- Machine Translation For Africa. *Africa NLP Workshop - ICLR 2020* [[preprint]](https://arxiv.org/abs/2003.11529) [NLP]
 
 ### 2019
 
-* H Wandera, V Marivate, D Sengeh. Predicting National School Performance for Policy Making in South Africa. [Accepted] [ML][Soc] [[Preprint](https://www.k4all.org/wp-content/uploads/2019/07/Predicting-school-performance-using-a-combination-of-traditional-and-non-traditional-education-data-from-South-Africa.pdf)]
-* A Moodley, V Marivate. Topic Modelling of News Articles for Two Consecutive Elections in South Africa [Accepted] [ML][NLP][[Preprint](https://www.researchgate.net/publication/335691873_Topic_Modelling_Of_News_Articles_For_Two_Consecutive_Elections_In_South_Africa)]
-* M Mokoatle, V Marivate, M Esiefarienrhe. Predicting Road Traffic Accident Severity using Accident Report Data in South Africa, *Proceedings of 20th Annual International Conference on Digital Government Research (dg.o’20*) [ML][Soc] - [URL](https://dl.acm.org/citation.cfm?id=3325211)
+* H Wandera, V Marivate, D Sengeh. Predicting National School Performance for Policy Making in South Africa.*2019 6th International Conference on Soft Computing & Machine Intelligence (ISCMI)*[[Paper URL](https://ieeexplore.ieee.org/abstract/document/9004323)][[Preprint](https://www.k4all.org/wp-content/uploads/2019/07/Predicting-school-performance-using-a-combination-of-traditional-and-non-traditional-education-data-from-South-Africa.pdf)] [ML][Soc] 
+* A Moodley, V Marivate. Topic Modelling of News Articles for Two Consecutive Elections in South Africa. *2019 6th International Conference on Soft Computing & Machine Intelligence (ISCMI)*. [[Paper URL](https://ieeexplore.ieee.org/document/9004342)][[Preprint](https://www.researchgate.net/publication/335691873_Topic_Modelling_Of_News_Articles_For_Two_Consecutive_Elections_In_South_Africa)][ML][NLP]
+* M Mokoatle, V Marivate, M Esiefarienrhe. Predicting Road Traffic Accident Severity using Accident Report Data in South Africa, *Proceedings of 20th Annual International Conference on Digital Government Research (dg.o’20)*. [[Paper URL](https://dl.acm.org/citation.cfm?id=3325211)] [ML][Soc]
 
 ### 2018
 
