@@ -9,14 +9,14 @@ sitemap:
 ---
 
 ### Work in Progress
-
+* V Marivate, HMvE Combrink. A Framework For Sharing Publicly Available Data To Inform The COVID-19 Outbreak in Africa: A South African Case Study [[preprint]](https://arxiv.org/abs/2004.04813) [Society] 
 * V Marivate, T Sefara. Improving short text classification through global augmentation methods [[preprint]](https://arxiv.org/abs/1907.03752) [ML][NLP] 
 * V Marivate, T Sefara, V Chabalala, K Makhaya, T Mokgonyane, R Mokoena, A Modupe. Investigating an approach for low resource language dataset creation, curation and classification: Setswana and Sepedi [[preprint](https://arxiv.org/abs/2003.04986)][ML][NLP] 
-* Masakhane -- Machine Translation For Africa [NLP][[preprint]](https://arxiv.org/abs/2003.11529)
 
 ### 2020
 
 * M Naidoo, V Marivate. Unsupervised Anomaly Detection of Healthcare Providers using Generative Adversarial Networks [Accepted]
+* Masakhane -- Machine Translation For Africa [NLP][[preprint]](https://arxiv.org/abs/2003.11529)
 
 ### 2019
 
