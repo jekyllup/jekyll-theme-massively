@@ -16,7 +16,7 @@ We do a number of projects with partners and collaborators. See below. This list
 * Dr. Bubaccar Bah - [African Institue for Mathematical Sciences](https://sites.google.com/aims.ac.za/bubacarr)
 * Dr. Ciira Maina - [Dedan Kimathi University](https://sites.google.com/site/cwamainadekut/)
 * Prof. Turgay Celik - [Wits University](https://www.wits.ac.za/staff/academic-a-z-listing/c/turgaycelikwitsacza/)
-* Kathleen Simunyu - [AI4D](https://ai4d.ai/)
+* Kathleen Siminyu - [AI4D](https://ai4d.ai/)
 * Nyalleng Moorosi - Google AI
 * Emily Muller - [Imperial College/UCL](https://www.imperial.ac.uk/people/emily.muller)
 * Tshepisho Sefara - CSIR
