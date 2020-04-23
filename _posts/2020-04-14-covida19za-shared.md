@@ -6,6 +6,12 @@ excerpt: "Dr. Vukosi Marivate "
 image: ""
 ---
 
+## Media Coverage
+
+* COVID-19: UP research group sets up databank to empower experts and citizens with accurate info [URL](https://www.up.ac.za/news/post_2886280-covid-19-up-research-group-sets-up-databank-to-empower-experts-and-citizens-with-accurate-info)
+* Covid-19 data, stats to be made available to all [URL](https://www.iol.co.za/pretoria-news/covid-19-data-stats-to-be-made-available-to-all-46766683)
+* Filling the gaps in our Covid-19 data [URL](https://mg.co.za/article/2020-04-13-filling-the-gaps-in-our-covid-19-data/)
+
 ## IndabaX South Africa 2020 Presentation
 
 ### Slides
