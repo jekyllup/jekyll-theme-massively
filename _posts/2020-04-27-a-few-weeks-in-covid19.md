@@ -75,9 +75,9 @@ The inferences above paint a realistic picture of how the pandemic is growing in
 There are many people who have come together on this small project to collect and collate data. We also acknowledge the hard work of public servants who are crunching data across the country and continent. We will always be here for you to assist where we can.
 
 ### Github Issue Comments
-Thank you for some many who have made comments and shared their ideas on the issue page https://github.com/dsfsi/covid19za/issues
+Thank you for some many who have made comments and shared their ideas on the issue page [https://github.com/dsfsi/covid19za/issues](https://github.com/dsfsi/covid19za/issues)
 
 ### Github Contributors
 <img src="https://camo.githubusercontent.com/cd9e1e9f2cbaa6984fbc2ec3bf09f47e03021552/68747470733a2f2f636f6e7472696275746f72732d696d672e7765622e6170702f696d6167653f7265706f3d64736673692f636f76696431397a61" width="800">
-Full contributors https://github.com/dsfsi/covid19za/graphs/contributors
+Full contributors [https://github.com/dsfsi/covid19za/graphs/contributors](https://github.com/dsfsi/covid19za/graphs/contributors)
 
