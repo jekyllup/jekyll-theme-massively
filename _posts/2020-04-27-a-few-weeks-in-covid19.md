@@ -61,6 +61,7 @@ The above paint a new knowledge of how the pandemic is growing in South Africa. 
 
 * We have a preprint for looking at local language data collection and curation. We use news headlines from South African radio stations as a data source. We annotate the data by adding categories to the headlines and then training models to predict the categories. [side note: we are looking to work with South African partners who have local language text data that can be categorised like news, books etc., get in touch] Arxiv: [https://arxiv.org/abs/2003.04986](https://arxiv.org/abs/2003.04986)
 * We also have a paper in review building on our work in 2019 with DSTI Sierra Leone in developing ML models to predict school performance in SA and in Sierra Leone. DSTI Sierra Leone has been a great partner and it allows us to learn the critical step of interacting with a decision-maker and also look at creating values both ways. Arxiv: [http://arxiv.org/abs/2004.11369](http://arxiv.org/abs/2004.11369)
+* You can keep up with the covid19za work we are doing on this page - [https://dsfsi.github.io/blog/covida19za-shared/](https://dsfsi.github.io/blog/covida19za-shared/). We have a video of my talk at the Deep Learning IndabaX 2020 talking through the project.
 
 ## Acknowledgements
 There are many people who have come together on this small project to collect and collate data. We also acknowledge the hard work of public servants who are crunching data across the country and continent. We will always be here for you to assist where we can.
