@@ -13,6 +13,7 @@ I started writing this post on my thoughts on Data Science and COVID-19 in South
 We made a call with our blogpost announcing the [covid19za](https://github.com/dsfsi/covid19za) and [covid19africa](https://github.com/dsfsi/covid19africa) data repositories for more open data on the spread of the pandemic in South Africa and the African continent. We highlighted in [our first paper](https://arxiv.org/abs/2004.04813) the challenge with having to extract data from public ministry statements to build up machine-readable data. Also, we developed a large chunk of work to extract meaningful information from infographics, and as part of sharing information with many of the provinces, we have seen the proliferation infographics summarising in the current case data as follows:
 
 ### Eastern Cape
+
 <img src="https://pbs.twimg.com/media/EWh2X3dXsAADR8Y?format=jpg&name=large" width="400">
 [EC infographic](https://twitter.com/OscarMabuyane/status/1254382656743264256/photo/1)
 
@@ -24,6 +25,7 @@ We made a call with our blogpost announcing the [covid19za](https://github.com/d
 The NICD does this as well.
 
 ### NICD
+
 <img src="https://pbs.twimg.com/media/EWeDWo1XkAINYAQ?format=jpg&name=large" width="400">
 [NICD infographic](https://twitter.com/nicd_sa/status/1254115548125900800?s=20)
 
@@ -52,6 +54,7 @@ Thus, what is the story? We can see the influence of the travel ban and lockdown
 <img src="https://i0.wp.com/www.vima.co.za/wp-content/uploads/2020/04/image-1.png?w=1336" width="400">
 
 Finally, let’s look at all the provinces
+
 <img src="https://i1.wp.com/www.vima.co.za/wp-content/uploads/2020/04/image-2.png?w=1324" width="400">
 
 The above paint a new knowledge of how the pandemic is growing in South Africa. You can see the very steep decline just after lockdown and then the gradual increases after lockdown had come in and the different battles being waged in the provinces. We still have a while to go and what will become important is getting more public testing information. How each province tests is vital in us knowing if we can compare apples to apples or we are comparing apples and oranges. See this [great write up](https://ourworldindata.org/covid-testing) on Our World in Data that talks and shows visualisations about testing and COVID-19 across countries. We need to test more period. However, we need also to release our testing and screening information publicly so we can evaluate what is going on.
