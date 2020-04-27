@@ -13,17 +13,18 @@ I started writing this post on my thoughts on Data Science and COVID-19 in South
 We made a call with our blogpost announcing the [covid19za](https://github.com/dsfsi/covid19za) and [covid19africa](https://github.com/dsfsi/covid19africa) data repositories for more open data on the spread of the pandemic in South Africa and the African continent. We highlighted in [our first paper](https://arxiv.org/abs/2004.04813) the challenge with having to extract data from public ministry statements to build up machine-readable data. Also, we developed a large chunk of work to extract meaningful information from infographics, and as part of sharing information with many of the provinces, we have seen the proliferation infographics summarising in the current case data as follows:
 
 ### Eastern Cape
-![EC infographic](https://pbs.twimg.com/media/EWh2X3dXsAADR8Y?format=jpg&name=large)
+<img src="https://pbs.twimg.com/media/EWh2X3dXsAADR8Y?format=jpg&name=large" width="400">
 [EC infographic](https://twitter.com/OscarMabuyane/status/1254382656743264256/photo/1)
 
 ### North West
-![NW infographic](https://pbs.twimg.com/media/EWhfNgRXsAAJ5wk?format=jpg&name=large)
+
+<img src="https://pbs.twimg.com/media/EWhfNgRXsAAJ5wk?format=jpg&name=large" width="400">
 [NW infographic](https://twitter.com/NorthWestDOH/status/1254357196177125382?s=20)
 
 The NICD does this as well.
 
 ### NICD
-![NICD infographic](https://pbs.twimg.com/media/EWeDWo1XkAINYAQ?format=jpg&name=large)
+<img src="https://pbs.twimg.com/media/EWeDWo1XkAINYAQ?format=jpg&name=large" width="400">
 [NICD infographic](https://twitter.com/nicd_sa/status/1254115548125900800?s=20)
 
 Infographics are graphic visual representations of information, but no textual data is involved, and one of the most notable challenges about this pandemic is inaccessible accessible to open data. It would, therefore, be desirable for all provinces and national government to have a seamless page related to health and COVID-19 and health that is machine-readable by scientists for analysis the inclination of the disease to decontaminate the fear in the public domain. The infographics have added just a hurdle in getting to this.
@@ -44,15 +45,14 @@ These demonstrate the necessity for open, machine-readable data and looking at t
 
 There is a great set of [notebooks](https://github.com/k-sys/covid-19) from Kevin Systrom that cover calculating the realtime reproduction rate for COVID-19 for USA states. The first approach employs a Bayesian approach, while the other method applied Markov chain Monte Carlo (MCMC). Therefore, in this blog, we adapted the bayesian notebook on South Africa data in our repository (see: [Realtime R0 South Africa](https://github.com/dsfsi/covid19za/blob/master/notebooks/Realtime%20R0.ipynb)). First let us look at the growth of the predicaments in SA, as depicted in the smoothed graph below:
 
-![](https://pbs.twimg.com/media/EWjR5vmXgAE_gwO?format=jpg&name=large)
+<img src="https://pbs.twimg.com/media/EWjR5vmXgAE_gwO?format=jpg&name=large" width="400">
 
 Thus, what is the story? We can see the influence of the travel ban and lockdown. However, after a little while, the rate of infections started to increase due to inadequate screening and testing ability. With that, let’s look at the total realtime Rt (reproduction rate for the whole country).
 
-![](https://i0.wp.com/www.vima.co.za/wp-content/uploads/2020/04/image-1.png?w=1336)
+<img src="https://i0.wp.com/www.vima.co.za/wp-content/uploads/2020/04/image-1.png?w=1336" width="400">
 
 Finally, let’s look at all the provinces
-
-![](https://i1.wp.com/www.vima.co.za/wp-content/uploads/2020/04/image-2.png?w=1324)
+<img src="https://i1.wp.com/www.vima.co.za/wp-content/uploads/2020/04/image-2.png?w=1324" width="400">
 
 The above paint a new knowledge of how the pandemic is growing in South Africa. You can see the very steep decline just after lockdown and then the gradual increases after lockdown had come in and the different battles being waged in the provinces. We still have a while to go and what will become important is getting more public testing information. How each province tests is vital in us knowing if we can compare apples to apples or we are comparing apples and oranges. See this [great write up](https://ourworldindata.org/covid-testing) on Our World in Data that talks and shows visualisations about testing and COVID-19 across countries. We need to test more period. However, we need also to release our testing and screening information publicly so we can evaluate what is going on.
 
@@ -70,7 +70,6 @@ There are many people who have come together on this small project to collect an
 Thank you for some many who have made comments and shared their ideas on the issue page https://github.com/dsfsi/covid19za/issues
 
 ### Github Contributors
-
-![](https://camo.githubusercontent.com/cd9e1e9f2cbaa6984fbc2ec3bf09f47e03021552/68747470733a2f2f636f6e7472696275746f72732d696d672e7765622e6170702f696d6167653f7265706f3d64736673692f636f76696431397a61)
+<img src="https://camo.githubusercontent.com/cd9e1e9f2cbaa6984fbc2ec3bf09f47e03021552/68747470733a2f2f636f6e7472696275746f72732d696d672e7765622e6170702f696d6167653f7265706f3d64736673692f636f76696431397a61" width="400">
 Full contributors https://github.com/dsfsi/covid19za/graphs/contributors
 
