@@ -34,6 +34,8 @@ The NICD does this as well.
 
 Infographics are graphic visual representations of information, but no textual data is involved, and one of the most notable challenges about this pandemic is inaccessible accessible to open data. It would, therefore, be desirable for all provinces and national government to have a seamless page related to health and COVID-19 and health that is machine-readable by scientists for analysis the inclination of the disease to decontaminate the fear in the public domain. The infographics have added just a hurdle in getting to this.
 
+## What data do we capture?
+
 In South African, the below are the current repository data we have:
 
 * District Level Case Data,
