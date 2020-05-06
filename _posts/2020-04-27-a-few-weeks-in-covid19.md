@@ -10,7 +10,7 @@ I started writing this post on my thoughts on Data Science and COVID-19 in South
 
 ## Infographics aren’t data!!!
 
-We made a call with our blogpost announcing the [covid19za](https://github.com/dsfsi/covid19za) and [covid19africa](https://github.com/dsfsi/covid19africa) data repositories for more open data on the spread of the pandemic in South Africa and the African continent. We highlighted in [our first paper](https://arxiv.org/abs/2004.04813) the challenge with having to extract data from public ministry statements to build up machine-readable data. Also, we developed a large chunk of work to extract meaningful information from infographics, and as part of sharing information with many of the provinces, we have seen the proliferation infographics summarising in the current case data as follows:
+We made a call with our blogpost announcing the [covid19za](https://github.com/dsfsi/covid19za) and [covid19africa](https://github.com/dsfsi/covid19africa) data repositories for more open data on the spread of the pandemic in South Africa and the African continent. We highlighted in [our first paper](https://datascience.codata.org/articles/10.5334/dsj-2020-019/) the challenge with having to extract data from public ministry statements to build up machine-readable data. Also, we developed a large chunk of work to extract meaningful information from infographics, and as part of sharing information with many of the provinces, we have seen the proliferation infographics summarising in the current case data as follows:
 
 ### Eastern Cape
 
