@@ -52,9 +52,12 @@ These demonstrate the necessity for open, machine-readable data and looking at t
 
 There is a great set of [notebooks](https://github.com/k-sys/covid-19) from Kevin Systrom that cover calculating the realtime reproduction rate for COVID-19 for USA states. The first approach employs a Bayesian approach, while the other method applied Markov chain Monte Carlo (MCMC). Therefore, in this blog, we adapted the bayesian notebook on South Africa data in our repository (see: [Realtime R0 South Africa](https://github.com/dsfsi/covid19za/blob/master/notebooks/Realtime%20R0.ipynb)). First let us look at the growth of the predicaments in SA, as depicted in the smoothed graph below:
 
+
 <img src="https://pbs.twimg.com/media/EWjR5vmXgAE_gwO?format=jpg&name=large" width="800">
 
 Thus, what is the story? We can see the influence of the travel ban and lockdown. However, after a little while, the rate of infections started to increase due to inadequate screening and testing ability. With that, let’s look at the total realtime Rt (reproduction rate for the whole country).
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~VukosiMarivate/20.embed"></iframe>
 
 <img src="https://i0.wp.com/www.vima.co.za/wp-content/uploads/2020/04/image-1.png?w=1336" width="800">
 
