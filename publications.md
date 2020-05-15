@@ -19,7 +19,7 @@ sitemap:
 * V Marivate, HMvE Combrink. Use of Available Data To Inform The COVID-19 Outbreak in South Africa: A Case Study. *Data Science Journal* [[Publication]](https://doi.org/10.5334/dsj-2020-019) [Soc]
 * M Naidoo, V Marivate. Unsupervised Anomaly Detection of Healthcare Providers using Generative Adversarial Networks. *Responsible Design, Implementation and Use of Information and Communication Technology* [[Paper URL](https://link.springer.com/chapter/10.1007/978-3-030-44999-5_35)] [ML][Soc]
 * Masakhane -- Machine Translation For Africa. *Africa NLP Workshop - ICLR 2020* [[preprint]](https://arxiv.org/abs/2003.11529) [NLP]
-* V Marivate, T Sefara, V Chabalala, K Makhaya, T Mokgonyane, R Mokoena, A Modupe. Investigating an approach for low resource language dataset creation, curation and classification: Setswana and Sepedi. *Resources for African Indigenous Languages (RAIL) workshop at LREC 2020*. [[preprint](https://arxiv.org/abs/2003.04986)][ML][NLP] 
+* V Marivate, T Sefara, V Chabalala, K Makhaya, T Mokgonyane, R Mokoena, A Modupe. Investigating an approach for low resource language dataset creation, curation and classification: Setswana and Sepedi. *Proceedings of the First workshop on Resources for African Indigenous Languages (RAIL), pages 15–20*. [[preprint](https://arxiv.org/abs/2003.04986)][ML][NLP] 
 
 ### 2019
 
