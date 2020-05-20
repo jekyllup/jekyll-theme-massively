@@ -25,8 +25,14 @@ We do a number of projects with partners and collaborators. See below. This list
 
 ## Datasets
 
+* [Coronavirus COVID-19 (2019-nCoV) Data Repository for South Africa](https://github.com/dsfsi/covid19za)
+* [Coronavirus COVID-19 (2019-nCoV) Data Repository for Africa](https://github.com/dsfsi/covid19africa)
 * [African Pre-Trained Embeddings [NLP]](https://zenodo.org/record/3668481)
 * [South African News Data](https://zenodo.org/record/3668495)
+
+## Software or Libraries
+
+* [TextAugment](https://github.com/dsfsi/textaugment)
 
 ## Data Donors
 
