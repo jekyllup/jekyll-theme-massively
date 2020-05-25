@@ -3,10 +3,9 @@ layout: post
 title:  "Mapping the South African health facility landscape in response to COVID-19"
 date:   2020-05-25
 excerpt: "N Mtsweni, H Combrink, A Van der Walt, V Marivate"
-image: ""
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/flourish.png"
 ---
 
-## Introduction
 As we now move to the next phase of our country's experience of COVID-19 and its responses, we continue to look back at what the covid19za project has been busy with over the last 2 months. Our focus for this write up is on understanding our health system capacity. The lack of updated openly available health system data (data about hospitals, clinics and health resources) was identified early on in the project as a challenge. Little did project members know how much work would have to go into getting data and making it accessible. In this post, we discuss these challenges, present what has been achieved so far and propose the next steps. 
 
 ## Where we were
@@ -57,10 +56,17 @@ We have made progress with getting data but it is still not enough. Over the nex
 
 A project that has been inspirational to us, specifically in terms of sharing the number of beds available, is [this volunteer project](https://coronavis.dbvis.de/en/) that allows for the visualisation of intensive care unit bed capacities of German hospitals. 
 
+![](https://github.com/dsfsi/dsfsi.github.io/raw/master/images/testingmap.png)
+
+
 Some of the outputs from the healthcare facilities data collected by the team so far include:
+![](https://github.com/dsfsi/dsfsi.github.io/raw/master/images/germanicu.png)
+
 
 -a [COVID-19 testing map](https://www.ineff.ch/cov19testmap/) developed by a Switzerland based entrepreneur with more explanations in [this article](https://www.ineff.ch/2020-04-03-The-COVID-19-Testing-Facility-Map/); and 
+
 -a collection of South Africa’s healthcare facilities visualizations developed by us (Nompumelelo with the input from Anelda, Vukosi and Herkulaas).
+
 
 ## Where to next
 
