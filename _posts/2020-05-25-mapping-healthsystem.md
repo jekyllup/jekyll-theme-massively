@@ -6,8 +6,6 @@ excerpt: "N Mtsweni, H Combrink, A Van der Walt, V Marivate"
 image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/flourish.png"
 ---
 
-![](https://github.com/dsfsi/dsfsi.github.io/raw/master/images/flourish.png)
-
 As we now move to the next phase of our country's experience of COVID-19 and its responses, we continue to look back at what the covid19za project has been busy with over the last 2 months. Our focus for this write up is on understanding our health system capacity. The lack of updated openly available health system data (data about hospitals, clinics and health resources) was identified early on in the project as a challenge. Little did project members know how much work would have to go into getting data and making it accessible. In this post, we discuss these challenges, present what has been achieved so far and propose the next steps. 
 
 ## Where we were
