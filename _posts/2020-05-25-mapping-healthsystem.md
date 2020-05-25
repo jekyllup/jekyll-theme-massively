@@ -3,10 +3,11 @@ layout: post
 title:  "Mapping the South African health landscape in response to COVID-19"
 date:   2020-05-25
 excerpt: "N Mtsweni, H Combrink, A Van der Walt, V Marivate"
-image: ""
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/flourish.png"
 ---
 
-## Introduction
+![](https://github.com/dsfsi/dsfsi.github.io/raw/master/images/flourish.png)
+
 As we now move to the next phase of our country's experience of COVID-19 and its responses, we continue to look back at what the covid19za project has been busy with over the last 2 months. Our focus for this write up is on understanding our health system capacity. The lack of updated openly available health system data (data about hospitals, clinics and health resources) was identified early on in the project as a challenge. Little did project members know how much work would have to go into getting data and making it accessible. In this post, we discuss these challenges, present what has been achieved so far and propose the next steps. 
 
 ## Where we were
@@ -54,10 +55,14 @@ We have made progress with getting data but it is still not enough. Over the nex
 
 A project that has been inspirational to us, in sharing health care data,  specifically the number of beds available,  is this volunteer project that produceda  German map visualisings intensive care unit (ICU) bed capacities of German hospitals. 
 
-Some of the outputs from the healthcare facilities data collected by the team so far includes:
+![](https://github.com/dsfsi/dsfsi.github.io/raw/master/images/germanicu.png)
 
+Some of the outputs from the healthcare facilities data collected by the team so far includes:
 -This COVID19 testing map developed by a Switzerland based Entrepreneur. This article explains more.
--This collection of South Africa’s healthcare facilities visualizations developed by us   ( Nompumelelo with the help of Anelda, Vukosi and Herkulaas.)
+
+![](https://github.com/dsfsi/dsfsi.github.io/raw/master/images/testingmap.png)
+
+-This collection of South Africa’s healthcare facilities visualizations developed by us   (Nompumelelo with the help of Anelda, Vukosi and Herkulaas.)
 Where to next
 From where we are now, our next goal is to complete other missing parts and update the dataset with the current developments made by the state. Developments such as upgrading of public hospitals, additions of beds in some hospitals and development of field hospitals for triage. Populating the dataset with data related to these current developments prepare for the surge of  COVID19 that is anticipated to peak in a few months from now.
 
