@@ -1,14 +1,15 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.2.2)
+    activesupport (6.0.3.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
+      zeitwerk (~> 2.2, >= 2.2.2)
     addressable (2.4.0)
     colorator (1.1.0)
-    concurrent-ruby (1.1.4)
+    concurrent-ruby (1.1.6)
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
     ffi (1.10.0)
@@ -16,7 +17,7 @@ GEM
     html-pipeline (2.10.0)
       activesupport (>= 2)
       nokogiri (>= 1.4)
-    i18n (1.5.2)
+    i18n (1.8.2)
       concurrent-ruby (~> 1.0)
     jekyll (3.2.1)
       colorator (~> 1.0)
@@ -49,7 +50,7 @@ GEM
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
     mini_portile2 (2.4.0)
-    minitest (5.11.3)
+    minitest (5.14.1)
     multipart-post (2.0.0)
     nokogiri (1.10.1)
       mini_portile2 (~> 2.4.0)
@@ -72,8 +73,9 @@ GEM
       addressable (>= 2.3.5, < 2.6)
       faraday (~> 0.8, < 1.0)
     thread_safe (0.3.6)
-    tzinfo (1.2.5)
+    tzinfo (1.2.7)
       thread_safe (~> 0.1)
+    zeitwerk (2.3.0)
 
 PLATFORMS
   ruby
