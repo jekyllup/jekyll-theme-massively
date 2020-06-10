@@ -17,9 +17,11 @@ The group is made up of a number of people who work on a few themes.
 ## PhD Students
 
 * Abiodun Modupe [Wits][NLP, ML, SM]
+* Baphumelele Masikisiki [UP][NLP,Soc]
 * Herkulaas Combrink [UP][ML,Soc]
 * Mpho Mokoatle [UP][NLP,Soc]
 * Rockerfeller [AIMS][ML,Soc]
+* Temitope Kekere [UP][NLP,Soc]
 
 ## Masters
 
