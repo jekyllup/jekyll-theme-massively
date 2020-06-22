@@ -26,11 +26,11 @@ As we now move to the next phase of our country's experience of COVID-19 and its
 ### Notes
 
 #### Publicly available datasets
-* Deep globe building extraction: https://competitions.codalab.org/competitions/18544#learn_the_details
-* DeepGlobe Land Cover Classification: https://competitions.codalab.org/competitions/18468#participate
-* DeepGlobe Road Extraction:https://competitions.codalab.org/competitions/18467#participate
-* Dstl Satellite Imagery Feature Detection: https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/data
-* UC Merced Land Use Dataset: http://weegee.vision.ucmerced.edu/datasets/landuse.html
-* The UAVid dataset: https://uavid.nl/
-* US National Land Cover Database: https://www.usgs.gov/centers/eros/science/national-land-cover-database?qt-science_center_objects=0#qt-science_center_objects
-* Chesapeake Conservancy land cover classification datasets: https://chesapeakeconservancy.org/conservation-innovation-center/high-resolution-data/land-cover-data-project/
+* Deep globe building extraction: [URL](https://competitions.codalab.org/competitions/18544#learn_the_details)
+* DeepGlobe Land Cover Classification: [URL](https://competitions.codalab.org/competitions/18468#participate)
+* DeepGlobe Road Extraction: [URL](https://competitions.codalab.org/competitions/18467#participate)
+* Dstl Satellite Imagery Feature Detection: [URL](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/data)
+* UC Merced Land Use Dataset: [URL](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
+* The UAVid dataset: [URL](https://uavid.nl/)
+* US National Land Cover Database: [URL](https://www.usgs.gov/centers/eros/science/national-land-cover-database?qt-science_center_objects=0#qt-science_center_objects)
+* Chesapeake Conservancy land cover classification datasets: [URL](https://chesapeakeconservancy.org/conservation-innovation-center/high-resolution-data/land-cover-data-project/)
