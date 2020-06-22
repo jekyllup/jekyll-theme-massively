@@ -23,6 +23,8 @@ As we now move to the next phase of our country's experience of COVID-19 and its
 
 ### Video
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lBcjeYFmmqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Notes
 
 #### Publicly available datasets
