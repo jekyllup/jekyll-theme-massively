@@ -17,7 +17,7 @@ Amelia graduated with a PhD in Mathematical Logic from Heriot-Watt University in
 
 ## Video, Slides and Notes
 
-* [Slides]()
+* [Slides](https://docs.google.com/presentation/d/1DyBu0TTzMUUKSTxq_FTaXpmSW-qoKb3GHJ_P616xMOc/edit?usp=sharing)
 
 ### Video
 
