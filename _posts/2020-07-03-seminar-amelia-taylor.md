@@ -22,5 +22,6 @@ Amelia graduated with a PhD in Mathematical Logic from Heriot-Watt University in
 ### Video
 
 ### Notes
-
+* AfricaLii - [https://africanlii.org/](https://africanlii.org/)
+* Kenya Case Law [http://kenyalaw.org/kl/](http://kenyalaw.org/kl/)
 
