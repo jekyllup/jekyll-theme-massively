@@ -21,4 +21,4 @@ Dr. Nsoesie is an Assistant Professor of Global Health at Boston University (BU)
 
 ### Video
 
-<iframe width="1120" height="630" src="https://www.youtube-nocookie.com/embed/BX_LDNkgEhk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube-nocookie.com/embed/vx7HtJIawxY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
