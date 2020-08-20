@@ -9,12 +9,8 @@ sitemap:
 ---
 
 ### Work in Progress
-
-
 * H Wandera, V Marivate, D Sengeh. Investigating similarities and differences between South African and Sierra Leonean school outcomes using Machine Learning [[preprint]](https://arxiv.org/abs/2004.11369) [ML][SOC] 
 * V Marivate, A Moodley, A Saba. Extracting and categorising the reactions to COVID-19 by the South African public -- A social media study [[preprint]](https://arxiv.org/abs/2006.06336) [ML][NLP][SOC]
-* V Marivate, T Sefara. Improving short text classification through global augmentation methods [[preprint]](https://arxiv.org/abs/1907.03752) [ML][NLP] 
-
 
 ### 2020
 * V Marivate, T Sefara. Improving short text classification through global augmentation methods. *Machine Learning and Knowledge Extraction. CD-MAKE 2020. Lecture Notes in Computer Science* [[preprint]](https://arxiv.org/abs/1907.03752) [[URL](https://link.springer.com/chapter/10.1007%2F978-3-030-57321-8_21) [ML][NLP] 
