@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Scienence for Society Semina <> Massive vs. Curated Embeddings for Low-Resourced Languages: the Case of Yorùbá and Twi"
+title:  "Data Science for Society Seminar <> Massive vs. Curated Embeddings for Low-Resourced Languages: the Case of Yorùbá and Twi"
 date:   2020-09-04
 excerpt: "Jesujoba Alabi"
 image: 
