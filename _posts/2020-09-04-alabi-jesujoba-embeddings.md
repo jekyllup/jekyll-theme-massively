@@ -17,7 +17,7 @@ Jesujoba Alabi is a Computer Science student at Saarland University. He was a re
 
 ### Slides
 
-* [Workshop Slides]()
+* [Workshop Slides](https://drive.google.com/file/d/1kFdjsyv2JF3sqSXKBNFY1VCO-izz_-Ev/view?usp=sharing)
 
 ### Video
 
