@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Data Science for Society Seminar: Scientific Writing Workshop"
-date:   2020-08-14
-excerpt: "Dr. Elaine Nsoesie - Participants will get a high-level introduction to writing and publishing scientific papers"
+title:  "Data Scienence for Society Semina <> Massive vs. Curated Embeddings for Low-Resourced Languages: the Case of Yorùbá and Twi"
+date:   2020-09-04
+excerpt: "Jesujoba Alabi"
 image: 
 ---
 
 ## Talk Details
 ### Abstract
-The University of Pretoria in collaboration with Rethe.org is organizing a scientific writing webinar. Participants will get a high-level introduction to writing and publishing scientific papers; discuss sample papers and learn how to write each section of a scientific paper including the Introduction, Materials and Methods, Results and Discussions. 
+The success of several architectures to learn semantic representations from unannotated text and the availability of this kind of texts in online multilingual resources such as Wikipedia has facilitated the massive and automatic creation of resources for multiple languages. The evaluation of such resources is usually done for the high-resourced languages, where one has a smorgasbord of tasks and test sets to evaluate on. For low-resourced languages, the evaluation is more difficult and normally ignored, with the hope that the impressive capability of deep learning architectures to learn (multilingual) representations in the high-resource setting holds in the low-resourced setting too. In this paper we focus on two African languages, Yorùbá and Twi, and compare the word embeddings obtained in this way, with word embeddings obtained from curated corpora and a language-dependent processing. We analyse the noise in the publicly available corpora, collect high quality and noisy data for the two languages and quantify the improvements that depend not only on the amount of data but on the quality too. We also use different architectures that learn word representations both from surface forms and characters to further exploit all the available information which showed to be important for these languages. For the evaluation, we manually translate the wordsim-353 word pairs dataset from English into Yorùbá and Twi.  We extend the analysis to contextual word embeddings and evaluate multilingual BERT on a named entity recognition task. For this, we annotate with named entities the Global Voices corpus for Yorùbá . As the output of the work, we provide corpora, embeddings and the test suites for both languages
 
 ### Speaker Bio
-Dr. Nsoesie is an Assistant Professor of Global Health at Boston University (BU) School of Public Health. She has a PhD in Computational Epidemiology from the Genetics, Bioinformatics and Computational Biology program at Virginia Tech. She also has an MS in Statistics and a BS in Mathematics. Her research is focused on the use of digital data and technology for public health surveillance. She is a founding member of BU’s Faculty of Computing & Data Sciences, a Data Science Faculty Fellow at the Hariri Institute and a Data and Innovation Fellow at the Directorate of Science, Technology and Innovation (DSTI) in the Office of the President in Sierra Leone. She is on the advisory board of Data Science Africa and Data Science Nigeria. She is also the founder of Rethé  -  an initiative focused on providing scientific writing tools and resources to student communities in Africa in order to increase representation in scientific publications. She has written for NPR, The Conversation, Public Health Post. Think Global Health and Quartz. Dr. Nsoesie was born and raised in Cameroon.
+Jesujoba Alabi is a Computer Science student at Saarland University. He was a research assistant at the Multilinguality and Language Technology research group, German Research Centre for Artificial Intelligence, (DFKI) Saarbrücken where he is currently taking his master's thesis. He is currently a research assistant at the Database and Information Systems group at the Max Planck Institute for Informatics (MPI-INF), where he works on Question Answering Systems. His research interests include Machine Translation, NLP for low resource setting, Information Extraction and Question Answering Systems.
 
 ## Video, Slides and Notes
 
