@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Science for Society Seminar <> Approximating the convolutional filters in the feature map of a radio interferometer"
-date:   2020-09-04
+date:   2020-09-18
 excerpt: "Marcel Atemkeng - The sky that a radio telescope such as the SKA observes (the feature map) is the true sky involved with a convolutional filter (the weighted sampling function). This convolution filter varies across the feature map and is different at each pixel."
 image: 
 ---
