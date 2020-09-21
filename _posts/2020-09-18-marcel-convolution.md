@@ -17,7 +17,7 @@ Dr. Marcel Atemkeng is a researcher with more than 5 years' experience in high-b
 
 ### Slides
 
-* [Slides]()
+* [Slides](https://drive.google.com/file/d/1v8Cn3dp6izoNc0-6bZpW8USFDTrNT0L8/view?usp=sharing)
 
 ### Video
 
