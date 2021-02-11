@@ -12,7 +12,11 @@ sitemap:
 * H Wandera, V Marivate, D Sengeh. Investigating similarities and differences between South African and Sierra Leonean school outcomes using Machine Learning [[preprint]](https://arxiv.org/abs/2004.11369) [ML][SOC] 
 * V Marivate, A Moodley, A Saba. Extracting and categorising the reactions to COVID-19 by the South African public -- A social media study [[preprint]](https://arxiv.org/abs/2006.06336) [ML][NLP][SOC]
 
+### 2021
+
 ### 2020
+* Vukosi Marivate. Why African natural language processing now? A view from South Africa #AfricaNLP. *Leap 4.0: African Perspectives on the Fourth Industrial Revolution.* [ML][NLP]
+* Masakhane et. al., Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages. *Findings of EMNLP*.
 * V Marivate, T Sefara. Improving short text classification through global augmentation methods. *Machine Learning and Knowledge Extraction. CD-MAKE 2020. Lecture Notes in Computer Science* [[preprint]](https://arxiv.org/abs/1907.03752) [[URL]](https://link.springer.com/chapter/10.1007%2F978-3-030-57321-8_21) [ML][NLP] 
 * N Mtsweni, H MvE Combrink, V Marivate. Mapping the South African health landscape in response to COVID-19. *KDD 2020 Workshop on Humanitarian Mapping*. [[preprint]](https://arxiv.org/abs/2006.15216) [SOC]
 * V Marivate, HMvE Combrink. Use of Available Data To Inform The COVID-19 Outbreak in South Africa: A Case Study. *Data Science Journal* [[Publication]](https://doi.org/10.5334/dsj-2020-019) [Soc]
