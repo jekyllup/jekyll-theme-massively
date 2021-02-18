@@ -4,7 +4,7 @@ title: Data Science for Social Impact - Publications
 description: 
 sitemap:
     priority: 0.7
-    lastmod: 2020-08-20
+    lastmod: 2021-20-18
     changefreq: weekly
 ---
 
@@ -13,9 +13,11 @@ sitemap:
 * V Marivate, A Moodley, A Saba. Extracting and categorising the reactions to COVID-19 by the South African public -- A social media study [[preprint]](https://arxiv.org/abs/2006.06336) [ML][NLP][SOC]
 
 ### 2021
+* H Ngejana, J Eloff, T Sefara, V Marivate. Digital forensics supported by machine learning for the detection of online sexual predatory chats.*Forensic Science International: Digital Investigation* [[Paper URL](https://www.sciencedirect.com/science/article/pii/S2666281721000032)] [NLP][SOC]
+* Sefara, T.J., Mokgonyane, T.B. and Marivate, V., 2021. Practical Approach on Implementation of WordNets for South African Languages. *In Proceedings of the Eleventh Global Wordnet Conference*. [[Paper URL]()] [[Dataset URL](https://zenodo.org/record/4299515)] [[Python Library](https://pypi.org/project/africanwordnet/)]
 
 ### 2020
-* Vukosi Marivate. Why African natural language processing now? A view from South Africa #AfricaNLP. *Leap 4.0: African Perspectives on the Fourth Industrial Revolution.* [ML][NLP] [[Working Paper URL](https://mistra.org.za/mistra-media/why-african-natural-language-processing-now-a-view-from-south-africa-africanlp/)]
+* V Marivate. Why African natural language processing now? A view from South Africa #AfricaNLP. *Leap 4.0: African Perspectives on the Fourth Industrial Revolution.* [ML][NLP] [[Working Paper URL](https://mistra.org.za/mistra-media/why-african-natural-language-processing-now-a-view-from-south-africa-africanlp/)]
 * Masakhane et. al., Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages. *Findings of EMNLP*.[[Paper URL](https://www.aclweb.org/anthology/2020.findings-emnlp.195.pdf)]
 * V Marivate, T Sefara. Improving short text classification through global augmentation methods. *Machine Learning and Knowledge Extraction. CD-MAKE 2020. Lecture Notes in Computer Science* [[preprint]](https://arxiv.org/abs/1907.03752) [[URL]](https://link.springer.com/chapter/10.1007%2F978-3-030-57321-8_21) [ML][NLP] 
 * N Mtsweni, H MvE Combrink, V Marivate. Mapping the South African health landscape in response to COVID-19. *KDD 2020 Workshop on Humanitarian Mapping*. [[preprint]](https://arxiv.org/abs/2006.15216) [SOC]
