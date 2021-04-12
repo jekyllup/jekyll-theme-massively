@@ -1,0 +1,100 @@
+---
+layout: post
+title: Vue.js 1.시작하기
+date: 2021-04-05 13:35:20 +0200
+tags:
+categories: Vue.js
+---
+
+##### Vue.js 시작하기
+
+##### 1. Vue.js란?
+
+##### 2. 개발환경 설정
+
+##### 3. Vue.js 애플리케이션 예제
+
+---
+
+#### 1. Vue.js란?
+
+##### Vue.js의 특징
+
+-   유연하고 가볍다.
+
+    (전체 아키텍처 새로 구성 X, 일부 UI화면만 적용)
+
+-   React와 마찬가지로 가상 DOM을 지원하고 있다. (빠른 렌더링 속도 지원)
+
+-   MVVM 패턴을 따르고 있다.
+
+![MVVM 패턴](/images/MVVM.png "MVVM 패턴"){: width="700"}
+
+---
+
+#### 2. 개발환경 설정
+
+{% highlight markdown %}
+
+1. Node.js 설치 : npm install -g npm
+2. Visual Studio Code 설치
+3. Vue.js devtools 설치
+4. Vue-CLI 설치 : npm install -g yarn @vue/cli
+5. 새 프로젝트 생성 : vue create [프로젝트 폴더명] / ‘Vue 프로젝트 매니저’ 이용
+
+{% endhighlight %}
+
+---
+
+#### 3. Vue.js 애플리케이션 예제
+
+{% highlight html %}
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>hello vue.js</title>
+  <script src="https://unpkg.com/vue@2.5.16/dist/vue.js"></script>
+</head>
+<body>
+  <div id="simple">
+    <h2>{{message}}</h2>
+  </div>
+  <script type="text/javascript">
+    var model = {
+      message : '첫번째 Vue.js 앱 입니다!'
+    };
+
+    var simple = new Vue({
+      el : '#simple',
+      data : model
+    })
+
+  </script>
+</body>
+</html>
+
+{% endhighlight %}
+
+---
+
+##### 실행결과
+
+![실행결과1](/images/ch01.png){: width="880"}
+
+---
+
+![실행결과2](/images/ch01-2.png){: width="880"}
+
+{% highlight markdown %}
+
+# Console에서 변수의 값을 직접 변경.
+
+{% endhighlight %}
+
+---
+
+> MVVM 구조는 생소했으나, 익숙해져서 실제 프로젝트에도 적용하게 되면 구조 수정도 용이해질 것이다.  
+팀 프로젝트에는 MVC 구조를 사용했는데, Eclipse에서 수많은 패키지와 클래스를 수정하느라 번거로웠다.  
+아직은 예제 작성밖에 못하고, 개념도 확실히 이해하지 못했지만, MVVM 구조에 익숙해지면 코드 수정에 할애하는 시간이 훨씬 단축될 것이다.

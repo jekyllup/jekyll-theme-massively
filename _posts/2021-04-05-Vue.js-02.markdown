@@ -1,0 +1,212 @@
+---
+layout: post
+title: Vue.js 2.Vue.js기초
+date: 2021-04-05 13:35:20 +0200
+tags:
+categories: Vue.js
+---
+
+##### Vue.js기초
+
+##### 1. hellovuejs 예제 분석
+
+##### 2. 기본 디렉티브
+
+##### 3. 반복 렌더링 디렉티브
+
+##### 4. 기타 디렉티브
+
+##### 5. 계산형 속성
+
+##### 6. 계산형 속성 예제
+
+---
+
+#### 1. hellovuejs 예제 분석
+
+##### hellovuejs 예제
+
+```javascript
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>02-01</title>
+</head>
+<body>
+  <div id="simple">
+    <h2>{{message}}</h2>
+  </div>
+  <script src="https://unpkg.com/vue@2.5.16/dist/vue.js"></script>
+  <script type="text/javascript">
+    /* 모델(Model) 객체
+     * 데이터를 가지고있다.
+     */
+    var model = {
+      message : '첫번째 Vue.js 앱 입니다!'
+    };
+
+    /* Vue 객체이자 뷰모델(ViewModel) 객체
+     * 데이터(모델)가 변경되면 뷰모델 객체는 즉시 HTML요소(뷰)에 반영.
+     */
+    var simple = new Vue({
+      el : '#simple',                   // el : HTML요소(Element)
+      data : model                      // 모델 객체를 참조
+    })
+  </script>
+</body>
+</html>
+
+```
+
+---
+
+#### 2. 기본 디렉티브
+##### 단방향 디렉티브
+###### // HTML 요소에서 값을 변경하더라도 모델 객체의 값이 바뀌지 않는다.
+
+- v-text : innerText 속성에 연결됨. 태그 문자열을 HTML 인코딩하여 나타내기 때문에 화면에는 태그 문자열이 그대로 나타남.
+- v-html : innterHTML 속성에 연결됨. 태그 문자열을 파싱하여 화면에 나타냄.  
+// v-html 디렉티브는 XSS(Cross Site Scripting) 공격에 취약. 꼭 필요한 경우가 아니라면 v-text를 사용하는 것이 안전.
+- v-bind : 요소 객체들의 속성들을 바인딩하기 위해 사용.  
+// v-bind 생략가능. ex) v-bind:src → :src  
+
+
+
+##### 양방향 디렉티브
+- v-model : 요소에서 변경한 값이 모델 객체에 반영.
+    + lazy : 입력폼에서 이벤트가 발생할 때 입력한 값을 데이터와 동기화.
+    + number : 숫자가 입력될 경우 number 타입으로 자동 형변환.
+    + trim : 문자열 앞뒤 공백 자동 제거.
+
+
+
+##### v-show, v-if, v-else, v-else-if 디렉티브
+// v-show와 v-if의 차이 : 실제 렌더링 여부
+- v-show : <mark style='background-color: #fff5b1'> HTML요소를 렌더링 후</mark> display 스타일 속성으로 화면에 보여줄지 여부를 결정.
+- v-if : 조건에 부합되지 않으면 렌더링 X.
+- v-else-if : 자바스크립트, C언어, 자바에서 사용하는 if ~ else  if ~ else 구문와 동일한 기능.
+
+---
+
+#### 3. 반복 렌더링 디렉티브
+- v-for : 자바스크립트 언어의 for문과 유사.  
+    // 원본데이터 형식에 따라 사용 방법이 달라짐.
+    - 배열 or 유사 배열 : v-for="[배열 데이터] in [배열 이름]"
+    - 객체(해시맵 구조) : v-for="(val , key) in [배열 이름]
+
+    // v-for로 렌더링한 배열 데이터의 순서가 변경되면 기존 DOM 요소의 데이터를 변경.  
+    // DOM 요소를 추척하여 DOM 요소의 위치를 직접 변경 → DOM 요소에 key 특성(Attribute) 부여.  
+    // v-bind 디렉티브를 이용해 key 특성에 고유한 값 부여.  
+    // DB를 조회하여 얻어낸 결과를 렌더링 → key 특성에 기본기(Primary key)값 바인딩.  
+
+
+##### \<template> 태그
+// 여러 요소의 그룹을 반복 렌더링
+- \<template>태그는 렌더링 내용에 포함 X.
+- 단지 요소들을 그룹으로 묶어주기 위한 용도로 사용.
+
+---
+
+#### 4. 기타 디렉티브
+- v-pre : 템플릿 문자열을 컴파일하지 않고 그대로 내보냄.
+- v-once : HTML 요소를 단 한 번만 렌더링.
+- v-clock : 화면 초기에 컴파일 되지 않은 템플릿은 나타나지 않도록 할 수 있음.  
+// 콧수염 표현식이 화면에 일시적으로 나타나는 경우에 사용. (복잡한 UI일수록 빈번.)
+
+---
+
+#### 5. 계산형 속성
+###### // 연산 로직이 필요한 경우
+- computed 속성과 함께 함수를 등록해두면 속성처럼 이용 가능.
+- 함수 내부 this는 Vue 객체 자신을 참조.
+- 함수 내부에서 다른 콜백 함수 실행 → this가 다른 값으로 연결.
+- number 타입을 사용하려면 Number() 함수나 ParseInt() 함수를 이용해 명시적으로 숫자 값으로 변환.
+
+---
+
+#### 6. 계산형 속성 예제
+~~~ javascript
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>02-17</title>
+<style>
+    #list  { width: 400px; border:1px solid black; border-collapse:collapse; }
+    #list td, #list th { border:1px solid black;  text-align:center; }
+    #list > thead > tr { color:yellow; background-color: purple; }
+</style>
+<script src="https://unpkg.com/vue@2.5.16/dist/vue.js"></script>
+</head>
+<body>
+    <div id="exmaple">
+    <p>
+    국가명 : <input type="text" :value="countryname" placeholder="국가명" @input="nameChanged" />
+    </p>
+	<table id="list">
+		<thead>
+			<tr>
+                <th>번호</th><th>국가명</th><th>수도</th><th>지역</th>
+            </tr>
+		</thead>
+		<tbody id="contacts">
+            <tr v-for="c in filtered">
+                <td>{{c.no}}</td>
+                <td>{{c.name}}</td>
+                <td>{{c.capital}}</td>
+                <td>{{c.region}}</td>
+            </tr>
+		</tbody>
+	</table>
+    </div>
+    <script type="text/javascript">
+	var model = {
+        countryname : "",
+        countries : [
+            { no:1,  name : "미국", capital : "워싱턴DC", region:"america" },
+            { no:2,  name : "프랑스", capital : "파리", region:"europe" },
+            { no:3,  name : "영국", capital : "런던", region:"europe" },
+            { no:4,  name : "중국", capital : "베이징", region:"asia" },
+            { no:5,  name : "태국", capital : "방콕", region:"asia" },
+            { no:6,  name : "모로코", capital : "라바트", region:"africa" },
+            { no:7,  name : "라오스", capital : "비엔티안", region:"asia" },
+            { no:8,  name : "베트남", capital : "하노이", region:"asia" },
+            { no:9,  name : "피지", capital : "수바", region:"oceania" },
+            { no:10,  name : "솔로몬 제도", capital : "호니아라", region:"oceania" },
+            { no:11,  name : "자메이카", capital : "킹스턴", region:"america" },
+            { no:12,  name : "나미비아", capital : "빈트후크", region:"africa" },
+            { no:13,  name : "동티모르", capital : "딜리", region:"asia" },
+            { no:14,  name : "멕시코", capital : "멕시코시티", region:"america" },
+            { no:15,  name : "베네수엘라", capital : "카라카스", region:"america" },
+            { no:16,  name : "서사모아", capital : "아피아", region:"oceania" }
+   	    ]
+    }
+
+    var clist = new Vue({
+        el : "#exmaple",
+        data : model,
+        computed : {
+            filtered : function() {
+                var cname = this.countryname.trim();
+                return this.countries.filter(function(item,index) {
+                    if (item.name.indexOf(cname) > -1) {
+                        return true;
+                    }
+                });
+            }
+        },
+        methods : {
+            nameChanged : function(e) {
+                this.countryname = e.target.value;
+            }
+        }
+    });
+    </script>
+</body>
+</html>
+~~~
+
+{% highlight markdown %}
+---
