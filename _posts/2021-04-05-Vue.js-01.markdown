@@ -34,21 +34,17 @@ categories: Vue.js
 
 #### 2. 개발환경 설정
 
-{% highlight markdown %}
-
 1. Node.js 설치 : npm install -g npm
 2. Visual Studio Code 설치
 3. Vue.js devtools 설치
 4. Vue-CLI 설치 : npm install -g yarn @vue/cli
 5. 새 프로젝트 생성 : vue create [프로젝트 폴더명] / ‘Vue 프로젝트 매니저’ 이용
 
-{% endhighlight %}
-
 ---
 
 #### 3. Vue.js 애플리케이션 예제
 
-{% highlight html %}
+~~~javascript
 
 <!DOCTYPE html>
 <html>
@@ -75,7 +71,7 @@ categories: Vue.js
 </body>
 </html>
 
-{% endhighlight %}
+~~~
 
 ---
 

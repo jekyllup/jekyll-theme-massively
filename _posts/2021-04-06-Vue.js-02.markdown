@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vue.js 2.Vue.js기초
-date: 2021-04-05 13:35:20 +0200
+date: 2021-04-06 13:35:20 +0200
 tags:
 categories: Vue.js
 ---
@@ -209,4 +209,6 @@ categories: Vue.js
 ~~~
 
 {% highlight markdown %}
+
+{% endhighlight %}
 ---

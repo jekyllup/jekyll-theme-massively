@@ -1,0 +1,217 @@
+I"�o<h5 id="vuejs기초">Vue.js기초</h5>
+
+<h5 id="1-hellovuejs-예제-분석">1. hellovuejs 예제 분석</h5>
+
+<h5 id="2-기본-디렉티브">2. 기본 디렉티브</h5>
+
+<h5 id="3-반복-렌더링-디렉티브">3. 반복 렌더링 디렉티브</h5>
+
+<h5 id="4-기타-디렉티브">4. 기타 디렉티브</h5>
+
+<h5 id="5-계산형-속성">5. 계산형 속성</h5>
+
+<h5 id="6-계산형-속성-예제">6. 계산형 속성 예제</h5>
+
+<hr />
+
+<h4 id="1-hellovuejs-예제-분석-1">1. hellovuejs 예제 분석</h4>
+
+<h5 id="hellovuejs-예제">hellovuejs 예제</h5>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="o">&lt;!</span><span class="nx">DOCTYPE</span> <span class="nx">html</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="nx">html</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="nx">head</span><span class="o">&gt;</span>
+  <span class="o">&lt;</span><span class="nx">meta</span> <span class="nx">charset</span><span class="o">=</span><span class="dl">"</span><span class="s2">utf-8</span><span class="dl">"</span><span class="o">&gt;</span>
+  <span class="o">&lt;</span><span class="nx">title</span><span class="o">&gt;</span><span class="mi">02</span><span class="o">-</span><span class="mi">01</span><span class="o">&lt;</span><span class="sr">/title</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="sr">/head</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="nx">body</span><span class="o">&gt;</span>
+  <span class="o">&lt;</span><span class="nx">div</span> <span class="nx">id</span><span class="o">=</span><span class="dl">"</span><span class="s2">simple</span><span class="dl">"</span><span class="o">&gt;</span>
+    <span class="o">&lt;</span><span class="nx">h2</span><span class="o">&gt;&lt;</span><span class="sr">/h2</span><span class="err">&gt;
+</span>  <span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>  <span class="o">&lt;</span><span class="nx">script</span> <span class="nx">src</span><span class="o">=</span><span class="dl">"</span><span class="s2">https://unpkg.com/vue@2.5.16/dist/vue.js</span><span class="dl">"</span><span class="o">&gt;&lt;</span><span class="sr">/script</span><span class="err">&gt;
+</span>  <span class="o">&lt;</span><span class="nx">script</span> <span class="nx">type</span><span class="o">=</span><span class="dl">"</span><span class="s2">text/javascript</span><span class="dl">"</span><span class="o">&gt;</span>
+    <span class="cm">/* 모델(Model) 객체
+     * 데이터를 가지고있다.
+     */</span>
+    <span class="kd">var</span> <span class="nx">model</span> <span class="o">=</span> <span class="p">{</span>
+      <span class="na">message</span> <span class="p">:</span> <span class="dl">'</span><span class="s1">첫번째 Vue.js 앱 입니다!</span><span class="dl">'</span>
+    <span class="p">};</span>
+
+    <span class="cm">/* Vue 객체이자 뷰모델(ViewModel) 객체
+     * 데이터(모델)가 변경되면 뷰모델 객체는 즉시 HTML요소(뷰)에 반영.
+     */</span>
+    <span class="kd">var</span> <span class="nx">simple</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Vue</span><span class="p">({</span>
+      <span class="na">el</span> <span class="p">:</span> <span class="dl">'</span><span class="s1">#simple</span><span class="dl">'</span><span class="p">,</span>                   <span class="c1">// el : HTML요소(Element)</span>
+      <span class="na">data</span> <span class="p">:</span> <span class="nx">model</span>                      <span class="c1">// 모델 객체를 참조</span>
+    <span class="p">})</span>
+  <span class="o">&lt;</span><span class="sr">/script</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="sr">/body</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="sr">/html</span><span class="err">&gt;
+</span>
+</code></pre></div></div>
+
+<hr />
+
+<h4 id="2-기본-디렉티브-1">2. 기본 디렉티브</h4>
+<h5 id="단방향-디렉티브">단방향 디렉티브</h5>
+<h6 id="-html-요소에서-값을-변경하더라도-모델-객체의-값이-바뀌지-않는다">// HTML 요소에서 값을 변경하더라도 모델 객체의 값이 바뀌지 않는다.</h6>
+
+<ul>
+  <li>v-text : innerText 속성에 연결됨. 태그 문자열을 HTML 인코딩하여 나타내기 때문에 화면에는 태그 문자열이 그대로 나타남.</li>
+  <li>v-html : innterHTML 속성에 연결됨. 태그 문자열을 파싱하여 화면에 나타냄.<br />
+// v-html 디렉티브는 XSS(Cross Site Scripting) 공격에 취약. 꼭 필요한 경우가 아니라면 v-text를 사용하는 것이 안전.</li>
+  <li>v-bind : 요소 객체들의 속성들을 바인딩하기 위해 사용.<br />
+// v-bind 생략가능. ex) v-bind:src → :src</li>
+</ul>
+
+<h5 id="양방향-디렉티브">양방향 디렉티브</h5>
+<ul>
+  <li>v-model : 요소에서 변경한 값이 모델 객체에 반영.
+    <ul>
+      <li>lazy : 입력폼에서 이벤트가 발생할 때 입력한 값을 데이터와 동기화.</li>
+      <li>number : 숫자가 입력될 경우 number 타입으로 자동 형변환.</li>
+      <li>trim : 문자열 앞뒤 공백 자동 제거.</li>
+    </ul>
+  </li>
+</ul>
+
+<h5 id="v-show-v-if-v-else-v-else-if-디렉티브">v-show, v-if, v-else, v-else-if 디렉티브</h5>
+<p>// v-show와 v-if의 차이 : 실제 렌더링 여부</p>
+<ul>
+  <li>v-show : <mark style="background-color: #fff5b1"> HTML요소를 렌더링 후</mark> display 스타일 속성으로 화면에 보여줄지 여부를 결정.</li>
+  <li>v-if : 조건에 부합되지 않으면 렌더링 X.</li>
+  <li>v-else-if : 자바스크립트, C언어, 자바에서 사용하는 if ~ else  if ~ else 구문와 동일한 기능.</li>
+</ul>
+
+<hr />
+
+<h4 id="3-반복-렌더링-디렉티브-1">3. 반복 렌더링 디렉티브</h4>
+<ul>
+  <li>v-for : 자바스크립트 언어의 for문과 유사.<br />
+  // 원본데이터 형식에 따라 사용 방법이 달라짐.
+    <ul>
+      <li>배열 or 유사 배열 : v-for=”[배열 데이터] in [배열 이름]”</li>
+      <li>객체(해시맵 구조) : v-for=”(val , key) in [배열 이름]</li>
+    </ul>
+
+    <p>// v-for로 렌더링한 배열 데이터의 순서가 변경되면 기존 DOM 요소의 데이터를 변경.<br />
+  // DOM 요소를 추척하여 DOM 요소의 위치를 직접 변경 → DOM 요소에 key 특성(Attribute) 부여.<br />
+  // v-bind 디렉티브를 이용해 key 특성에 고유한 값 부여.<br />
+  // DB를 조회하여 얻어낸 결과를 렌더링 → key 특성에 기본기(Primary key)값 바인딩.</p>
+  </li>
+</ul>
+
+<h5 id="template-태그">&lt;template&gt; 태그</h5>
+<p>// 여러 요소의 그룹을 반복 렌더링</p>
+<ul>
+  <li>&lt;template&gt;태그는 렌더링 내용에 포함 X.</li>
+  <li>단지 요소들을 그룹으로 묶어주기 위한 용도로 사용.</li>
+</ul>
+
+<hr />
+
+<h4 id="4-기타-디렉티브-1">4. 기타 디렉티브</h4>
+<ul>
+  <li>v-pre : 템플릿 문자열을 컴파일하지 않고 그대로 내보냄.</li>
+  <li>v-once : HTML 요소를 단 한 번만 렌더링.</li>
+  <li>v-clock : 화면 초기에 컴파일 되지 않은 템플릿은 나타나지 않도록 할 수 있음.<br />
+// 콧수염 표현식이 화면에 일시적으로 나타나는 경우에 사용. (복잡한 UI일수록 빈번.)</li>
+</ul>
+
+<hr />
+
+<h4 id="5-계산형-속성-1">5. 계산형 속성</h4>
+<h6 id="-연산-로직이-필요한-경우">// 연산 로직이 필요한 경우</h6>
+<ul>
+  <li>computed 속성과 함께 함수를 등록해두면 속성처럼 이용 가능.</li>
+  <li>함수 내부 this는 Vue 객체 자신을 참조.</li>
+  <li>함수 내부에서 다른 콜백 함수 실행 → this가 다른 값으로 연결.</li>
+  <li>number 타입을 사용하려면 Number() 함수나 ParseInt() 함수를 이용해 명시적으로 숫자 값으로 변환.</li>
+</ul>
+
+<hr />
+
+<h4 id="6-계산형-속성-예제-1">6. 계산형 속성 예제</h4>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&lt;!</span><span class="nx">DOCTYPE</span> <span class="nx">html</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="nx">html</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="nx">head</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="nx">meta</span> <span class="nx">charset</span><span class="o">=</span><span class="dl">"</span><span class="s2">utf-8</span><span class="dl">"</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="nx">title</span><span class="o">&gt;</span><span class="mi">02</span><span class="o">-</span><span class="mi">17</span><span class="o">&lt;</span><span class="sr">/title</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="nx">style</span><span class="o">&gt;</span>
+    <span class="err">#</span><span class="nx">list</span>  <span class="p">{</span> <span class="nl">width</span><span class="p">:</span> <span class="mi">400</span><span class="nx">px</span><span class="p">;</span> <span class="nl">border</span><span class="p">:</span><span class="mi">1</span><span class="nx">px</span> <span class="nx">solid</span> <span class="nx">black</span><span class="p">;</span> <span class="nx">border</span><span class="o">-</span><span class="nx">collapse</span><span class="p">:</span><span class="nx">collapse</span><span class="p">;</span> <span class="p">}</span>
+    <span class="err">#</span><span class="nx">list</span> <span class="nx">td</span><span class="p">,</span> <span class="err">#</span><span class="nx">list</span> <span class="nx">th</span> <span class="p">{</span> <span class="nl">border</span><span class="p">:</span><span class="mi">1</span><span class="nx">px</span> <span class="nx">solid</span> <span class="nx">black</span><span class="p">;</span>  <span class="nx">text</span><span class="o">-</span><span class="nx">align</span><span class="p">:</span><span class="nx">center</span><span class="p">;</span> <span class="p">}</span>
+    <span class="err">#</span><span class="nx">list</span> <span class="o">&gt;</span> <span class="nx">thead</span> <span class="o">&gt;</span> <span class="nx">tr</span> <span class="p">{</span> <span class="nl">color</span><span class="p">:</span><span class="nx">yellow</span><span class="p">;</span> <span class="nx">background</span><span class="o">-</span><span class="nx">color</span><span class="p">:</span> <span class="nx">purple</span><span class="p">;</span> <span class="p">}</span>
+<span class="o">&lt;</span><span class="sr">/style</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="nx">script</span> <span class="nx">src</span><span class="o">=</span><span class="dl">"</span><span class="s2">https://unpkg.com/vue@2.5.16/dist/vue.js</span><span class="dl">"</span><span class="o">&gt;&lt;</span><span class="sr">/script</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="sr">/head</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="nx">body</span><span class="o">&gt;</span>
+    <span class="o">&lt;</span><span class="nx">div</span> <span class="nx">id</span><span class="o">=</span><span class="dl">"</span><span class="s2">exmaple</span><span class="dl">"</span><span class="o">&gt;</span>
+    <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span>
+    <span class="nx">국가명</span> <span class="p">:</span> <span class="o">&lt;</span><span class="nx">input</span> <span class="nx">type</span><span class="o">=</span><span class="dl">"</span><span class="s2">text</span><span class="dl">"</span> <span class="p">:</span><span class="nx">value</span><span class="o">=</span><span class="dl">"</span><span class="s2">countryname</span><span class="dl">"</span> <span class="nx">placeholder</span><span class="o">=</span><span class="dl">"</span><span class="s2">국가명</span><span class="dl">"</span> <span class="p">@</span><span class="nd">input</span><span class="o">=</span><span class="dl">"</span><span class="s2">nameChanged</span><span class="dl">"</span> <span class="o">/&gt;</span>
+    <span class="o">&lt;</span><span class="sr">/p</span><span class="err">&gt;
+</span>	<span class="o">&lt;</span><span class="nx">table</span> <span class="nx">id</span><span class="o">=</span><span class="dl">"</span><span class="s2">list</span><span class="dl">"</span><span class="o">&gt;</span>
+		<span class="o">&lt;</span><span class="nx">thead</span><span class="o">&gt;</span>
+			<span class="o">&lt;</span><span class="nx">tr</span><span class="o">&gt;</span>
+                <span class="o">&lt;</span><span class="nx">th</span><span class="o">&gt;</span><span class="nx">번호</span><span class="o">&lt;</span><span class="sr">/th&gt;&lt;th&gt;국가명&lt;/</span><span class="nx">th</span><span class="o">&gt;&lt;</span><span class="nx">th</span><span class="o">&gt;</span><span class="nx">수도</span><span class="o">&lt;</span><span class="sr">/th&gt;&lt;th&gt;지역&lt;/</span><span class="nx">th</span><span class="o">&gt;</span>
+            <span class="o">&lt;</span><span class="sr">/tr</span><span class="err">&gt;
+</span>		<span class="o">&lt;</span><span class="sr">/thead</span><span class="err">&gt;
+</span>		<span class="o">&lt;</span><span class="nx">tbody</span> <span class="nx">id</span><span class="o">=</span><span class="dl">"</span><span class="s2">contacts</span><span class="dl">"</span><span class="o">&gt;</span>
+            <span class="o">&lt;</span><span class="nx">tr</span> <span class="nx">v</span><span class="o">-</span><span class="k">for</span><span class="o">=</span><span class="dl">"</span><span class="s2">c in filtered</span><span class="dl">"</span><span class="o">&gt;</span>
+                <span class="o">&lt;</span><span class="nx">td</span><span class="o">&gt;&lt;</span><span class="sr">/td</span><span class="err">&gt;
+</span>                <span class="o">&lt;</span><span class="nx">td</span><span class="o">&gt;&lt;</span><span class="sr">/td</span><span class="err">&gt;
+</span>                <span class="o">&lt;</span><span class="nx">td</span><span class="o">&gt;&lt;</span><span class="sr">/td</span><span class="err">&gt;
+</span>                <span class="o">&lt;</span><span class="nx">td</span><span class="o">&gt;&lt;</span><span class="sr">/td</span><span class="err">&gt;
+</span>            <span class="o">&lt;</span><span class="sr">/tr</span><span class="err">&gt;
+</span>		<span class="o">&lt;</span><span class="sr">/tbody</span><span class="err">&gt;
+</span>	<span class="o">&lt;</span><span class="sr">/table</span><span class="err">&gt;
+</span>    <span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>    <span class="o">&lt;</span><span class="nx">script</span> <span class="nx">type</span><span class="o">=</span><span class="dl">"</span><span class="s2">text/javascript</span><span class="dl">"</span><span class="o">&gt;</span>
+	<span class="kd">var</span> <span class="nx">model</span> <span class="o">=</span> <span class="p">{</span>
+        <span class="na">countryname</span> <span class="p">:</span> <span class="dl">""</span><span class="p">,</span>
+        <span class="na">countries</span> <span class="p">:</span> <span class="p">[</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">1</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">미국</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">워싱턴DC</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">america</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">2</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">프랑스</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">파리</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">europe</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">영국</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">런던</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">europe</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">4</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">중국</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">베이징</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">asia</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">5</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">태국</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">방콕</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">asia</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">6</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">모로코</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">라바트</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">africa</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">7</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">라오스</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">비엔티안</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">asia</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">8</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">베트남</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">하노이</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">asia</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">9</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">피지</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">수바</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">oceania</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">10</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">솔로몬 제도</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">호니아라</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">oceania</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">11</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">자메이카</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">킹스턴</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">america</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">12</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">나미비아</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">빈트후크</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">africa</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">13</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">동티모르</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">딜리</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">asia</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">14</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">멕시코</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">멕시코시티</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">america</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">15</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">베네수엘라</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">카라카스</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">america</span><span class="dl">"</span> <span class="p">},</span>
+            <span class="p">{</span> <span class="na">no</span><span class="p">:</span><span class="mi">16</span><span class="p">,</span>  <span class="na">name</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">서사모아</span><span class="dl">"</span><span class="p">,</span> <span class="na">capital</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">아피아</span><span class="dl">"</span><span class="p">,</span> <span class="na">region</span><span class="p">:</span><span class="dl">"</span><span class="s2">oceania</span><span class="dl">"</span> <span class="p">}</span>
+   	    <span class="p">]</span>
+    <span class="p">}</span>
+
+    <span class="kd">var</span> <span class="nx">clist</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Vue</span><span class="p">({</span>
+        <span class="na">el</span> <span class="p">:</span> <span class="dl">"</span><span class="s2">#exmaple</span><span class="dl">"</span><span class="p">,</span>
+        <span class="na">data</span> <span class="p">:</span> <span class="nx">model</span><span class="p">,</span>
+        <span class="na">computed</span> <span class="p">:</span> <span class="p">{</span>
+            <span class="na">filtered</span> <span class="p">:</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+                <span class="kd">var</span> <span class="nx">cname</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">countryname</span><span class="p">.</span><span class="nx">trim</span><span class="p">();</span>
+                <span class="k">return</span> <span class="k">this</span><span class="p">.</span><span class="nx">countries</span><span class="p">.</span><span class="nx">filter</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">item</span><span class="p">,</span><span class="nx">index</span><span class="p">)</span> <span class="p">{</span>
+                    <span class="k">if</span> <span class="p">(</span><span class="nx">item</span><span class="p">.</span><span class="nx">name</span><span class="p">.</span><span class="nx">indexOf</span><span class="p">(</span><span class="nx">cname</span><span class="p">)</span> <span class="o">&gt;</span> <span class="o">-</span><span class="mi">1</span><span class="p">)</span> <span class="p">{</span>
+                        <span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
+                    <span class="p">}</span>
+                <span class="p">});</span>
+            <span class="p">}</span>
+        <span class="p">},</span>
+        <span class="na">methods</span> <span class="p">:</span> <span class="p">{</span>
+            <span class="na">nameChanged</span> <span class="p">:</span> <span class="kd">function</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+                <span class="k">this</span><span class="p">.</span><span class="nx">countryname</span> <span class="o">=</span> <span class="nx">e</span><span class="p">.</span><span class="nx">target</span><span class="p">.</span><span class="nx">value</span><span class="p">;</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">});</span>
+    <span class="o">&lt;</span><span class="sr">/script</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="sr">/body</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="sr">/html</span><span class="err">&gt;
+</span></code></pre></div></div>
+
+<hr />
+:ET

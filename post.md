@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: GAEUN SHIN -Post- githut.io
 #description:
 sitemap:
