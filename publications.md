@@ -15,7 +15,7 @@ sitemap:
 ### 2021
 * T. J. Sefara, S. G. Zwane, N. Gama, H. Sibisi, P. N. Senoamadi and V. Marivate, "Transformer-based Machine Translation for Low-resourced Languages embedded with Language Identification," 2021 Conference on Information Communications Technology and Society (ICTAS), Durban, South Africa, 2021, pp. 127-132 [10.1109/ICTAS50802.2021.9394996](https://doi.org/10.1109/ICTAS50802.2021.9394996)
 * Kraemer, M.U.G., Scarpino, S.V., Marivate, V. et al. Data curation during a pandemic and lessons learned from COVID-19. Nat Comput Sci 1, 9–10 (2021). [https://doi.org/10.1038/s43588-020-00015-6](https://doi.org/10.1038/s43588-020-00015-6)
-* H Ngejana, J Eloff, T Sefara, V Marivate. Digital forensics supported by machine learning for the detection of online sexual predatory chats.*Forensic Science International: Digital Investigation* [[Paper URL](https://www.sciencedirect.com/science/article/pii/S2666281721000032)] [NLP][SOC]
+* H Ngejana, J Eloff, T Sefara, V Marivate. Digital forensics supported by machine learning for the detection of online sexual predatory chats.*Forensic Science International: Digital Investigation* [[Paper URL](https://www.sciencedirect.com/science/article/pii/S2666281721000032), [Preprint](https://repository.up.ac.za/handle/2263/79468)] [NLP][SOC]
 * Sefara, T.J., Mokgonyane, T.B. and Marivate, V., 2021. Practical Approach on Implementation of WordNets for South African Languages. *In Proceedings of the Eleventh Global Wordnet Conference*. [[Paper URL]()] [[Dataset URL](https://zenodo.org/record/4299515)] [[Python Library](https://pypi.org/project/africanwordnet/)]
 
 ### 2020
