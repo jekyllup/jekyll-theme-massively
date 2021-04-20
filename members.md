@@ -25,17 +25,10 @@ The group is made up of a number of people who work on a few themes.
 
 ## Masters
 
-* Chatherine Gitau [AMMI][NLP]
-* Henry Wandera [UP - MIT Big Data Science][ML, Soc]
 * Hombakazi Ngejane [UP][ML, NLP]
 * Jessica Nemasisi [Wits][ML, NLP, SM]
 * Khutso Sepuru [UP - MIT Big Data Science][ML]
-* Lamont Theron [UP - MIT Big Data Science][ML,NLP]
-* Mario Naidoo [UP][ML, Soc]
-* Michelle Terblanche [UP - MIT Big Data Science][ML,NLP,SM]
-* Nicole Garber[UP - MIT Big Data Science][ML, NLP]
 * Palesa Lepamo [UP - MIT Big Data Science][ML,Soc]
-* Salomon Kabenamualu [AMMI][NLP]
 
 ## Honours
 
@@ -44,6 +37,17 @@ The group is made up of a number of people who work on a few themes.
 
 
 ## Alumni
+* Henry Wandera [UP - MIT Big Data Science][ML, Soc] - 2021
+* Michelle Terblanche [UP - MIT Big Data Science][ML,NLP,SM] - 2021
+* Chatherine Gitau [AMMI][NLP] - 2021
+* Salomon Kabenamualu [AMMI][NLP] - 2021
+* Mario Naidoo [UP][ML, Soc] - 2021
+* Nicole Garber[UP - MIT Big Data Science][ML, NLP] - 2021
+* Lamont Theron [UP - MIT Big Data Science][ML,NLP] - 2021
+* Alon Behr [UP, CS Hons][ML, SOC] - 2020
+* Boitshoko Pule [UP, CS Hons][NLP, SOC] - 2020
+* Harm de Wet [UP, CS Hons][NLP, SOC] - 2020
+* Elisabeth Mpatu [UP, CS Hons][NLP, SOC] - 2020
 * Avashlin Moodley [UP - MIT Big Data Science][ML, NLP, SM]
 * Tshepiso Mokoena [Wits][ML] - 2020
 * Colyn van Zyl [UP - MIT Big Data Science][ML] - 2020
@@ -51,6 +55,5 @@ The group is made up of a number of people who work on a few themes.
 * Mpho Mokoatle [MSc][NWU][ML,Soc] - 2019
 * Patrick Monamo [MSc][UJ][ML] - 2018
 * Jessica Nemasisi [Hons][UniVen][ML] - 2017
-
 * Tshepisho Sefara [NRF-CSIR, 2018][ML, NLP, Soc] - 2018
 * Niciah Hlungwane [NRF-CSIR, 2018][NLP] - 2018
