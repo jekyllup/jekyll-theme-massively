@@ -4,7 +4,7 @@ bio: "Web Developer"
 description: "Frontend"
 locale: ko
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://newsilver1028.github.io/" # the base hostname & protocol for your site
+url: https://newsilver1028.github.io/ # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname: default
