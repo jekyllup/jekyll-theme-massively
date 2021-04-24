@@ -1,62 +1,62 @@
 # Site
-title:              GAEUN SHIN
-bio:                "Web Developer"
-description:        "Frontend"
-locale:             ko
+title: GAEUN SHIN
+bio: "Web Developer"
+description: "Frontend"
+locale: ko
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://newsilver1028.github.io/" # the base hostname & protocol for your site
 
 # Comments
-disqus_shortname:   default
+disqus_shortname: default
 
 # Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             newsilver1028
+analytics-id: "default"
+twitter: default
+facebook: default
+instagram: default
+github: newsilver1028
 
 # personal
-location:           인천 남동구 구월로 266번길 16
-phone:              010-3572-1964
-email:              newsilver1028@naver.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+location: 인천 남동구 구월로 266번길 16
+phone: 010-3572-1964
+email: newsilver1028@naver.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
-background_image:   /images/bg.jpg
+background_image: /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    author:
+    - scope:
+          path: ""
+          type: posts
+      values:
+          permalink: "/blog/:title/"
+          layout: post
+          author:
 
 # Jekyll
-permalink:          /blog/:title/
-markdown:           kramdown
-highlighter:        rouge
+permalink: /blog/:title/
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+    auto_ids: true
+    footnote_nr: 1
+    entity_output: as_char
+    toc_levels: 1..6
+    enable_coderay: false
+mathjax: true
 sass:
-  sass_dir:         _sass
-  style:            compressed
+    sass_dir: _sass
+    style: compressed
 
 # Gems
 gems:
-  - jekyll-mentions
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
+    - jekyll-mentions
+    - jekyll-sitemap
+    - jekyll-feed
+    - jekyll-gist
+    - jekyll-paginate
 
 paginate: 6
 paginate_path: "/blog/page:num/"
