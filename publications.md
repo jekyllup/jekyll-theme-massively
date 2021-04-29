@@ -13,6 +13,7 @@ sitemap:
 * V Marivate, A Moodley, A Saba. Extracting and categorising the reactions to COVID-19 by the South African public -- A social media study [[preprint]](https://arxiv.org/abs/2006.06336) [ML][NLP][SOC]
 
 ### 2021
+* Oladeji O, Zhang C, Moradi T, Tarapore D, Stokes AC, Marivate V, Sengeh MD, Nsoesie EO Monitoring Information-Seeking Patterns and Obesity Prevalence in Africa With Internet Search Data: Observational Study JMIR Public Health Surveill 2021 [[Paper](https://publichealth.jmir.org/2021/4/e24348)][[Preprint](https://preprints.jmir.org/preprint/24348)][SoC]
 * V Marivate, ENsoesie, Hs MVE Combrink. "Africa’s Responses to COVID-19: An Early Data Science View"  *COVID-19 from the Margins. Pandemic Invisibilities, Policies and Resistance in the Datafied Society*. [Book Chapter](https://networkcultures.org/wp-content/uploads/2021/02/Covid19FromTheMargins.pdf#page=112) [SOC]
 * T. J. Sefara, S. G. Zwane, N. Gama, H. Sibisi, P. N. Senoamadi and V. Marivate, "Transformer-based Machine Translation for Low-resourced Languages embedded with Language Identification," 2021 Conference on Information Communications Technology and Society (ICTAS), Durban, South Africa, 2021, pp. 127-132* [[Paper URL](https://doi.org/10.1109/ICTAS50802.2021.9394996)] [NLP]
 * Kraemer, M.U.G., Scarpino, S.V., Marivate, V. et al. Data curation during a pandemic and lessons learned from COVID-19. Nat Comput Sci 1, 9–10 (2021).[[Paper URL](https://doi.org/10.1038/s43588-020-00015-6)] [NLP]
