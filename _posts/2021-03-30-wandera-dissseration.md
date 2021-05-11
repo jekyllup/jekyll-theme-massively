@@ -1,6 +1,6 @@
 layout | title | date | description | image
 ------------ | ------------- | ------------- | -------------| -------------
-Post | Thuto: Depth Analysis of South African and Sierra Leone School Outcomes using Machine Learning |December 2020 | Masters dissertation by Henry Wandera | None
+Post | Thuto: Depth Analysis of South African and Sierra Leone School Outcomes using Machine Learning |December 2020 | Masters dissertation by Henry Wandera, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria  | None
 
  **Members:**
  H Wandera ,Dr V Marivate.
