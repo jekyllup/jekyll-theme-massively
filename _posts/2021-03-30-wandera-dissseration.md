@@ -1,9 +1,11 @@
 layout | title | date | description | image
 ------------ | ------------- | ------------- | -------------| -------------
-Post | Thuto: Depth Analysis of South African and Sierra Leone School Outcomes using Machine Learning |December 2020 | mini dissertation by Henry Wandera | None
+Post | Thuto: Depth Analysis of South African and Sierra Leone School Outcomes using Machine Learning |December 2020 | Masters dissertation by Henry Wandera | None
+
+ **Members:**
+ H Wandera ,Dr V Marivate.
  
  **Abstract**
- 
  Available or adequate information to inform decision making for resource allocation in
 support of school improvement is a critical issue globally. In this paper, we apply machine learning and education data mining techniques on education big data to identify
 determinants of high schools’ performance in two African countries: South Africa and
