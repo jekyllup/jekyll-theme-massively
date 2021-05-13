@@ -39,11 +39,15 @@ The group is made up of a number of people who work on a few themes.
 ## Alumni
 * Henry Wandera [UP - MIT Big Data Science][ML, Soc] - 2021
 * Michelle Terblanche [UP - MIT Big Data Science][ML,NLP,SM] - 2021
+   * [News](https://github.com/u20772077/dsfsi.github.io/blob/master/_posts/2021-03-30-Terblanche-dissseration.md)
 * Chatherine Gitau [AMMI][NLP] - 2021
 * Salomon Kabenamualu [AMMI][NLP] - 2021
 * Mario Naidoo [UP][ML, Soc] - 2021
+   * [News](https://github.com/u20772077/dsfsi.github.io/blob/master/_posts/2021-03-30-Naidoo-dissseration.md)
 * Nicole Garber[UP - MIT Big Data Science][ML, NLP] - 2021
+  * [News](https://github.com/u20772077/dsfsi.github.io/blob/master/_posts/2021-03-30-Garber-dissseration.md)
 * Lamont Theron [UP - MIT Big Data Science][ML,NLP] - 2021
+   * [News](https://github.com/u20772077/dsfsi.github.io/blob/master/_posts/2021-03-30-Theron-dissseration.md)
 * Alon Behr [UP, CS Hons][ML, SOC] - 2020
 * Boitshoko Pule [UP, CS Hons][NLP, SOC] - 2020
 * Harm de Wet [UP, CS Hons][NLP, SOC] - 2020
