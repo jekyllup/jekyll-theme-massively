@@ -4,7 +4,7 @@ bio:                'Data Science for Social Impact @ University of Pretoria'
 description:        "Data Science for Social Impact @ University of Pretoria"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "dsfsi.github.io" # the base hostname & protocol for your site
 
 # Comments
 # disqus_shortname:   default
