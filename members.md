@@ -38,12 +38,12 @@ The group is made up of a number of people who work on a few themes.
 
 ## Alumni
 * Henry Wandera [UP - MIT Big Data Science][ML, Soc] - 2021
-* Michelle Terblanche [UP - MIT Big Data Science][ML,NLP,SM] - 2021
+* Michelle Terblanche [UP - MIT Big Data Science][ML,NLP,SM] - 2021 [Disseration Announcement]({{ site.baseurl }}{% link _posts/2021-03-30-Terblanche-disseration.md %})
 * Chatherine Gitau [AMMI][NLP] - 2021
 * Salomon Kabenamualu [AMMI][NLP] - 2021
-* Mario Naidoo [UP][ML, Soc] - 2021
-* Nicole Garber[UP - MIT Big Data Science][ML, NLP] - 2021
-* Lamont Theron [UP - MIT Big Data Science][ML,NLP] - 2021
+* Mario Naidoo [UP][ML, Soc] - 2021 [Disseration Announcement]({{ site.baseurl }}{% link _posts/2021-03-30-Naidoo-disseration.md %})
+* Nicole Garber[UP - MIT Big Data Science][ML, NLP] - 2021 [Disseration Announcement]({{ site.baseurl }}{% link _posts/2021-03-30-Garber-disseration.md %})
+* Lamont Theron [UP - MIT Big Data Science][ML,NLP] - 2021 [Disseration Announcement]({{ site.baseurl }}{% link _posts/2021-03-30-Theron-disseration.md %})
 * Alon Behr [UP, CS Hons][ML, SOC] - 2020
 * Boitshoko Pule [UP, CS Hons][NLP, SOC] - 2020
 * Harm de Wet [UP, CS Hons][NLP, SOC] - 2020

@@ -3,7 +3,7 @@ layout: post
 title:  "[Dissertation] Financial Sentiment Analysis: an NLPapproach towards reputation management"
 date:   2021-03-30
 excerpt: "Masters dissertation by Michelle Terblanche, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
-image: 
+image: "https://github.com/u20772077/dsfsi.github.io/blob/master/images/Terblanche.png"
 ---
 ## Members
 Michelle Terblanche, MITC Big Data Science

@@ -3,7 +3,7 @@ layout: post
 title:  "[Dissertation] Identifying Financial Risk through Natural Language Processing of Company Annual Reports"
 date:   2021-03-30
 excerpt: "Masters dissertation by Jacques Lamont Theron, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
-image: 
+image: "https://github.com/u20772077/dsfsi.github.io/blob/master/images/image--000_Theron.png"
 ---
 ## Members
 Jacques Lamont Theron, MITC Big Data Science
