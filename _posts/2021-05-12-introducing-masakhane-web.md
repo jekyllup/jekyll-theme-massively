@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing Masakhane WEB - A Machine Translation Web Platform for African Languages"
-date:   2021-05-18
+date:   2021-05-12
 excerpt: "A new milestone for Masakhane NLP and DSFSI"
 image: https://raw.githubusercontent.com/dsfsi/dsfsi.github.io/master/images/MasakhaneWeb.png
 ---
