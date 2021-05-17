@@ -2,8 +2,8 @@
 layout: post
 title:  "[Dissertation] Unsupervised Anomaly Detection of Healthcare Providers using Generative Adversarial Network"
 date:   2021-03-30
-excerpt: "Masters thesis by Krishnan Naidoo, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
-image:  "https://github.com/u20772077/dsfsi.github.io/blob/master/images/image--009-Naidoo.png"    
+excerpt: "Masters thesis by Krishnan Naidoo, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"    
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/11-Garber.png"
 ---
 ## Members
 Krishnan Naidoo, MITC Big Data Science
