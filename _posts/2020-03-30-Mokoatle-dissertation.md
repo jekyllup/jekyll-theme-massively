@@ -9,8 +9,7 @@ image:
 Mpho Mokoatle, MITC Big Data Science
 
 ## Abstract
-Road traffic accidents (RTAs) in South Africa reached the highest road death toll in 2017, in 
-spite of road safety campaigns and initiatives. “ Ongoing campaigns are simply not sufficient’’, 
+Road traffic accidents (RTAs) in South Africa reached the highest road death toll in 2017, in  spite of road safety campaigns and initiatives. “ Ongoing campaigns are simply not sufficient’’, 
 said a representative from the South African Automobile Association (AA). RTA data is usually
 collected at accident scenes and those who collect this data lack sufficient knowledge and skill to 
 translate the data into knowledge that can be used to gain a better understanding of the root 
