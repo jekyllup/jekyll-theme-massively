@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[Dissertation] Conversational Pattern Mining using Motif Detection"
-date:   2021-03-30
+title: "[Dissertation] Conversational Pattern Mining using Motif Detection"
+date: 2021-03-30
 excerpt: "Masters dissertation by Nicolle Garber, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
-image:"https://github.com/dsfsi/dsfsi.github.io/raw/master/images/11-Garber.png"
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/11-Garber.png"
 ---
 ## Members
 Nicolle Garber, MITC Big Data Science
