@@ -6,7 +6,7 @@ excerpt: "Masters dissertation by Moodley, Faculty of Engineering, Built Environ
 image: 
 ---
 ## Members
-Patrick Monamo, 
+Patrick Monamo,  
 
 ## Abstract
 

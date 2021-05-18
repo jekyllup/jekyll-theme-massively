@@ -9,8 +9,7 @@ image:
 Tshepiso Mokoena, MITC Big Data Science
 
 ## Abstract
-Anomaly detection has received much attention throughout the years. Currently, human
-analysts in real-world applications use anomaly detectors to assist them in identifying
+Anomaly detection has received much attention throughout the years. Currently, human analysts in real-world applications use anomaly detectors to assist them in identifying
 potential anomalous data points. Unfortunately, most anomaly detectors do not provide
 the analysts with explanations about what makes a data point anomalous, resulting
 in the analysts to consider the information related to the entire feature space of each
