@@ -3,7 +3,7 @@ layout: post
 title:  "[Dissertation] Ukhetho: A Text Mining Study Of The South African General Elections"
 date:   2020-03-30
 excerpt: "Masters dissertation by Avashlin Moodley, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
-image: 
+image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/avashlinImg.png"
 ---
 ## Members
 Avashlin Moodley, MITC Big Data Science.

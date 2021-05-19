@@ -3,7 +3,7 @@ layout: post
 title:  "[Dissertation] Why is this an Anomaly? Explaining Anomalies using Sequential Explanations "
 date:   2020-03-30
 excerpt: "Masters dissertation by Mokoena, Faculty of Science, University of the Witwatersrand, Johannesburg."
-image: 
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/Tshepiso.png"
 ---
 ## Members
 Tshepiso Mokoena, MITC Big Data Science

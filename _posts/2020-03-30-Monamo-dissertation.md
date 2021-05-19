@@ -3,7 +3,7 @@ layout: post
 title:  "[Dissertation] Anomaly detection in the open financial market"
 date:   2020-03-30
 excerpt: "Masters dissertation by Moodley, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
-image: 
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/patrickImg.png"
 ---
 ## Members
 Patrick Monamo,  
