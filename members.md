@@ -19,7 +19,7 @@ The group is made up of a number of people who work on a few themes.
 * Abiodun Modupe [Wits][NLP, ML, SM]
 * Baphumelele Masikisiki [UP][NLP,Soc]
 * Herkulaas Combrink [UP][ML,Soc]
-* Mpho Mokoatle [UP][NLP,Soc] [Dissertation Announcement]({{ site.baseurl }}{% link ./_post/2020-03-30-Mokoatle-dissertation.md %})
+* Mpho Mokoatle [UP][NLP,Soc]
 * Rockerfeller [AIMS][ML,Soc]
 * Temitope Kekere [UP][NLP,Soc]
 
@@ -57,8 +57,8 @@ The group is made up of a number of people who work on a few themes.
 * Jeanine Schutte [UP - MIT Big Data Science][ML]
 
 ### Earlier
-* Mpho Mokoatle [MSc][NWU][ML,Soc] - 2019  
-* Patrick Monamo [MSc][UJ][ML][[Dissertation Announcement](https://dsfsi.github.io/blog/2020-03-30-Monamo-dissertation.md %})] - 2018 
+* Mpho Mokoatle [MSc][NWU][ML,Soc][[Dissertation Announcement](https://dsfsi.github.io/blog/Mokoatle-dissertation)] - 2019  
+* Patrick Monamo [MSc][UJ][ML][[Dissertation Announcement](https://dsfsi.github.io/blog/Monamo-dissertation)] - 2018 
 * Jessica Nemasisi [Hons][UniVen][ML] - 2017
 * Tshepisho Sefara [NRF-CSIR, 2018][ML, NLP, Soc] - 2018
 * Niciah Hlungwane [NRF-CSIR, 2018][NLP] - 2018
