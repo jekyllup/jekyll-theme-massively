@@ -3,7 +3,7 @@ layout: post
 title:  "[Dissertation] Road Traffic Accident Analysis Using Machine Learning Techniques for Soshanguve, Pretoria"
 date:   2020-03-30
 excerpt: "Masters dissertation by Mokoatle,  North West University"
-image: 
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/mokoatleImg.png"
 ---
 ## Members
 Mpho Mokoatle, MITC Big Data Science
