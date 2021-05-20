@@ -38,7 +38,7 @@ The group is made up of a number of people who work on a few themes.
 ## Alumni
 
 ### 2021
-* Henry Wandera [UP - MIT Big Data Science][ML, Soc]
+* Henry Wandera [UP - MIT Big Data Science][ML, Soc] [[Dissertation Announcement](https://dsfsi.github.io/blog/wandera-dissseration)]
 * Michelle Terblanche [UP - MIT Big Data Science][ML,NLP,SM][[Dissertation Announcement](https://dsfsi.github.io/blog/Terblanche-dissseration)]
 * Chatherine Gitau [AMMI][NLP]
 * Salomon Kabenamualu [AMMI][NLP]
