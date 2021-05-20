@@ -13,15 +13,15 @@ We do a number of projects with partners and collaborators. See below. This list
 ## Collaborators
 *Those who keep us grounded*
 
-* Dr. Bubaccar Bah - [African Institue for Mathematical Sciences](https://sites.google.com/aims.ac.za/bubacarr)
-* Dr. Ciira Maina - [Dedan Kimathi University](https://sites.google.com/site/cwamainadekut/)
-* Prof. Turgay Celik - [Wits University](https://www.wits.ac.za/staff/academic-a-z-listing/c/turgaycelikwitsacza/)
-* Kathleen Siminyu - [AI4D](https://ai4d.ai/)
-* Nyalleng Moorosi - Google AI
-* Emily Muller - [Imperial College/UCL](https://www.imperial.ac.uk/people/emily.muller)
-* Tshepisho Sefara - CSIR
-* Tshepiso Mokoena - CSIR
-* Mahlatse Mbooi - CSIR
+* Dr. Bubaccar Bah - [[African Institue for Mathematical Sciences](https://sites.google.com/aims.ac.za/bubacarr)]
+* Dr. Ciira Maina - [[Dedan Kimathi University](https://sites.google.com/site/cwamainadekut/)][[DSAIL](https://dekut-dsail.github.io/index.html)]
+* Prof. Turgay Celik - [[Wits University](https://www.wits.ac.za/staff/academic-a-z-listing/c/turgaycelikwitsacza/)]
+* Kathleen Siminyu - [[AI4D](https://ai4d.ai/)]
+* Nyalleng Moorosi - [Google AI]
+* Emily Muller - [[Imperial College/UCL](https://www.imperial.ac.uk/people/emily.muller)]
+* Tshepisho Sefara - [CSIR]
+* Tshepiso Mokoena - [Explore Data Science]
+* Mahlatse Mbooi - [CSIR]
 
 ## Datasets
 
@@ -29,10 +29,12 @@ We do a number of projects with partners and collaborators. See below. This list
 * [Coronavirus COVID-19 (2019-nCoV) Data Repository for Africa](https://github.com/dsfsi/covid19africa)
 * [African Pre-Trained Embeddings [NLP]](https://zenodo.org/record/3668481)
 * [South African News Data](https://zenodo.org/record/3668495)
+* [AfricaNLP Zenodo Community](https://zenodo.org/communities/africanlp/)
 
 ## Software or Libraries
 
 * [TextAugment](https://github.com/dsfsi/textaugment)
+* [MasakhaneWeb](https://github.com/dsfsi/masakhane-web)
 
 ## Data Donors
 
@@ -56,5 +58,6 @@ TBA
 * ABSA UP Chair of Data Science
 * Amazon Web Services Research Credit Grant [2018/2019]
 * Google Cloud Platform Research Credit Grant [2019/2020]
+* IDRC
 * National Research Foundation
 * Mastercard Foundation
