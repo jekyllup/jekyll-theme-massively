@@ -6,7 +6,7 @@ excerpt: "Masters dissertation by Mokoatle,  North West University"
 image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/mokoatleImg.png"
 ---
 ## Members
-Mpho Mokoatle, MITC Big Data Science
+Mpho Mokoatle, Masters Computer Science
 
 ## Abstract
 Road traffic accidents (RTAs) in South Africa reached the highest road death toll in 2017, in  spite of road safety campaigns and initiatives. “ Ongoing campaigns are simply not sufficient’’, 
