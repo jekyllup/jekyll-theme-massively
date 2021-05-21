@@ -79,10 +79,10 @@ sitemap:
 						- <a href="https://dsfsi.github.io/publications/">Recent Publications</a>
 								</p>
 								<img src="{{ "/images/logo_transparent_small.png" | absolute_url }}" alt="" />
-
+				</article>
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:4 %}
+                {% for post in site.posts limit:2 %}
                 {% assign mod4 = forloop.index | modulo: 4 %}
   								<article>
   									<header>
