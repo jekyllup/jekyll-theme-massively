@@ -55,9 +55,14 @@ TBA
 
 ## Support
 
-* ABSA UP Chair of Data Science
+The work of the research group is supported through chairs, fellowships, gifts and grants from:
+* ABSA UP Chair of Data Science [2018/2019/2020/2021]
 * Amazon Web Services Research Credit Grant [2018/2019]
-* Google Cloud Platform Research Credit Grant [2019/2020]
-* IDRC
-* National Research Foundation
-* Mastercard Foundation
+* Google Cloud Platform Research Credit Grant [2019/2020/2021]
+* International Development Research Centre: IDRC [2020/2021]
+* National Research Foundation [2018/2019/2020/2021]
+* Mastercard Foundation [2018/2019/2020/2021]
+* Medical Research Council [2020/2021]
+* Mozilla Open Source Support [2020/2021]
+
+**Note:** please get in touch with Dr. Marivate [[vukosi.marivate@cs.up.ac.za](vukosi.marivate@cs.up.ac.za)] if you would like to partner or look at ways to support ongoing research work. 
