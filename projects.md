@@ -8,6 +8,8 @@ sitemap:
     changefreq: weekly
 ---
 
+Thank you for your interest in our projects. We believe through partnerships, we can do more. Please get in touch with Dr. Marivate [[vukosi.marivate@cs.up.ac.za](vukosi.marivate@cs.up.ac.za)] if you would like to partner or look at ways to support ongoing research work. 
+
 We do a number of projects with partners and collaborators. See below. This list is not exhaustive. We will update as time goes on.
 
 ## Collaborators
