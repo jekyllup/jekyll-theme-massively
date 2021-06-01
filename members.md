@@ -13,6 +13,8 @@ The group is made up of a number of people who work on a few themes.
 ## Faculty
 
 * Dr. Vukosi Marivate (UP ABSA Chair of Data Science)
+* Abiodun Modupe
+* Tshepiso Mokoena
 
 ## PhD Students
 
