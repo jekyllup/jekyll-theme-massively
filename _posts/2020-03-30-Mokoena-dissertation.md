@@ -6,7 +6,7 @@ excerpt: "Masters dissertation by Mokoena, Faculty of Science, University of the
 image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/Tshepiso.png"
 ---
 ## Members
-Tshepiso Mokoena, MITC Big Data Science
+Tshepiso Mokoena, Masters Computer Science
 
 ## Abstract
 Anomaly detection has received much attention throughout the years. Currently, human analysts in real-world applications use anomaly detectors to assist them in identifying

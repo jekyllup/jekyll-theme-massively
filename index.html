@@ -4,8 +4,8 @@ title: Data Science for Social Impact Research Group - Home
 description: 
 sitemap:
     priority: 1.0
-    lastmod: 2019-09-02
-    changefreq: weekly
+    lastmod: 2021-05-21
+    changefreq: monthly
 ---
 <!DOCTYPE HTML>
 <!--
@@ -53,30 +53,36 @@ sitemap:
 								<header class="major">
 									<h3>Welcome</h3>
 								</header>
-								<img src="{{ "/images/logo_transparent_small.png" | absolute_url }}" alt="" />
-								<p>Welcome to the Data Science for Social Impact Research group based at the University of Pretoria, South Africa. The group is led by Dr. Vukosi Marivate, who is the ABSA Chair of Data Science. This website keeps track of work the group working on.
-								</p>
 								<p>
-								The group looks at the following areas:<br/>
-								<br/>
+									We are the Data Science for Social Impact research group at the Computer Science Department, University of Pretoria. Dr Vukosi Marivate, the ABSA UP Chair of Data Science, is the principal investigator.
+									<br/><br/>
+									Our general areas of work straddle <strong>Data Science for Society</strong> as well as <strong>Local Language Natural Language Processing</strong>. These two strands are complementary. Our work in Data Science and Society has allowed us to have a more nuanced approach to understanding the systematic challenges that face being able to do excellent science with local languages. Through Data Science for Society, we have to understand how when one carries through Data Science research, we situate how the users are part of the process. We find that we need to adjust our research to take care of these challenges and innovate in ways we gather direct data or alternative data.
+									<br/><br/>
+									For us, <strong>Data Science for Society</strong> means being able to improve approaches/methods or scientific tools for DS while enhancing the ways decision-makers can use the insights that come from these tools. <strong>Local Language Natural Language Processing</strong> is focused on ways to develop new tools, new data and methodology to improve the state of African languages. 
+								</p>
+								
+								<p style="text-align:left">
+								<h4>Research Themes</h4>
 								- Machine Learning [ML]<br/>
 								- Natural Language Processing [NLP]<br/>
 								- Social Media [SM]<br/>
 								- Society [Soc]<br/>
-								- Web Technologies [WT]<br/>
+								- Web Technologies [WT]
 								</p>
-								<p>
-									<a href="https://bitly.com/covid19za-dash" target=_blank>Coronavirus, COVID 19 ZA Dashboard</a>
+								<p style="text-align:left">
+								<h4>Project Highlights</h4>
+						- <a href="http://translate.masakhane.io" target=_blank>Masakhane Translate</a><br/>
+								- <a href="https://masakhane.io" target=_blank>Masakhane NLP</a><br/>
+								- <a href="https://bitly.com/covid19za-dash" target=_blank>Coronavirus, COVID 19 ZA Dashboard</a><br/>
+								- <a href="https://github.com/dsfsi/covid19za" target=_blank>COVID 19 ZA Data Repository</a><br/>
+						- See the <a href="https://dsfsi.github.io/projects/">projects tab</a> for more<br/>
+						- <a href="https://dsfsi.github.io/publications/">Recent Publications</a>
 								</p>
-								
-								
-<!-- 								<a class="image main"><img src="{{ "/images/logo_transparent.png" | absolute_url }}" alt="" /></a> -->
-							</article>
-         
-
+								<img src="{{ "/images/logo_transparent_small.png" | absolute_url }}" alt="" />
+				</article>
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:4 %}
+                {% for post in site.posts limit:2 %}
                 {% assign mod4 = forloop.index | modulo: 4 %}
   								<article>
   									<header>
@@ -100,7 +106,7 @@ sitemap:
                 {% endfor %} 
 
 							</section>
-		<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/datascience-up" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/datascience-up', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+<!-- 		<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/datascience-up" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/datascience-up', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form> -->
 
 						<!-- Footer -->
 							<footer>
