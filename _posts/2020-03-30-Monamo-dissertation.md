@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Dissertation] Anomaly detection in the open financial market"
+title:  "[Dissertation] Anomaly detection in the open financial market: A Case for the Bitcoin Market"
 date:   2020-03-30
-excerpt: "Masters dissertation by Moodley, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
+excerpt: "Masters dissertation by Monamo, Faculty of Engineering and Electronics, University of Johannesburg"
 image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/patrickImg.png"
 ---
 ## Members
