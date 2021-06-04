@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Dissertation] Anomaly detection in the open financial market: A Case for the Bitcoin Network"
+title:  "[Dissertation] Anomaly detection in the open financial market:A Case for the Bitcoin Network"
 date:   2020-03-30
 excerpt: "Masters dissertation by Monamo, Faculty of Engineering and Electronics, University of Johannesburg"
 image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/patrickImg.png"
@@ -9,21 +9,7 @@ image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/patrickImg.pn
 Patrick Monamo,  
 
 ## Abstract
-In the Bitcoin network, lack of class labels tend to cause obscurities in anomalous
-financial behaviour interpretation. To understand fraud in the latest development of
-the financial sector, a multifaceted approach is proposed. In this research work, Bit-
-coin fraud is described from both global and local perspectives using trimmed k-means
-and kd-trees under the assumption of the existence of a maximum 1% of anomalies.
-The results of the two spheres are welded together based on agreements of detected
-anomalies to obtain a dataset with 0.2% belonging to the anomaly class and 99.8%
-normal class. The study further investigate the Bitcoin dataset from the class imbal-
-ance problem viewpoint by focusing on two levels of class imbalance severity. Most
-counter strategies proven to be effective include the re-sampling methods, instance
-weighting and cost-sensitive learning with CART as the base learner. Despite effec-
-tiveness, re-sampling methods require vector representation for instance propagation.
-On the one hand, cost-sensitive learning contains cost errors which are often unknown
-in advance while on the other hand instance-weighting techniques find it difficult to
-keep track of global objectives.
+In the Bitcoin network, lack of class labels tend to cause obscurities in anomalous financial behaviour interpretation. To understand fraud in the latest development of the financial sector, a multifaceted approach is proposed. In this research work, Bitcoin fraud is described from both global and local perspectives using trimmed k-means and kd-trees under the assumption of the existence of a maximum 1% of anomalies. The results of the two spheres are welded together based on agreements of detected anomalies to obtain a dataset with 0.2% belonging to the anomaly class and 99.8% normal class. The study further investigate the Bitcoin dataset from the class imbalance problem viewpoint by focusing on two levels of class imbalance severity. Most counter strategies proven to be effective include the re-sampling methods, instance weighting and cost-sensitive learning with CART as the base learner. Despite effectiveness, re-sampling methods require vector representation for instance propagation. On the one hand, cost-sensitive learning contains cost errors which are often unknown in advance while on the other hand instance-weighting techniques find it difficult to keep track of global objectives.
 
 Supervised learning algorithms are employed across three datasets preprocessing strate-
 gies with the quest to assess the appropriateness of the extracted features in this study.
