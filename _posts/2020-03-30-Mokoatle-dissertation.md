@@ -8,6 +8,10 @@ image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/mokoatleImg.p
 ## Members
 Mpho Mokoatle, Masters Computer Science
 
+| Supervisor     | Co-supervisor   | Co-supervisor |
+|--------------- |:---------------:|:---------------:|
+|Prof BM Esiefarienrhe| Dr VN Marivate| Mrs TL Letlonkane|
+
 ## Abstract
 Road traffic accidents (RTAs) in South Africa reached the highest road death toll in 2017, in  spite of road safety campaigns and initiatives. “ Ongoing campaigns are simply not sufficient’’, 
 said a representative from the South African Automobile Association (AA). RTA data is usually
