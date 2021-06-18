@@ -7,7 +7,7 @@ image:
 ---
 ## Members
 Henry Wandera, MITC Big Data Science
-## Supervisor
+### Supervisor(s)
 Dr. Vukosi Marivate
 
 ## Abstract

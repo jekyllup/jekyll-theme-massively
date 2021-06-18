@@ -7,7 +7,7 @@ image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/Terblanche.pn
 ---
 ## Members
 Michelle Terblanche, MITC Big Data Science
-## Supervisor 
+### Supervisor(s)
 Dr. V. N. Marivate
 
 ## Abstract
