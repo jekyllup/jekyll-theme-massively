@@ -7,6 +7,9 @@ image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/Tshepiso.png"
 ---
 ## Members
 Tshepiso Mokoena, Masters Computer Science
+| Supervisor     | Co-supervisor   | 
+|--------------- |:---------------:|
+|Prof. Turgay Celik| Dr VN Marivate| 
 
 ## Abstract
 Anomaly detection has received much attention throughout the years. Currently, human analysts in real-world applications use anomaly detectors to assist them in identifying
