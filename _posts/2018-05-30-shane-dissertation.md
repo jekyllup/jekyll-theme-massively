@@ -6,8 +6,8 @@ excerpt: "Masters dissertation by Shané, African Institute for Mathematical Sci
 image: 
 ---
 ## Members
-Shané van Graan, AIMS Big Data Science
-## Supervisor
+Shané van Graan, AIMS
+### Supervisor(s)
 Dr. Bubacarr Bah,
 Dr. Vukosi Marivate
 

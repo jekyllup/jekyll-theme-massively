@@ -7,7 +7,7 @@ image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/image--000_Th
 ---
 ## Members
 Jacques Lamont Theron, MITC Big Data Science
-## Supervisor
+### Supervisor(s)
 Dr. Vukosi Marivate
 
 ## Abstract

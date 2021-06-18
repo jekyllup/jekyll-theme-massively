@@ -7,7 +7,7 @@ image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/patrickImg.pn
 ---
 ## Members
 Patrick Monamo,  
-## Supervisor(s)
+### Supervisor(s)
 Prof Bhekisipho Twala,
  Dr VN Marivate
 ## Abstract
