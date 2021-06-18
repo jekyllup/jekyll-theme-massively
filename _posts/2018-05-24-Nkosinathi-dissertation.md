@@ -6,7 +6,7 @@ excerpt: "Masters dissertation by Nkosinathi, African Institute for Mathematical
 image: 
 ---
 ## Members
-Nkosinathi Hlophe, AIMS Big Data Science
+Nkosinathi Hlophe, AIMS 
 ### Supervisor(s)
 * Dr. Vukosi Marivate, University of Pretoria
 * Dr. Bubacarr Bah, AIMS
