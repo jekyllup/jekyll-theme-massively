@@ -53,9 +53,8 @@ The group is made up of a number of people who work on a few themes.
 * Boitshoko Pule [UP, CS Hons][NLP, SOC]
 * Harm de Wet [UP, CS Hons][NLP, SOC]
 * Elisabeth Mpatu [UP, CS Hons][NLP, SOC]
-* Avashlin Moodley [UP - MIT Big Data Science][ML, NLP, SM] [[Dissertation Announcement](https://dsfsi.github.io/blog/Avashlin-Moodly-dissertation)]
 * Tshepiso Mokoena [Wits][ML][[Dissertation Announcement](https://dsfsi.github.io/blog/Mokoena-dissertation)]
-* Colin van Zyl [UP - MIT Big Data Science][ML] (https://dsfsi.github.io/blog/2020-van-zyl-mit-dissertation)]
+* Colin van Zyl [UP - MIT Big Data Science][ML] [Dissertation Announcement](https://dsfsi.github.io/blog/2020-van-zyl-mit-dissertation)]
 * Jeanine Schutte [UP - MIT Big Data Science][ML]
 
 ### Earlier
@@ -64,3 +63,7 @@ The group is made up of a number of people who work on a few themes.
 * Jessica Nemasisi [Hons][UniVen][ML] - 2017
 * Tshepisho Sefara [NRF-CSIR, 2018][ML, NLP, Soc] - 2018
 * Niciah Hlungwane [NRF-CSIR, 2018][NLP] - 2018
+* Nkosinathi Hlophe [AIMS-CSIR, 2018][ML] [[Dissertation Announcement](https://dsfsi.github.io/blog/Nkosinathi-dissertation)]
+* Shané van Graan   [AIMS-CSIR, 2018][ML] [[Dissertation Announcement](https://dsfsi.github.io/blog/shane-dissertation)]
+* Phillemon Ntona Senoamadi [AIMS-CSIR, 2018][ML][[Dissertation Announcement](https://dsfsi.github.io/blog/phillemon-dissertation)]
+
