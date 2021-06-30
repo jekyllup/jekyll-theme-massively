@@ -3,7 +3,7 @@ layout: post
 title:  "[Dissertation] USE OF MACHINE LEARNING TECHNIQUES TO BETTER UTILISE MULTIPLE UNDERWRITING FACTORS IN MORTALITY PRICING AND RESERVING OF LIFE INSURANCE RISK PRODUCTS"
 date:   2020-03-30
 excerpt: "Masters dissertation by Collin, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
-image: 
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/vanZyl.png"
 ---
 ## Members
 Colin van Zyl, MITC Big Data Science

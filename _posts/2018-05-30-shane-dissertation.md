@@ -3,7 +3,7 @@ layout: post
 title:  "[Dissertation] Finding Suitable Locations of Wind Farms in South Africa"
 date:   2021-03-30
 excerpt: "Masters dissertation by Shané, African Institute for Mathematical Sciences"
-image: 
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/shane.png"
 ---
 ## Members
 Shané van Graan, AIMS

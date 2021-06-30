@@ -3,7 +3,7 @@ layout: post
 title:  "[Dissertation] Anomaly detection in the open financial market: A Case for the Bitcoin Market"
 date:   2020-03-30
 excerpt: "Masters dissertation by Monamo, Faculty of Engineering and Electronics, University of Johannesburg"
-image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/patrickImg.png"
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/monamoP.png"
 ---
 ## Members
 Patrick Monamo,  
