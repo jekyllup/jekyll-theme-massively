@@ -54,7 +54,7 @@ The group is made up of a number of people who work on a few themes.
 * Harm de Wet [UP, CS Hons][NLP, SOC]
 * Elisabeth Mpatu [UP, CS Hons][NLP, SOC]
 * Tshepiso Mokoena [Wits][ML][[Dissertation Announcement](https://dsfsi.github.io/blog/Mokoena-dissertation)]
-* Colin van Zyl [UP - MIT Big Data Science][ML] [Dissertation Announcement](https://dsfsi.github.io/blog/2020-van-zyl-mit-dissertation)]
+* Colin van Zyl [UP - MIT Big Data Science][ML] [Dissertation Announcement](https://dsfsi.github.io/blog/van-zyl-mit-dissertation)]
 * Jeanine Schutte [UP - MIT Big Data Science][ML]
 
 ### Earlier
