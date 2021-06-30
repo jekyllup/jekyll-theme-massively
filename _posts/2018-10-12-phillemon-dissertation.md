@@ -3,7 +3,7 @@ layout: post
 title:  "[Dissertation] Improving forecast accuracy of wind power output using multi-input LSTM model."
 date:   2018-10-15
 excerpt: "Masters dissertation by Phillemon, African Institute for Mathematical Sciences"
-image: 
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/phil.jpg"
 ---
 ## Members
 Phillemon Ntona Senoamadi, AIMS Big Data Science

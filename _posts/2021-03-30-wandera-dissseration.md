@@ -3,7 +3,7 @@ layout: post
 title:  "[Dissertation] Thuto: Depth Analysis of South African and Sierra Leone School Outcomes using Machine Learning"
 date:   2021-03-30
 excerpt: "Masters dissertation by Henry Wandera, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
-image: 
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/wandera.png"
 ---
 ## Members
 Henry Wandera, MITC Big Data Science

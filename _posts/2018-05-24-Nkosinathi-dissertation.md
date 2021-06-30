@@ -3,7 +3,7 @@ layout: post
 title:  "[Dissertation] Power Output Prediction For Wind Farms With Machine Learning"
 date:   2018-10-15
 excerpt: "Masters dissertation by Nkosinathi, African Institute for Mathematical Sciences"
-image: 
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/nkosi.jpg"
 ---
 ## Members
 Nkosinathi Hlophe, AIMS 
