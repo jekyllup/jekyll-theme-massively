@@ -33,6 +33,7 @@ We do a number of projects with partners and collaborators. See below. This list
 * [Coronavirus COVID-19 (2019-nCoV) Data Repository for Africa](https://github.com/dsfsi/covid19africa)
 * [Loughran McDonald-SA-2020 Sentiment Word List](https://researchdata.up.ac.za/articles/dataset/Loughran_McDonald-SA-2020_Sentiment_Word_List/14401178)
 * [South African News Data](https://zenodo.org/record/3668495)
+* You can get a more exhaustive list of datasets here [github.com/dsfsi/dsfsi-datasets](https://github.com/dsfsi/dsfsi-datasets)
 
 ## Software or Libraries
 
