@@ -27,11 +27,12 @@ We do a number of projects with partners and collaborators. See below. This list
 
 ## Datasets
 
+* [AfricaNLP Zenodo Community](https://zenodo.org/communities/africanlp/)
+* [African Pre-Trained Embeddings [NLP]](https://zenodo.org/record/3668481)
 * [Coronavirus COVID-19 (2019-nCoV) Data Repository for South Africa](https://github.com/dsfsi/covid19za)
 * [Coronavirus COVID-19 (2019-nCoV) Data Repository for Africa](https://github.com/dsfsi/covid19africa)
-* [African Pre-Trained Embeddings [NLP]](https://zenodo.org/record/3668481)
+* [Loughran McDonald-SA-2020 Sentiment Word List](https://researchdata.up.ac.za/articles/dataset/Loughran_McDonald-SA-2020_Sentiment_Word_List/14401178)
 * [South African News Data](https://zenodo.org/record/3668495)
-* [AfricaNLP Zenodo Community](https://zenodo.org/communities/africanlp/)
 
 ## Software or Libraries
 
