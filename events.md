@@ -20,6 +20,15 @@ See this [page](https://docs.google.com/document/d/1FpXpnbSYXpcJvtEYQgil60WmSS2G
 
 ## Invited Talks and Presentations
 
+### 2021 DFSI Seminars 
+Seminars @ DS@UP🚀 - Data Science for Society Seminar Series #DS4SocietySeminar
+
+We are kicking off the 2021 Data Science for Society Seminar Series. This year promises to be another set of great speakers tha cover research, practice and policy related to Data Science within our society. We look forward to having you at our seminar series.
+
+The dates of the series as well as some of the speakers are now available below. If you want to be updated on the seminar series, please sign up to the [DS@UP Newsletter](https://tinyletter.com/datascience-up/). You can also access our 2020 archive [here](https://www.youtube.com/playlist?list=PLSQgWNK_M4a9JDlwSOtq9gG7Z5Goxs4Zj),
+
+
+
 ### 2020
 * COVID19 Modelling Seminar Series - [The COVID-19 Data Conundrum - Why open should be default](https://docs.google.com/presentation/d/1xXx1ofnf5YGwWW4wkPbO5zgh23n3NYhUgIMBZL0c4Ng/edit?usp=sharing)
 * Deep Learning Indaba X South Africa - [Framework for Communicating COVID-19 Outbreak](https://docs.google.com/presentation/d/1kLakET_u7YuhqyLWCZYpaNSLbWM2NOVfR9-Ej0kqDpA/edit?usp=sharing)
