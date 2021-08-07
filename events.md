@@ -4,11 +4,23 @@ title: Data Science for Social Impact - Events
 description:
 sitemap:
     priority: 0.7
-    lastmod: 2020-03-11
+    lastmod: 2021-08-07
     changefreq: weekly
 ---
 
-## Monthly Deep Dive Talks and Invited Speakers
+## Seminars @ DS@UP🚀 - Data Science for Society Seminar Series #DS4SocietySeminar
+
+### 2021 Series
+
+The dates of the series as well as some of the speakers are now available below. If you want to be updated on the seminar series, please sign up to the [DS@UP Newsletter](https://tinyletter.com/datascience-up/). You can also access our 2020 archive [here](https://www.youtube.com/playlist?list=PLSQgWNK_M4a9JDlwSOtq9gG7Z5Goxs4Zj),
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpn1rejYJiSuwXr8OloR-OOZ-XSbIGzkyk1Qm2dc54CENcnCptqhWK-tgOJlEo3w-NjDI6EDV4JLLb/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="400"></iframe>
+
+### 2020 Series
+
+See the 2020 archiv one [Youtube](https://www.youtube.com/playlist?list=PLSQgWNK_M4a9JDlwSOtq9gG7Z5Goxs4Zj),
+
+### 2019 and earlier Series
 
 See this [page](https://docs.google.com/document/d/1FpXpnbSYXpcJvtEYQgil60WmSS2Gt3_M2QeZfg9DpiY/edit?usp=sharing).
 
@@ -19,15 +31,6 @@ See this [page](https://docs.google.com/document/d/1FpXpnbSYXpcJvtEYQgil60WmSS2G
 * Deep Learning Indaba 2018: AI Ethics and Policy [Facilitator and Organiser with Muthoni Wanyoike][Link]
 
 ## Invited Talks and Presentations
-
-### 2021 DFSI Seminars 
-Seminars @ DS@UP🚀 - Data Science for Society Seminar Series #DS4SocietySeminar
-
-We are kicking off the 2021 Data Science for Society Seminar Series. This year promises to be another set of great speakers tha cover research, practice and policy related to Data Science within our society. We look forward to having you at our seminar series.
-
-The dates of the series as well as some of the speakers are now available below. If you want to be updated on the seminar series, please sign up to the [DS@UP Newsletter](https://tinyletter.com/datascience-up/). You can also access our 2020 archive [here](https://www.youtube.com/playlist?list=PLSQgWNK_M4a9JDlwSOtq9gG7Z5Goxs4Zj),
-
-
 
 ### 2020
 * COVID19 Modelling Seminar Series - [The COVID-19 Data Conundrum - Why open should be default](https://docs.google.com/presentation/d/1xXx1ofnf5YGwWW4wkPbO5zgh23n3NYhUgIMBZL0c4Ng/edit?usp=sharing)
