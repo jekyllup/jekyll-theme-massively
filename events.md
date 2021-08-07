@@ -18,7 +18,7 @@ The dates of the series as well as some of the speakers are now available below.
 
 ### 2020 Series
 
-See the 2020 archiv one [Youtube](https://www.youtube.com/playlist?list=PLSQgWNK_M4a9JDlwSOtq9gG7Z5Goxs4Zj),
+See the 2020 archive on [Youtube](https://www.youtube.com/playlist?list=PLSQgWNK_M4a9JDlwSOtq9gG7Z5Goxs4Zj),
 
 ### 2019 and earlier Series
 
@@ -26,9 +26,16 @@ See this [page](https://docs.google.com/document/d/1FpXpnbSYXpcJvtEYQgil60WmSS2G
 
 ## Workshops
 
-* DALI 2019: Fairness and Transparency in Machine Learning [Co-organised with Moustapha Cisse] [Link]
+* AfricaNLP Workshop @ EACL 2021 [[Link](https://sites.google.com/view/africanlp-workshop)]
+* SautiYetu 2020: African NLP Unconference [[Link](https://sites.google.com/view/sautiyetu-nlp/)]
+* AfricaNLP Workshop @ ICLR 2020 [[Link](https://sites.google.com/view/africanlp-workshop)]
+* Practical ML for Developing Countries Workshop @ ICLR 2020 [[Link](https://pml4dc.github.io/iclr2020/)]
+* SautiYetu 2019: African NLP Unconference [[Link](https://sites.google.com/view/sautiyetu-nlp/)]
+* NLP @ Deep Learning Indaba 2019 [[Link](https://sites.google.com/view/nlpdlindaba/2019)]
+* AI AND FAIRNESS @ Deep Learning Indaba 2019 [[Link](https://sites.google.com/view/ai-fairness-dli-2019/home)]
+* DALI 2019: Fairness and Transparency in Machine Learning [[Link](http://dalimeeting.org/dali2019/workshop-fairness.html)]
 * International Data Week 2018: Data Science for Good, Data Science for Cyber Security [Co-organised with Nyalleng Moorosi]
-* Deep Learning Indaba 2018: AI Ethics and Policy [Facilitator and Organiser with Muthoni Wanyoike][Link]
+* Deep Learning Indaba 2018: AI Ethics and Policy [Facilitator and Organiser with Muthoni Wanyoike]
 
 ## Invited Talks and Presentations
 
