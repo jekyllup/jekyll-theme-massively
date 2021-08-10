@@ -4,17 +4,18 @@ title: Data Science for Social Impact - Publications
 description: 
 sitemap:
     priority: 0.7
-    lastmod: 2021-02-18
+    lastmod: 2021-08-10
     changefreq: weekly
 ---
 
 ### Work in Progress
 * H Wandera, V Marivate, D Sengeh. Investigating similarities and differences between South African and Sierra Leonean school outcomes using Machine Learning [[preprint]](https://arxiv.org/abs/2004.11369) [ML][SOC] 
-* V Marivate, A Moodley, A Saba. Extracting and categorising the reactions to COVID-19 by the South African public -- A social media study [[preprint]](https://arxiv.org/abs/2006.06336) [ML][NLP][SOC]
 
 ### 2021
-* Marivate, V., Aghoghovwia, P., Ismail, Y., Mahomed-Asmail, F. and Steenhuisen, S.L., 2021. The Fourth Industrial Revolution-what does it mean to our future faculty?. South African Journal of Science, 117(5-6), pp.1-3.	[[Paper](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S0038-23532021000300011)]
-* Michelle Terblanche, Vukosi Marivate. "Towards Financial Sentiment Analysis in a South African Landscape", Accepted for publication in Proceedings of CD-MAKE 2021 Conference [[Paper]()][[Preprint](https://arxiv.org/abs/2106.10004)][[Dataset](https://researchdata.up.ac.za/articles/dataset/Loughran_McDonald-SA-2020_Sentiment_Word_List/14401178)]
+* H de Wet, V Marivate. Is it Fake? News Disinformation Detection on South African News Websites. Proceedings of IEEE AFRICON 2021 (To Appear)  [[preprint]](https://arxiv.org/abs/2108.02941) [ML][NLP][SOC]
+* V Marivate, A Moodley, A Saba. Extracting and categorising the reactions to COVID-19 by the South African public -- A social media study. Proceedings of IEEE AFRICON 2021 (To Appear)  [[preprint]](https://arxiv.org/abs/2006.06336) [ML][NLP][SOC]
+* Marivate, V., Aghoghovwia, P., Ismail, Y., Mahomed-Asmail, F. and Steenhuisen, S.L., 2021. The Fourth Industrial Revolution-what does it mean to our future faculty?. South African Journal of Science, 117(5-6), pp.1-3.	[[Paper](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S0038-23532021000300011)][SOC]
+* Michelle Terblanche, Vukosi Marivate. "Towards Financial Sentiment Analysis in a South African Landscape", Accepted for publication in Proceedings of CD-MAKE 2021 Conference [[Paper]()][[Preprint](https://arxiv.org/abs/2106.10004)][[Dataset](https://researchdata.up.ac.za/articles/dataset/Loughran_McDonald-SA-2020_Sentiment_Word_List/14401178)][ML][NLP]
 * Oladeji O, Zhang C, Moradi T, Tarapore D, Stokes AC, Marivate V, Sengeh MD, Nsoesie EO Monitoring Information-Seeking Patterns and Obesity Prevalence in Africa With Internet Search Data: Observational Study JMIR Public Health Surveill 2021 [[Paper](https://publichealth.jmir.org/2021/4/e24348)][[Preprint](https://preprints.jmir.org/preprint/24348)][SoC]
 * V Marivate, Ensoesie, Hs MVE Combrink. "Africa’s Responses to COVID-19: An Early Data Science View"  *COVID-19 from the Margins. Pandemic Invisibilities, Policies and Resistance in the Datafied Society*. [Book Chapter](https://networkcultures.org/wp-content/uploads/2021/02/Covid19FromTheMargins.pdf#page=112) [SOC]
 * T. J. Sefara, S. G. Zwane, N. Gama, H. Sibisi, P. N. Senoamadi and V. Marivate, "Transformer-based Machine Translation for Low-resourced Languages embedded with Language Identification," 2021 Conference on Information Communications Technology and Society (ICTAS), Durban, South Africa, 2021, pp. 127-132* [[Paper URL](https://doi.org/10.1109/ICTAS50802.2021.9394996)] [NLP]
