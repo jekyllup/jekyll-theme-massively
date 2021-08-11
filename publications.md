@@ -12,6 +12,8 @@ sitemap:
 * H Wandera, V Marivate, D Sengeh. Investigating similarities and differences between South African and Sierra Leonean school outcomes using Machine Learning [[preprint]](https://arxiv.org/abs/2004.11369) [ML][SOC] 
 
 ### 2021
+* D Behr, C wa Maina, V Marivate. An empirical investigation into audio pipeline approaches for classifying bird species
+. Proceedings of IEEE AFRICON 2021 (To Appear)  [[Preprint](https://arxiv.org/abs/2108.04449)] [ML][SOC]
 * H de Wet, V Marivate. Is it Fake? News Disinformation Detection on South African News Websites. Proceedings of IEEE AFRICON 2021 (To Appear)  [[Preprint](https://arxiv.org/abs/2108.02941)] [[Dataset](https://zenodo.org/record/4682843)] [ML][NLP][SOC]
 * V Marivate, A Moodley, A Saba. Extracting and categorising the reactions to COVID-19 by the South African public -- A social media study. Proceedings of IEEE AFRICON 2021 (To Appear)  [[Preprint](https://arxiv.org/abs/2006.06336)][ML][NLP][SOC]
 * Marivate, V., Aghoghovwia, P., Ismail, Y., Mahomed-Asmail, F. and Steenhuisen, S.L., 2021. The Fourth Industrial Revolution-what does it mean to our future faculty?. South African Journal of Science, 117(5-6), pp.1-3.	[[Paper](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S0038-23532021000300011)][SOC]
