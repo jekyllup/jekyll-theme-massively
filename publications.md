@@ -12,7 +12,7 @@ sitemap:
 * H Wandera, V Marivate, D Sengeh. Investigating similarities and differences between South African and Sierra Leonean school outcomes using Machine Learning [[preprint]](https://arxiv.org/abs/2004.11369) [ML][SOC] 
 
 ### 2021
-* T Mokoena, T Celik, V Marivate. Why is this an Anomaly? Explaining Anomalies using Sequential Explanations.  Pattern Recognition (To Appear). [[Paper URL]()] [ML]
+* T Mokoena, T Celik, V Marivate. Why is this an Anomaly? Explaining Anomalies using Sequential Explanations. Pattern Recognition. [[Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S0031320321004088)] [ML]
 * D Behr, C wa Maina, V Marivate. An empirical investigation into audio pipeline approaches for classifying bird species
 . Proceedings of IEEE AFRICON 2021 (To Appear)  [[Preprint](https://arxiv.org/abs/2108.04449)] [ML][SOC]
 * H de Wet, V Marivate. Is it Fake? News Disinformation Detection on South African News Websites. Proceedings of IEEE AFRICON 2021 (To Appear)  [[Preprint](https://arxiv.org/abs/2108.02941)] [[Dataset](https://zenodo.org/record/4682843)] [ML][NLP][SOC]
