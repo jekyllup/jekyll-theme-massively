@@ -3,7 +3,7 @@ layout: post
 title:  "Data Science for Society Seminar: Using Machine Learning to Extract Key Meta-Data from Legal Text in Malawi"
 date:   2020-07-03
 excerpt: "Amelia Taylor"
-image: 
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/amelia.png"
 ---
 
 ## Talk Details

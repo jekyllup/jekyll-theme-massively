@@ -3,7 +3,7 @@ layout: post
 title:  "Data Science for Society Seminar: The process of creating satellite image ground-truth datasets for machine learning"
 date:   2020-06-19
 excerpt: "Raesetje Sefala"
-image: 
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/raesetja.png"
 ---
 
 ## Talk Details
