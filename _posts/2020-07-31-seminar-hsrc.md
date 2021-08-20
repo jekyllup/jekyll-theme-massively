@@ -3,7 +3,7 @@ layout: post
 title:  "Data Science for Society Seminar: AI and Data in South Africa's Health Sector"
 date:   2020-07-31
 excerpt: "Vedantha Singh, HSRC, UP"
-image: 
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/hsrc.png"
 ---
 
 ## Talk Details
