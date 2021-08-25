@@ -3,7 +3,7 @@ layout: post
 title:  "Pattern Extraction in Marketing"
 date:   2021-08-18
 excerpt: "Felipe Melo"
-image: 
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/felipe.png"
 ---
 
 ## Talk Details
