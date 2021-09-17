@@ -3,7 +3,7 @@ layout: post
 title:  "Environmental urban noise prediction for Kampala city"
 date:   2021-09-03
 excerpt: "Ernest Mwebaze"
-image: 
+image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/enerst.png"
 ---
 
 ## Talk Details
@@ -21,9 +21,8 @@ Ernest Mwebaze obtained his doctorate in machine learning from the University of
 * content will be uploaded soon
     
 ### Video
+<iframe width="560" height="315" src="https://youtu.be/8WLfLJpcsUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- * content will be uploaded soon
 
-### Notes
 
 
