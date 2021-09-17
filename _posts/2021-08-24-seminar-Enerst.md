@@ -8,13 +8,12 @@ image:
 
 ## Talk Details
 ### Abstract
-This talk looks into the process of creating datasets in general for Machine Learning, some of the issues involved, tools for data labelling, evaluation processes and some of the challenges I went through in my own work while creating a dataset for labelling South African neighbourhoods on satellite images.
+The process or urbanization in many developing country cities has led to an explosion of noise pollution. Research indicates a strong link between long-term noise exposure and the risk of a negative health outcome particularly cardiovascular and metabolic defects. While many governments have formed some type of regulation to curb noise pollution, they are faced with the insurmountable task of being able to collect data and detect the type of noise pollution. At Sunbird AI we are attempting to solve this challenge by deploying autonomous noise sensors throughout the city. This talk will focus on the process of noise training data collection and models for predicting different types of noises in a developing world urban city like Kampala in Uganda. I will focus on the training data collection and preprocessing and show some early results from various modeling options we have considered.
+
 
 ### Speaker Bio
-Raesetje is a Machine Learning Researcher who is currently a Computer Science Masters Student at Wits University, Johannesburg. Her research focuses on creating ground truth datasets and using machine learning to study spatial segregation in South Africa, post-Apartheid.
-She is interested in building communities which aim to increase the capacity and quality of work, of underrepresented groups in AI. Raesetje has been involved in building and organizing events for communities such as Women in Computational Science Research and the Deep Learning IndabaX Pretoria.
-She is mainly interested in using AI to solve problems experienced in developing countries; creating datasets for machine learning research and the discussions & creation/amendment of data privacy, ethics and accountability policies.
-As we now move to the next phase of our country's experience of COVID-19 and its responses, we continue to look back at what the covid19za project has been busy with over the last 2 months. Our focus for this write up is on understanding our health system capacity. The lack of updated openly available health system data (data about hospitals, clinics and health resources) was identified early on in the project as a challenge. Little did project members know how much work would have to go into getting data and making it accessible. In this post, we discuss these challenges, present what has been achieved so far and propose the next steps. 
+Ernest Mwebaze obtained his doctorate in machine learning from the University of Groningen. He has over 10 years experience in academia where he was part of the faculty at the School of Computing and Informatics Technology of Makerere University in Uganda. At Makerere University he co-led the Makerere Artificial Intelligence research lab and headed several research projects. He has worked with the UN at the Pulse Lab Kampala and with Google AI, in Accra, Ghana. His current portfolio includes being the Strategy Lead at Sunbird AI, a non-profit focused on productization of AI for social good.
+
 
 
 ## Video, Slides and Notes
