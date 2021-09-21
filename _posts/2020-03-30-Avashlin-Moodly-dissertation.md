@@ -15,3 +15,4 @@ The elections in South Africa are contested by multiple political parties appeal
 ## Publications
 
 * Moodley, A. and Marivate, V., 2019, November. Topic modelling of news articles for two consecutive elections in South Africa. In 2019 6th International Conference on Soft Computing & Machine Intelligence (ISCMI) (pp. 131-136). IEEE. [[Link](https://ieeexplore.ieee.org/abstract/document/9004342?casa_token=yp-bWRNymz0AAAAA:War0Re-_aGxD0-uLS1ObLuoLQQo-hOUVErmOZhBitYXHolvIkBFfJVLi7IOUHYbuiDmXhuczkVw)].
+
