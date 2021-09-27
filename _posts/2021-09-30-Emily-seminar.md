@@ -3,7 +3,7 @@ layout: post
 title:  "#DS4SocietySeminar 2021 <> Measuring the urban environment using street view imagery"
 date:   2021-09-24
 excerpt: "Emily Muller"
-image:  
+image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/emily.png"
 ---
 
 ## Talk Details
@@ -21,7 +21,7 @@ Emily Muller is a second year PhD candidate at Imperial College London. She is f
 * content will be uploaded soon
     
 ### Video
-<iframe width="560" height="315" src="https://youtu.be/XFj1TOzqNcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="hhttps://youtu.be/XFj1TOzqNcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
