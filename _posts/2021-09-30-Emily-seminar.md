@@ -20,9 +20,9 @@ Emily Muller is a second year PhD candidate at Imperial College London. She is f
 
 * content will be uploaded soon
     
-### Video
+### [Video](https://youtu.be/XFj1TOzqNcU)
 <iframe width="565" height="315" src="https://youtu.be/XFj1TOzqNcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-* [Video](https://youtu.be/XFj1TOzqNcU)
+
 
 
 
