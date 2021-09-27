@@ -22,7 +22,7 @@ Ernest Mwebaze obtained his doctorate in machine learning from the University of
     
 ### Video
 <iframe width="560" height="315" src="https://youtu.be/8WLfLJpcsUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-* [Video](https://youtu.be/8WLfLJpcsUM)
+
 
 
 
