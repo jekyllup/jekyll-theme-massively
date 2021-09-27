@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Environmental urban noise prediction for Kampala city"
+title:  "#DS4SocietySeminar 2021  <> Environmental urban noise prediction for Kampala city"
 date:   2021-09-03
 excerpt: "Ernest Mwebaze"
 image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/enerst.png"
