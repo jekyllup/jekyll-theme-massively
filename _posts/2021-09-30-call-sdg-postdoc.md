@@ -18,6 +18,8 @@ Closing date for applications: **5 November 2021**
 
 Full requirements and instructions are in this [[Document (Call for Postdoc)]](https://github.com/dsfsi/dsfsi.github.io/raw/master/files/SDGsandDataSciencePostdocAd.pdf).
 
+**Note:** *Do share with those who might be interested in this opportunity. For those who are, feel free to get in contact with Dr. Vukosi Marivate (vukosi.marivate@cs.up.ac.za) if you have questions.*
+
 When you send an email, please use this subject.
 
 **Subject:** SDG PostDoc Opportunity opportunity. 
