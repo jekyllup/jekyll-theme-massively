@@ -16,7 +16,7 @@ The Postdoctoral Research Fellow will be required to focus on the following:
 
 Closing date for applications: **5 November 2021**
 
-Full requirements and instructions are in this [Document](https://github.com/dsfsi/dsfsi.github.io/raw/master/files/SDGsandDataSciencePostdocAd.pdf).
+Full requirements and instructions are in this [[Document (Call for Postdoc)]](https://github.com/dsfsi/dsfsi.github.io/raw/master/files/SDGsandDataSciencePostdocAd.pdf).
 
 When you send an email, please use this subject.
 
