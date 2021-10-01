@@ -14,11 +14,12 @@ The efficacy of images to create quantitative measures of the urban environment 
 ### Speaker Bio
 Emily Muller is a second year PhD candidate at Imperial College London. She is funded by the MRC centre for environment and health, working within their stream: healthy cities, healthy people. Her research uses street view images to measure urban dynamics of social status and perception using machine learning and interpretability.
 
-
+### Call for participation.
+You are invited to participate in Emily's research by visiting [pulselondon.co.uk](http://pulselondon.co.uk/) and contributing your perceptions of the urban environment. Please see the attachment for more information.
 
 ## Video, Slides and Notes
 
-* content will be uploaded soon
+* [Attachment](https://github.com/dsfsi/dsfsi.github.io/raw/master/files/pulselondon.pdf) 
     
 ### [Video](https://youtu.be/XFj1TOzqNcU)
 <iframe width="565" height="315" src="https://youtu.be/XFj1TOzqNcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
