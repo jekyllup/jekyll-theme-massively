@@ -22,8 +22,7 @@ You are invited to participate in Emily's research by visiting [pulselondon.co.u
 * [Attachment](https://github.com/dsfsi/dsfsi.github.io/raw/master/files/pulselondon.pdf) 
     
 ### [Video](https://youtu.be/XFj1TOzqNcU)
-<iframe width="565" height="315" src="https://youtu.be/XFj1TOzqNcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XFj1TOzqNcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
