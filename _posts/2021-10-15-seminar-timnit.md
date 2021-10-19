@@ -3,7 +3,7 @@ layout: post
 title:  "#DS4SocietySeminar 2021 <> On the dangers of stochastic parrots"
 date:   2021-10-15
 excerpt: "Timnit Gebru"
-image:  
+image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/timnit.png"
 
 ---
 
@@ -24,7 +24,7 @@ Timnit Gebru was fired by Google in December 2020 for raising issues of discrimi
 ### [Video 1](https://youtu.be/s9lmQSqxBWg)
 <iframe width="565" height="315" src="https://youtu.be/s9lmQSqxBWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- ### [Video 2](https://youtu.be/XFj1TOzqNcU)
-<iframe width="565" height="315" src="https://youtu.be/XFj1TOzqNcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+### [Video 2](https://youtu.be/aklxShD7e7s)
+<iframe width="565" height="315" src="https://youtu.be/aklxShD7e7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
