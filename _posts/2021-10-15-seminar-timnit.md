@@ -21,10 +21,8 @@ Timnit Gebru was fired by Google in December 2020 for raising issues of discrimi
 
 * content will be uploaded soon 
     
-### [Video 1](https://youtu.be/s9lmQSqxBWg)
-<iframe width="565" height="315" src="https://youtu.be/s9lmQSqxBWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### [Video 1 - Talk + Q&A](https://youtu.be/aklxShD7e7s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aklxShD7e7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [Video 2](https://youtu.be/aklxShD7e7s)
-<iframe width="565" height="315" src="https://youtu.be/aklxShD7e7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+### [Video 2 - Discussion](https://youtu.be/s9lmQSqxBWg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s9lmQSqxBWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
