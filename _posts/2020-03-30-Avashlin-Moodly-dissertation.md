@@ -11,6 +11,7 @@ Avashlin Moodley, Masters Computer Science.
 Dr. Vukosi Marivate
 ## Abstract
 The elections in South Africa are contested by multiple political parties appealing to a diverse population that comes from a variety of socioeconomic backgrounds. As a result, a rich source of discourse is created to inform voters about election-related content. Two common sources of information to help voters with their decision are news articles and tweets, this study aims to understand the discourse in these two sources using natural language processing. Topic modelling techniques, Latent Dirichlet Allocation and Nonnegative Matrix Factorization, are applied to digest the breadth of information collected about the elections into topics. The topics produced are subjected to further analysis that uncovers similarities between topics, links topics to dates and events and provides a summary of the discourse that existed prior to the South African general elections. The primary focus is on the 2019 elections, however election-related articles from 2014 and 2019 were also compared to understand how the discourse has changed.
+### [[Paper](https://repository.up.ac.za/handle/2263/82552)]
 
 ## Publications
 
