@@ -16,3 +16,8 @@ Sentiment analysis as a sub-field of natural language processing has received in
 ## Publications
 
 * Michelle Terblanche, Vukosi Marivate. "Towards Financial Sentiment Analysis in a South African Landscape", Machine Learning and Knowledge Extraction. CD-MAKE 2021. Lecture Notes in Computer Science, vol 12844.  [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-84060-0_12)][[Preprint](https://arxiv.org/abs/2106.10004)][[Dataset](https://researchdata.up.ac.za/articles/dataset/Loughran_McDonald-SA-2020_Sentiment_Word_List/14401178)][[Video](https://www.youtube.com/watch?v=Uoi1KQNU6Lc)][ML][NLP]
+
+## Video
+
+### [Video](https://www.youtube.com/watch?v=Uoi1KQNU6Lc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uoi1KQNU6Lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
