@@ -6,7 +6,7 @@ excerpt: "Mack Makgatho, Vukosi Marivate, Tshephisho Sefara, Valencia Wagner"
 image: ""
 ---
 ## Members
-Jacques Lamont Theron, MITC Big Data Science
+Mack Makgatho, Vukosi Marivate, Tshephisho Sefara, Valencia Wagner
 ### Supervisor(s)
 Dr. Vukosi Marivate
 
