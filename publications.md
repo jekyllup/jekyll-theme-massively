@@ -13,9 +13,11 @@ sitemap:
 
 
 ### 2022
+
 * T Mokoena, T Celik, V Marivate. Why is this an Anomaly? Explaining Anomalies using Sequential Explanations. Pattern Recognition. [[Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S0031320321004088)][ML]
-* 
+
 ### 2021
+
 * Makgatho, M., Marivate, V., Sefara, T. and Wagner, V., 2021. Training Cross-Lingual embeddings for Setswana and Sepedi, *Proceedings of the second workshop on Resources for African Indigenous Languages (RAIL)(To Appear)*  [[Preprint](https://arxiv.org/abs/2111.06230)][[Paper]()][NLP]
 * D Behr, C wa Maina, V Marivate. An empirical investigation into audio pipeline approaches for classifying bird species
 . Proceedings of IEEE AFRICON 2021  [[Preprint](https://arxiv.org/abs/2108.04449)][[Paper](https://ieeexplore.ieee.org/document/9570862)][ML][SOC]
@@ -31,6 +33,7 @@ sitemap:
 * Sefara, T.J., Mokgonyane, T.B. and Marivate, V., 2021. Practical Approach on Implementation of WordNets for South African Languages. *In Proceedings of the Eleventh Global Wordnet Conference*. [[Paper URL](https://www.aclweb.org/anthology/2021.gwc-1.3/)] [[Dataset URL](https://zenodo.org/record/4299515)] [[Python Library](https://pypi.org/project/africanwordnet/)][NLP]
 
 ### 2020
+
 * V Marivate. Why African natural language processing now? A view from South Africa #AfricaNLP. *Leap 4.0: African Perspectives on the Fourth Industrial Revolution.* [ML][NLP] [[Working Paper URL](https://mistra.org.za/mistra-media/why-african-natural-language-processing-now-a-view-from-south-africa-africanlp/)]
 * Masakhane et. al., Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages. *Findings of EMNLP*.[[Paper URL](https://www.aclweb.org/anthology/2020.findings-emnlp.195.pdf)]
 * V Marivate, T Sefara. Improving short text classification through global augmentation methods. *Machine Learning and Knowledge Extraction. CD-MAKE 2020. Lecture Notes in Computer Science* [[preprint]](https://arxiv.org/abs/1907.03752) [[URL]](https://link.springer.com/chapter/10.1007%2F978-3-030-57321-8_21) [ML][NLP] 
