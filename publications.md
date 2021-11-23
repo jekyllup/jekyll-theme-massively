@@ -4,19 +4,23 @@ title: Data Science for Social Impact - Publications
 description: 
 sitemap:
     priority: 1.0
-    lastmod: 2021-08-18
+    lastmod: 2021-11-23
     changefreq: weekly
 ---
 
 ### Work in Progress
 * H Wandera, V Marivate, D Sengeh. Investigating similarities and differences between South African and Sierra Leonean school outcomes using Machine Learning [[preprint]](https://arxiv.org/abs/2004.11369) [ML][SOC] 
 
+
+### 2022
+* T Mokoena, T Celik, V Marivate. Why is this an Anomaly? Explaining Anomalies using Sequential Explanations. Pattern Recognition. [[Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S0031320321004088)][ML]
+* 
 ### 2021
-* T Mokoena, T Celik, V Marivate. Why is this an Anomaly? Explaining Anomalies using Sequential Explanations. Pattern Recognition. [[Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S0031320321004088)] [ML]
+* Makgatho, M., Marivate, V., Sefara, T. and Wagner, V., 2021. Training Cross-Lingual embeddings for Setswana and Sepedi, *Proceedings of the second workshop on Resources for African Indigenous Languages (RAIL)(To Appear)*  [[Preprint](https://arxiv.org/abs/2111.06230)][[Paper]()][NLP]
 * D Behr, C wa Maina, V Marivate. An empirical investigation into audio pipeline approaches for classifying bird species
-. Proceedings of IEEE AFRICON 2021 (To Appear)  [[Preprint](https://arxiv.org/abs/2108.04449)] [ML][SOC]
-* H de Wet, V Marivate. Is it Fake? News Disinformation Detection on South African News Websites. Proceedings of IEEE AFRICON 2021 (To Appear)  [[Preprint](https://arxiv.org/abs/2108.02941)] [[Dataset](https://zenodo.org/record/4682843)] [ML][NLP][SOC]
-* V Marivate, A Moodley, A Saba. Extracting and categorising the reactions to COVID-19 by the South African public -- A social media study. Proceedings of IEEE AFRICON 2021 (To Appear)  [[Preprint](https://arxiv.org/abs/2006.06336)][ML][NLP][SOC]
+. Proceedings of IEEE AFRICON 2021  [[Preprint](https://arxiv.org/abs/2108.04449)][[Paper](https://ieeexplore.ieee.org/document/9570862)][ML][SOC]
+* H de Wet, V Marivate. Is it Fake? News Disinformation Detection on South African News Websites. Proceedings of IEEE AFRICON 2021 [[Preprint](https://arxiv.org/abs/2108.02941)][[Paper](https://ieeexplore.ieee.org/document/9570905)] [[Dataset](https://zenodo.org/record/4682843)] [ML][NLP][SOC]
+* V Marivate, A Moodley, A Saba. Extracting and categorising the reactions to COVID-19 by the South African public -- A social media study. Proceedings of IEEE AFRICON 2021 [[Preprint](https://arxiv.org/abs/2006.06336)][[Paper](https://ieeexplore.ieee.org/document/9571010)][ML][NLP][SOC]
 * Marivate, V., Aghoghovwia, P., Ismail, Y., Mahomed-Asmail, F. and Steenhuisen, S.L., 2021. The Fourth Industrial Revolution-what does it mean to our future faculty?. South African Journal of Science, 117(5-6), pp.1-3.	[[Paper](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S0038-23532021000300011)][SOC]
 * Michelle Terblanche, Vukosi Marivate. "Towards Financial Sentiment Analysis in a South African Landscape", Machine Learning and Knowledge Extraction. CD-MAKE 2021. Lecture Notes in Computer Science, vol 12844.  [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-84060-0_12)][[Preprint](https://arxiv.org/abs/2106.10004)][[Dataset](https://researchdata.up.ac.za/articles/dataset/Loughran_McDonald-SA-2020_Sentiment_Word_List/14401178)][[Video](https://www.youtube.com/watch?v=Uoi1KQNU6Lc)][ML][NLP]
 * Oladeji O, Zhang C, Moradi T, Tarapore D, Stokes AC, Marivate V, Sengeh MD, Nsoesie EO Monitoring Information-Seeking Patterns and Obesity Prevalence in Africa With Internet Search Data: Observational Study JMIR Public Health Surveill 2021 [[Paper](https://publichealth.jmir.org/2021/4/e24348)][[Preprint](https://preprints.jmir.org/preprint/24348)][SoC]
@@ -43,19 +47,16 @@ sitemap:
 * M Mokoatle, V Marivate, M Esiefarienrhe. Predicting Road Traffic Accident Severity using Accident Report Data in South Africa, *Proceedings of 20th Annual International Conference on Digital Government Research (dg.o’20)*. [[Paper URL](https://dl.acm.org/citation.cfm?id=3325211)] [ML][Soc]
 
 ### 2018
-
 * V Marivate, N Moorosi. Exploring data science for public good in South Africa: evaluating factors that lead to success [Soc]- [URL](https://dl.acm.org/citation.cfm?id=3209366)
 * M Mokoatle, V Marivate. Collision Course: Challenges with Road Traffic Accident Data in South Africa. *2018 International Conference on Advances in Big Data, Computing and Data Communication Systems (icABCD)*  [ML][Soc] - [URL](https://ieeexplore.ieee.org/abstract/document/8465419)
 
 ### 2017
-
 * Bringing Sequential Feature Explanations to life. Tshepiso Mokoena, Ofentswe Lebogo, Asive Dlaba, Vukosi Marivate [2017]
 * Employment relations: A data driven analysis of job markets using online job boards and online professional networks. Web Intelligence 17,  Vukosi Marivate, Nyalleng Moorosi [2017]
 * Semi-supervised probabilistics approach for normalising informal short text messages. 2017 Conference on Information Communication Technology and Society (ICTAS). Abiodun Modupe, Turgay Celik, Vukosi Marivate, Melvin Diale [2017]
 * A critical and ecosystem consideration of data for sustainable development in Africa. International Conference on Social Implications of Computers in Developing Countries. Nyalleng Moorosi, Mamello Thinyane, Vukosi Marivate [2017]
 
 ### 2016
-
 * Tackling Imbalanced Data Sets For Sequential Feature Explanation Generation Using Cost Sensitive Learning And Sampling. AusDM. Tshepiso Mokoena, Vukosi Marivate, Turgay Celik [2016]
 * A Multifaceted Approach to Bitcoin Fraud Detection: Global and Local Outliers. ICMLA. Patrick Monamo, Vukosi Marivate and Bhekisipho Twala [2016]
 * Research using Social Media Data, Developing Country Perspectives. AfriCHI. Vukosi Marivate and Nyalleng Moorosi [2016] Workshop.
