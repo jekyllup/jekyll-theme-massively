@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why African Leaders Matter[Panel]"
+title:  "AI To the Future <> Why African Leaders Matter[Panel]"
 date:   2021-10-26
 excerpt: "Vukosi Marivate, Uzodinma Iweala, Mutale Nkonde, & Jackie Mwaniki"
 image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/africa.png"
