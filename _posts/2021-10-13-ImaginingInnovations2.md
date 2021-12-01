@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Covid Dashboard: AI & 'Information' in Pandemic times[Panel]"
+title:  "Imagining Innovations 2021 <> The Covid Dashboard: AI & 'Information' in Pandemic times[Panel]"
 date:   2021-10-13
 excerpt: "Vukosi Marivate & Barry Dwolatzky"
 image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/innovations.png"
