@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Publication] Thuto: Depth Analysis of South African and Sierra Leone School Outcomes using Machine Learning"
+title:  "[Publication] Investigating Statistical and Machine Learning Techniques to Improve the Credit Approval Process in Developing Countries"
 date:   2021-03-30
 excerpt: "Publication by Moses, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
 image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/Moses.png"

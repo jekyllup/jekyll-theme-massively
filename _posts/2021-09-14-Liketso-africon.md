@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Publication] Thuto: Depth Analysis of South African and Sierra Leone School Outcomes using Machine Learning"
+title:  "[Publication] Call Centre Shift Schedule Optimisation using Local Search Heuristics"
 date:   2021-03-30
 excerpt: "Publication by Liketso, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
 image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/liketso.png"
