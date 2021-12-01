@@ -3,7 +3,7 @@ layout: post
 title:  "#DS4SocietySeminar 2021 <> Anti-Asian COVID-related Hate Speech and Stigma on Twitter: Dataset Creation to Algorithmic Detection"
 date:   2021-11-21
 excerpt: "Syed Ishtiaque Ahmed"
-image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/timnit.png"
+image:  ""
 
 ---
 
