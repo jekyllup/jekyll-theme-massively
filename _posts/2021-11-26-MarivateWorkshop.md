@@ -3,7 +3,7 @@ layout: post
 title:  "Nbgrader and streamlit for Data Science Teaching and Learning-EBIT T&L[Workshop]"
 date:   2021-11-26
 excerpt: "Vukosi Marivate"
-image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/felipe.png"
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/vukosiWorkshop.png"
 ---
 
 ## Talk Details
