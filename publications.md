@@ -14,7 +14,7 @@ sitemap:
 
 ### 2022
 
-* T Mokoena, T Celik, V Marivate. Why is this an Anomaly? Explaining Anomalies using Sequential Explanations. Pattern Recognition. [[Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S0031320321004088)][ML]
+* T Mokoena, T Celik, V Marivate. Why is this an Anomaly? Explaining Anomalies using Sequential Explanations. Pattern Recognition. [[Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S0031320321004088)][[Preprint](https://repository.up.ac.za/handle/2263/82935)][ML]
 
 ### 2021
 
