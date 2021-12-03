@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Science for Social Impact - Publications
-description: 
+description:
 sitemap:
     priority: 1.0
     lastmod: 2021-08-18
@@ -9,7 +9,7 @@ sitemap:
 ---
 
 ### Work in Progress
-* H Wandera, V Marivate, D Sengeh. Investigating similarities and differences between South African and Sierra Leonean school outcomes using Machine Learning [[preprint]](https://arxiv.org/abs/2004.11369) [ML][SOC] 
+* H Wandera, V Marivate, D Sengeh. Investigating similarities and differences between South African and Sierra Leonean school outcomes using Machine Learning [[preprint]](https://arxiv.org/abs/2004.11369) [ML][SOC]
 
 ### 2021
 * T Mokoena, T Celik, V Marivate. Why is this an Anomaly? Explaining Anomalies using Sequential Explanations. Pattern Recognition. [[Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S0031320321004088)] [ML]
@@ -25,20 +25,21 @@ sitemap:
 * Kraemer, M.U.G., Scarpino, S.V., Marivate, V. et al. Data curation during a pandemic and lessons learned from COVID-19. Nat Comput Sci 1, 9–10 (2021).[[Paper URL](https://doi.org/10.1038/s43588-020-00015-6)] [NLP]
 * H Ngejana, J Eloff, T Sefara, V Marivate. Digital forensics supported by machine learning for the detection of online sexual predatory chats.*Forensic Science International: Digital Investigation* [[Paper URL](https://www.sciencedirect.com/science/article/pii/S2666281721000032)][[Preprint](https://repository.up.ac.za/handle/2263/79468)][NLP][SOC]
 * Sefara, T.J., Mokgonyane, T.B. and Marivate, V., 2021. Practical Approach on Implementation of WordNets for South African Languages. *In Proceedings of the Eleventh Global Wordnet Conference*. [[Paper URL](https://www.aclweb.org/anthology/2021.gwc-1.3/)] [[Dataset URL](https://zenodo.org/record/4299515)] [[Python Library](https://pypi.org/project/africanwordnet/)][NLP]
-
+* L. Nthimo, T. Mokoena, A. Modupe and V. Marivate, "Call Centre Shift Schedule Optimisation using Local Search Heuristics," 2021 IEEE AFRICON, 2021, pp. 1-6, doi: 10.1109/AFRICON51333.2021.9570947.
+* M. Lusinga, T. Mokoena, A. Modupe and V. Mariate, "Investigating Statistical and Machine Learning Techniques to Improve the Credit Approval Process in Developing Countries," 2021 IEEE AFRICON, 2021, pp. 1-6, doi: 10.1109/AFRICON51333.2021.9570906.
 ### 2020
 * V Marivate. Why African natural language processing now? A view from South Africa #AfricaNLP. *Leap 4.0: African Perspectives on the Fourth Industrial Revolution.* [ML][NLP] [[Working Paper URL](https://mistra.org.za/mistra-media/why-african-natural-language-processing-now-a-view-from-south-africa-africanlp/)]
 * Masakhane et. al., Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages. *Findings of EMNLP*.[[Paper URL](https://www.aclweb.org/anthology/2020.findings-emnlp.195.pdf)]
-* V Marivate, T Sefara. Improving short text classification through global augmentation methods. *Machine Learning and Knowledge Extraction. CD-MAKE 2020. Lecture Notes in Computer Science* [[preprint]](https://arxiv.org/abs/1907.03752) [[URL]](https://link.springer.com/chapter/10.1007%2F978-3-030-57321-8_21) [ML][NLP] 
+* V Marivate, T Sefara. Improving short text classification through global augmentation methods. *Machine Learning and Knowledge Extraction. CD-MAKE 2020. Lecture Notes in Computer Science* [[preprint]](https://arxiv.org/abs/1907.03752) [[URL]](https://link.springer.com/chapter/10.1007%2F978-3-030-57321-8_21) [ML][NLP]
 * N Mtsweni, H MvE Combrink, V Marivate. Mapping the South African health landscape in response to COVID-19. *KDD 2020 Workshop on Humanitarian Mapping*. [[preprint]](https://arxiv.org/abs/2006.15216) [SOC]
 * V Marivate, HMvE Combrink. Use of Available Data To Inform The COVID-19 Outbreak in South Africa: A Case Study. *Data Science Journal* [[Publication]](https://doi.org/10.5334/dsj-2020-019) [Soc]
 * M Naidoo, V Marivate. Unsupervised Anomaly Detection of Healthcare Providers using Generative Adversarial Networks. *Responsible Design, Implementation and Use of Information and Communication Technology* [[Paper URL](https://link.springer.com/chapter/10.1007/978-3-030-44999-5_35)] [ML][Soc]
 * Masakhane -- Machine Translation For Africa. *Africa NLP Workshop - ICLR 2020* [[preprint]](https://arxiv.org/abs/2003.11529) [NLP]
-* V Marivate, T Sefara, V Chabalala, K Makhaya, T Mokgonyane, R Mokoena, A Modupe. Investigating an approach for low resource language dataset creation, curation and classification: Setswana and Sepedi. *Proceedings of the First workshop on Resources for African Indigenous Languages (RAIL), pages 15–20*. [[preprint](https://arxiv.org/abs/2003.04986)][ML][NLP] 
+* V Marivate, T Sefara, V Chabalala, K Makhaya, T Mokgonyane, R Mokoena, A Modupe. Investigating an approach for low resource language dataset creation, curation and classification: Setswana and Sepedi. *Proceedings of the First workshop on Resources for African Indigenous Languages (RAIL), pages 15–20*. [[preprint](https://arxiv.org/abs/2003.04986)][ML][NLP]
 
 ### 2019
 
-* H Wandera, V Marivate, D Sengeh. Predicting National School Performance for Policy Making in South Africa.*2019 6th International Conference on Soft Computing & Machine Intelligence (ISCMI)*[[Paper URL](https://ieeexplore.ieee.org/abstract/document/9004323)][[Preprint](https://www.k4all.org/wp-content/uploads/2019/07/Predicting-school-performance-using-a-combination-of-traditional-and-non-traditional-education-data-from-South-Africa.pdf)] [ML][Soc] 
+* H Wandera, V Marivate, D Sengeh. Predicting National School Performance for Policy Making in South Africa.*2019 6th International Conference on Soft Computing & Machine Intelligence (ISCMI)*[[Paper URL](https://ieeexplore.ieee.org/abstract/document/9004323)][[Preprint](https://www.k4all.org/wp-content/uploads/2019/07/Predicting-school-performance-using-a-combination-of-traditional-and-non-traditional-education-data-from-South-Africa.pdf)] [ML][Soc]
 * A Moodley, V Marivate. Topic Modelling of News Articles for Two Consecutive Elections in South Africa. *2019 6th International Conference on Soft Computing & Machine Intelligence (ISCMI)*. [[Paper URL](https://ieeexplore.ieee.org/document/9004342)][[Preprint](https://www.researchgate.net/publication/335691873_Topic_Modelling_Of_News_Articles_For_Two_Consecutive_Elections_In_South_Africa)][ML][NLP]
 * M Mokoatle, V Marivate, M Esiefarienrhe. Predicting Road Traffic Accident Severity using Accident Report Data in South Africa, *Proceedings of 20th Annual International Conference on Digital Government Research (dg.o’20)*. [[Paper URL](https://dl.acm.org/citation.cfm?id=3325211)] [ML][Soc]
 
