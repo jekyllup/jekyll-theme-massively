@@ -4,7 +4,7 @@ title: Data Science for Social Impact - Projects
 description: 
 sitemap:
     priority: 0.7
-    lastmod: 2019-09-08
+    lastmod: 2021-11-12
     changefreq: weekly
 ---
 
@@ -33,6 +33,7 @@ We do a number of projects with partners and collaborators. See below. This list
 * [Coronavirus COVID-19 (2019-nCoV) Data Repository for Africa](https://github.com/dsfsi/covid19africa)
 * [Loughran McDonald-SA-2020 Sentiment Word List](https://researchdata.up.ac.za/articles/dataset/Loughran_McDonald-SA-2020_Sentiment_Word_List/14401178)
 * [South African News Data](https://zenodo.org/record/3668495)
+* [South African Disinformation [Fake News] Website Data - 2020](https://github.com/dsfsi/za-fake-news-2020)
 * You can get a more exhaustive list of datasets here [github.com/dsfsi/dsfsi-datasets](https://github.com/dsfsi/dsfsi-datasets)
 
 ## Software or Libraries
@@ -46,8 +47,9 @@ TBA
 
 ## Initiatives
 
+* [CSIR-DSFSI-MMZA 2021 Municipal Election Social Media Monitoring Project](https://dsfsi.github.io/zaelection2021/)
 * [Corona Virus, COVID 19 ZA Dashboard](https://bitly.com/covid19za-dash)
-* [Masakhane](https://www.masakhane.io/)
+* [Masakhane NLP](https://www.masakhane.io/)
 * [AI for Development: AI4D](https://ai4d.ai/)
 * [Deep Learning Indaba](http://deeplearningindaba.com)
 * [SautiYetu AfricanNLP Unconference](https://sites.google.com/view/sautiyetu-nlp/)
