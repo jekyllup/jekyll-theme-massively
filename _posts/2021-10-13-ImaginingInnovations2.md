@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#Imagining Innovations 2021 <> The Covid Dashboard: AI & 'Information' in Pandemic times"
+title:  "Imagining Innovations 2021 <> The Covid Dashboard: AI & 'Information' in Pandemic times[Panel]"
 date:   2021-10-13
 excerpt: "Vukosi Marivate & Barry Dwolatzky"
 image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/innovations.png"
@@ -15,7 +15,6 @@ To disseminate this information, the Data Science for Social Impact research gro
 * [Visit this link for more information](https://www.wits.ac.za/witswethu/)
 ## Video, Slides and Notes
 
-    
+
 ### [Video - Talk + Q&A](https://www.youtube.com/watch?v=mG6I7aBYomg)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mG6I7aBYomg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-

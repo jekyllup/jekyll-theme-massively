@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#AI To the Future <> Why African Leaders Matter"
+title:  "AI To the Future <> Why African Leaders Matter[Panel]"
 date:   2021-10-26
 excerpt: "Vukosi Marivate, Uzodinma Iweala, Mutale Nkonde, & Jackie Mwaniki"
 image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/africa.png"
@@ -14,7 +14,6 @@ In an increasingly digital world, Artificial Intelligence (AI) has a growing inf
 
 ## Video, Slides and Notes
 
-    
+
 ### [Video - Talk + Q&A](https://www.youtube.com/watch?v=woKz-3xwZUE)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/woKz-3xwZUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
