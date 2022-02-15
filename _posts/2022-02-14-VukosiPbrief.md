@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Policy Brief] More Than Just a Policy - Day to Day Effects of Data Governance on the Data Scientis"
+title:  "[Policy Brief] More Than Just a Policy - Day to Day Effects of Data Governance on the Data Scientist"
 date:   2022-02-14
 excerpt: "Assoc.Prof Vukosi Marivate,"
 image: ""
