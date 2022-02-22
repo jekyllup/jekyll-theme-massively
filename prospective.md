@@ -4,7 +4,7 @@ title: Data Science for Social Impact - Prospective Students
 description: 
 sitemap:
     priority: 0.7
-    lastmod: 2019-09-08
+    lastmod: 2022-02-22
     changefreq: weekly
 ---
 
@@ -29,7 +29,10 @@ See this [[GUIDE]](https://docs.google.com/document/d/1-AdUPZmvmq47hHd47yJsGZCTf
 MIT Big Data Science students have to do a 2nd year project and mini dissertation. We have opportunities for projects, supervision as well. 
 
 ### Potential Projects Available for MIT Big Data Science
+* Get in touch with Prof. Vukosi Marivate or Mr. Abiodun Modupe
+* *propose a project around our themes*
 
+#### Past Projects
 * Local Language Classification Models [NLP]
 * Text Augmentation Approaches [NLP]
 * Cyber Safety understanding [NLP]
@@ -38,7 +41,6 @@ MIT Big Data Science students have to do a 2nd year project and mini dissertatio
 * Project collaboration with Dr. Ciira Maina [The Kenya Bioacoustics Project](https://sites.google.com/site/kenyabioacoustics/) [ML][Soc][Topics](https://docs.google.com/document/d/1DQGUUc1rUAa2xDUZ9eZt96yaHteXht6Nw66eI3_TzcY/edit?usp=sharing)
 * Project collaboration the [Mail and Guardian](https://www.mg.co.za) [NLP][Soc]
 * Project collaboration with [DSTI Sierra Leone](https://dsti.gov.sl/) [ML][Soc]
-* *propose a project around our themes*
 
 ## CS Honours Students @ University of Pretoria
 
@@ -46,12 +48,7 @@ For hounours students, projects are mostly towards research. Best you try to mak
 
 ### Potential Projects Available for CS Honours Students
 
-* Local Language Classification Models [NLP]
-* Text Augmentation Approaches [NLP]
-* Public and Government Textual Data Understanding [NLP][Soc]
-* Education System Modelling [ML][Soc]
-* Deep Learning at the edge with [Google Coral](https://coral.withgoogle.com/)[ML]
-* *propose a project around our themes*
+See the [2022 COS 700 DSFSI list](https://docs.google.com/document/d/1ROb7tHQaTIoUxm-la0Lm1am0II1Wvba0dlwddd4SC-M/edit?usp=sharing)
 
 ## All Undegrad Students @ University of Pretoria
 
