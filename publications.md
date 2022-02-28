@@ -15,10 +15,11 @@ sitemap:
 ### 2022
 
 * T Mokoena, T Celik, V Marivate. Why is this an Anomaly? Explaining Anomalies using Sequential Explanations. Pattern Recognition. [[Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S0031320321004088)][[Preprint](https://repository.up.ac.za/handle/2263/82935)][ML]
+* * Makgatho, M., Marivate, V., Sefara, T. and Wagner, V., 2022. Training Cross-Lingual embeddings for Setswana and Sepedi, *Proceedings of the 2nd workshop on Resources for African Indigenous Language (RAIL) at DHASA 2021 * [[Paper URL](https://upjournals.up.ac.za/index.php/dhasa/article/view/3822)][[Preprint](https://arxiv.org/abs/2111.06230)][[Paper]()][[Embedding Evaluation Dataset](https://zenodo.org/record/5673974)][NLP]
+
 
 ### 2021
 
-* Makgatho, M., Marivate, V., Sefara, T. and Wagner, V., 2021. Training Cross-Lingual embeddings for Setswana and Sepedi, *Proceedings of the second workshop on Resources for African Indigenous Languages (RAIL)(To Appear)*  [[Preprint](https://arxiv.org/abs/2111.06230)][[Paper]()][[Embedding Evaluation Dataset](https://zenodo.org/record/5673974)][NLP]
 * D Behr, C wa Maina, V Marivate. An empirical investigation into audio pipeline approaches for classifying bird species
 . Proceedings of IEEE AFRICON 2021  [[Preprint](https://arxiv.org/abs/2108.04449)][[Paper](https://ieeexplore.ieee.org/document/9570862)][ML][SOC]
 * H de Wet, V Marivate. Is it Fake? News Disinformation Detection on South African News Websites. Proceedings of IEEE AFRICON 2021 [[Preprint](https://arxiv.org/abs/2108.02941)][[Paper](https://ieeexplore.ieee.org/document/9570905)] [[Dataset](https://zenodo.org/record/4682843)] [ML][NLP][SOC]
