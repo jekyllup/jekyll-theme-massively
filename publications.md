@@ -15,7 +15,7 @@ sitemap:
 ### 2022
 
 * T Mokoena, T Celik, V Marivate. Why is this an Anomaly? Explaining Anomalies using Sequential Explanations. Pattern Recognition. [[Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S0031320321004088)][[Preprint](https://repository.up.ac.za/handle/2263/82935)][ML]
-* * Makgatho, M., Marivate, V., Sefara, T. and Wagner, V., 2022. Training Cross-Lingual embeddings for Setswana and Sepedi, *Proceedings of the 2nd workshop on Resources for African Indigenous Language (RAIL) at DHASA 2021 * [[Paper URL](https://upjournals.up.ac.za/index.php/dhasa/article/view/3822)][[Preprint](https://arxiv.org/abs/2111.06230)][[Paper]()][[Embedding Evaluation Dataset](https://zenodo.org/record/5673974)][NLP]
+* Makgatho, M., Marivate, V., Sefara, T. and Wagner, V., 2022. Training Cross-Lingual embeddings for Setswana and Sepedi, *Proceedings of the 2nd workshop on Resources for African Indigenous Language (RAIL) at DHASA 2021* [[Paper URL](https://upjournals.up.ac.za/index.php/dhasa/article/view/3822)][[Preprint](https://arxiv.org/abs/2111.06230)][[Embedding Evaluation Dataset](https://zenodo.org/record/5673974)][NLP]
 
 
 ### 2021
