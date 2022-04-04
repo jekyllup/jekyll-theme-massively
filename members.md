@@ -25,21 +25,35 @@ The group is made up of a number of people who work on a few themes.
 * Rockerfeller [AIMS][ML,Soc]
 * Temitope Kekere [UP][NLP,Soc]
 
-## Masters
-
+## Masters 
+* Amica De Jager [UP][ML, NLP]
+* Andani Madodonga [UP - MIT Big Data Science][NLP]
 * Hombakazi Ngejane [UP][ML, NLP]
-* Jessica Nemasisi [Wits][ML, NLP, SM]
-* Khutso Sepuru [UP - MIT Big Data Science][ML]
-* Palesa Lepamo [UP - MIT Big Data Science][ML,Soc]
+* Jesse Parvess [UP - MIT Big Data Science][NLP]
+* Makgatho Letladi [UP][ML, NLP]
+* Matimba Shingange [UP - MIT Big Data Science][NLP]
+* Mohlatlego Nakeng [UP - MIT Big Data Science][NLP]
+* Ndamulelo Nemakhavhani [UP - MIT Big Data Science][NLP]
+* Nozuko Twala [UP - MIT Big Data Science][NLP]
+* Shaun Johnson [UP - MIT Big Data Science][NLP]
+* Thapelo Seindane [UP][NLP]
+* Yolanda Nkalashe [UP - MIT Big Data Science][NLP]
 
 ## Honours
-
+* Nonhle Maseko
 
 ## Interns
 
 ## Alumni
 
+### 2022
+* Khutso Sepuru [UP - MIT Big Data Science][ML]
+* Palesa Lepamo [UP - MIT Big Data Science][ML,Soc]
+* Carel Nchachi [UP - MIT Big Data Science][NLP,Soc]
+
 ### 2021
+* Neo Mokono [UP, CS Hons]
+* Tsholofelo Gomba [UP, CS Hons]
 * Andreas Bayer [UP - MIT Big Data Science][ML, NLP] [[Dissertation Announcement](https://dsfsi.github.io/blog/Andreas-dissertation/)]
 * Henry Wandera [UP - MIT Big Data Science][ML, Soc] [[Dissertation Announcement](https://dsfsi.github.io/blog/wandera-dissseration)]
 * Michelle Terblanche [UP - MIT Big Data Science][ML,NLP,SM][[Dissertation Announcement](https://dsfsi.github.io/blog/Terblanche-dissseration)]
@@ -48,6 +62,8 @@ The group is made up of a number of people who work on a few themes.
 * Mario Naidoo [UP][ML, Soc][[Dissertation Announcement](https://dsfsi.github.io/blog/Naidoo-dissseration)]
 * Nicole Garber[UP - MIT Big Data Science][ML, NLP][[Dissertation Announcement](https://dsfsi.github.io/blog/Garber-dissseration)]
 * Lamont Theron [UP - MIT Big Data Science][ML,NLP][[Dissertation Announcement](https://dsfsi.github.io/blog/Theron-dissseration)]
+* Thapelo Sindane [UP - Research Assistant]
+
 
 ### 2020
 * Alon Behr [UP, CS Hons][ML, SOC]
