@@ -36,7 +36,7 @@ The group is made up of a number of people who work on a few themes.
 * Ndamulelo Nemakhavhani [UP - MIT Big Data Science][NLP]
 * Nozuko Twala [UP - MIT Big Data Science][NLP]
 * Shaun Johnson [UP - MIT Big Data Science][NLP]
-* Thapelo Seindane [UP][NLP]
+* Thapelo Sindane [UP][NLP]
 * Yolanda Nkalashe [UP - MIT Big Data Science][NLP]
 
 ## Honours
