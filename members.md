@@ -41,6 +41,11 @@ The group is made up of a number of people who work on a few themes.
 
 ## Honours
 * Nonhle Maseko
+* Pitso Khoboko
+* Neo Mokono
+* Shrey Mandalia
+* Shivaan Pillay
+* Akhona Sekwati
 
 ## Interns
 

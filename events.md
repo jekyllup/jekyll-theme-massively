@@ -10,19 +10,20 @@ sitemap:
 
 ## Seminars @ DS@UP🚀 - Data Science for Society Seminar Series #DS4SocietySeminar
 
-### 2021 Series
+### 2022 Series
 
-The dates of the series as well as some of the speakers are now available below. If you want to be updated on the seminar series, please sign up to the [DS@UP Newsletter](https://tinyletter.com/datascience-up/). You can also access our 2020 archive [here](https://www.youtube.com/playlist?list=PLSQgWNK_M4a9JDlwSOtq9gG7Z5Goxs4Zj),
+The dates of the series as well as some of the speakers are now available below. If you want to be updated on the seminar series, please sign up to the [DS@UP Newsletter](https://tinyletter.com/datascience-up/). 
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT7_vvDj48GiymNpZhxpE_q0LMfSWSCAlLnQOFPz0AUlFr8SO4vWkMW2pVxYaoBCUyrJArsPmVwcvaX/pubhtml?widget=true&amp;headers=false"></iframe>
+
+### 2021 Series
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpn1rejYJiSuwXr8OloR-OOZ-XSbIGzkyk1Qm2dc54CENcnCptqhWK-tgOJlEo3w-NjDI6EDV4JLLb/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="400"></iframe>
 
-### 2020 Series
+### Prior Series
 
-See the 2020 archive on [Youtube](https://www.youtube.com/playlist?list=PLSQgWNK_M4a9JDlwSOtq9gG7Z5Goxs4Zj),
-
-### 2019 and earlier Series
-
-See this [page](https://docs.google.com/document/d/1FpXpnbSYXpcJvtEYQgil60WmSS2Gt3_M2QeZfg9DpiY/edit?usp=sharing).
+* 2020 Series <> See archive on [Youtube](https://www.youtube.com/playlist?list=PLSQgWNK_M4a9JDlwSOtq9gG7Z5Goxs4Zj),
+* 2019 and earlier Series <> See this [page](https://docs.google.com/document/d/1FpXpnbSYXpcJvtEYQgil60WmSS2Gt3_M2QeZfg9DpiY/edit?usp=sharing).
 
 ## Workshops
 
