@@ -3,7 +3,7 @@ layout: post
 title: "[Dissertation] Inventory Stock Prediction and Deep Anomaly Detection"
 date: 2022-03-30
 excerpt: "Masters dissertation by Khutso Kgabo Sepuru, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
-image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/khutso.png"
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/khutso.PNG"
 ---
 ## Members
 Khutso Kgabo Sepuru, MITC Big Data Science
