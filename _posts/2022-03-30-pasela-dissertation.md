@@ -3,7 +3,7 @@ layout: post
 title: "[Dissertation] Using Machine Learning to Detect Solar Panels in Aerial Images"
 date: 2022-03-30
 excerpt: "Masters dissertation by Palesa Rachael Lepamo, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
-image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/palesa.png"
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/palesa.PNG"
 ---
 ## Members
 Palesa Rachael Lepamo, MITC Big Data Science
