@@ -6,7 +6,7 @@ excerpt: "Masters dissertation by Carel Kagiso Nchachi, Faculty of Engineering, 
 image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/Carel.PNG"
 ---
 ## Members
-Carel Kagiso Nchachi, Msc Computer Science
+Carel Kagiso Nchachi, MITC Big Data Science
 ### Supervisor(s)
 Prof. Vukosi Marivate
 ## Abstract
