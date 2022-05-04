@@ -3,7 +3,7 @@ layout: post
 title:  "SAAIR Learner Analytics Institute Day 2 Workshop 5"
 date:   2022-04-27
 excerpt: "Herkulaas MvE Combrink, Prof Vukosi Marivate &  Prof Benjamin Rosman"
-image:  "C:\Users\Nonhle\Desktop\DataSience4SocialImpact\dsfsi.github.io\images\SAIRR.png"
+image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/SAIRR.png"
 
 ---
 
