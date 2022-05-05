@@ -22,4 +22,4 @@ image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/Nkalashe.PNG
 * content will be uploaded soon
 
 ### [Video 1 - Talk + Q&A](https://youtu.be/Yde7EranTk0)
-<iframe width="560" height="315" src="https://https://www.youtube.com/embed/Yde7EranTk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yde7EranTk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
