@@ -4,8 +4,8 @@ title: Data Science for Social Impact - Members
 description: 
 sitemap:
     priority: 0.7
-    lastmod: 2021-09-19
-    changefreq: weekly
+    lastmod: 2022-05-12
+    changefreq: monthly
 ---
 
 The group is made up of a number of people who work on a few themes. 
