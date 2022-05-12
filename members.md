@@ -62,7 +62,7 @@ The group is made up of a number of people who work on a few themes.
 * Andreas Bayer [UP - MIT Big Data Science][ML, NLP] [[Dissertation Announcement](https://dsfsi.github.io/blog/Andreas-dissertation/)]
 * Henry Wandera [UP - MIT Big Data Science][ML, Soc] [[Dissertation Announcement](https://dsfsi.github.io/blog/wandera-dissseration)]
 * Michelle Terblanche [UP - MIT Big Data Science][ML,NLP,SM][[Dissertation Announcement](https://dsfsi.github.io/blog/Terblanche-dissseration)]
-* Chatherine Gitau [AMMI][NLP]
+* Catherine Gitau [AMMI][NLP]
 * Salomon Kabenamualu [AMMI][NLP]
 * Mario Naidoo [UP][ML, Soc][[Dissertation Announcement](https://dsfsi.github.io/blog/Naidoo-dissseration)]
 * Nicole Garber[UP - MIT Big Data Science][ML, NLP][[Dissertation Announcement](https://dsfsi.github.io/blog/Garber-dissseration)]
