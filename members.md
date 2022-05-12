@@ -78,6 +78,7 @@ The group is made up of a number of people who work on a few themes.
 * Tshepiso Mokoena [Wits][ML][[Dissertation Announcement](https://dsfsi.github.io/blog/Mokoena-dissertation)]
 * Colin van Zyl [UP - MIT Big Data Science][ML] [[Dissertation Announcement](https://dsfsi.github.io/blog/vanzylmit-dissertation)]
 * Jeanine Schutte [UP - MIT Big Data Science][ML]
+* Avashlin Moodley [UP - MIT Big Data Science][NLP,SOC] [[Dissertation Announcement](https://dsfsi.github.io/blog/Avashlin-Moodly-dissertation/)]
 
 ### Earlier
 * Mpho Mokoatle [MSc][NWU][ML,Soc][[Dissertation Announcement](https://dsfsi.github.io/blog/Mokoatle-dissertation)] - 2019  
