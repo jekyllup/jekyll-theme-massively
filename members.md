@@ -10,7 +10,7 @@ sitemap:
 
 The group is made up of a number of people who work on our core themes.
 
-| <img src="https://github.com/dsfsi/dsfsi.github.io/blob/master/images/dsfsi-group-pic-may-2022.png?raw=true" alt="drawing" style="width:800px;"/> |
+| <img src="https://github.com/dsfsi/dsfsi.github.io/blob/master/images/dsfsi-group-pic-may-2022.png?raw=true" alt="drawing" style="width:1000px;"/> |
 |:--:|
 | <b>2022 DSFSI Group Picture</b>|
 
