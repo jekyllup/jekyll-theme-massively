@@ -22,8 +22,7 @@ By the end of this workshop participants will should be able to:
 
 Participants can expect a combination of theory and practice using the online space. The workshop will start with a 20-minute presentation, followed by an interactive session on the available data and the exploratory data analysis tool. Participants can use any of the shared .csv files which were created from open source datasets to test the concepts and mine meaning from the information.
 
-Please note All the material can be found on this GitHub repository: https://github.com/dsfsi/Higher_Educa...
-
+Please note All the material can be found on this GitHub repository: https://github.com/dsfsi/Higher_Education_EDA
 
 ### Speaker Bio
 Herkulaas MvE Combrink & Prof Vukosi Marivate: Faculty of Engineering, Building Science and Information Technology, University of Pretoria and Prof Benjamin Rosman, University of the Witwatersrand
@@ -33,5 +32,5 @@ Herkulaas MvE Combrink & Prof Vukosi Marivate: Faculty of Engineering, Building 
 
 * content will be uploaded soon
 
-### [Video 1 - Talk + Q&A](https://www.youtube.com/watch?v=1iY6qRzgXHw)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1iY6qRzgXHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### [Video 1 - Talk + Q&A](https://www.youtu.be/1iY6qRzgXHw" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1iY6qRzgXHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
