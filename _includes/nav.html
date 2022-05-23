@@ -1,13 +1,21 @@
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Theme Home</a></li>
-  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
-  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
-  <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Elements Reference</a></li>
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
+  <li class="{% if page.url contains '/members/' %} active {% endif %}"><a href="{{ "/members/" | absolute_url }}">Members</a></li>
+  <li class="{% if page.url contains '/publications/' %} active {% endif %}"><a href="{{ "/publications/" | absolute_url }}">Publications</a></li>
+  <li class="{% if page.url contains '/events/' %} active {% endif %}"><a href="{{ "/events/" | absolute_url }}">Events</a></li>
+  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">News</a></li>
+  <li class="{% if page.url contains '/projects/' %} active {% endif %}"><a href="{{ "/projects/" | absolute_url }}">Projects</a></li>
+  <li class="{% if page.url contains '/teaching/' %} active {% endif %}"><a href="{{ "/teaching/" | absolute_url }}">Teaching</a></li>
+  <li class="{% if page.url contains '/prospective/' %} active {% endif %}"><a href="{{ "/prospective/" | absolute_url }}">Join Us</a></li>
+
+<!--   <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
+  
+  <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Elements Reference</a></li> -->
 </ul>
 
 <ul class="icons">
-  <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
+<!--   <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
   <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
-  <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
-  <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+  <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li> -->
+  <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li> 
 </ul>

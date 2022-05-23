@@ -33,8 +33,8 @@
 
           <article class="post featured">
             <header class="major">
-              <h2><a href="#">Importance of Blogs</a></h2>
-              <p>Blogs are really pretty awesome things. For one, they are a means to continually provide fresh,
+<!-- <h2><a href="#">Subscribe to our Newsletter</a></h2> -->
+<!--                             <p>Blogs are really pretty awesome things. For one, they are a means to continually provide fresh,
                 dynamic content to your users. Also, they help your site get indexed and build authority as they are essential for SEO!
 							</p>
             </header>
@@ -47,12 +47,12 @@
 							You'll give them something they can identify with and be slanted to share with their companions and associates. Perhaps they'll even be slanted to work with you later on!
 							Having an advancement technique that is excessively unbending isn't astute on the grounds that there is no space for solid spontaneous creation. Having the capacity to change your advertising procedure will prompt more deals and arrangements.
 						</p>
-
+ -->
           </article>
 					<!-- Post -->
 					<section class="posts">
 						{% for post in site.posts %}
-						{% assign mod3 = forloop.index | modulo: 3 %}
+						{% assign mod4 = forloop.index | modulo: 4 %}
 							<article>
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>
@@ -64,17 +64,18 @@
 									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
 								</ul>
 							</article>
-							{% if mod3 == 0 %}
-							<article>
+							{% if mod4 == 0 %}
+<!-- 							<article>
 								<header>
 									<h2><a href="#">Sponsored</a></h2>
 								</header>
 
-							</article>
+							</article> -->
 							{% endif %}
 						{% endfor %}
 
 					</section>
+		<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/datascience-up" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/datascience-up', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
 
 					</div>
 

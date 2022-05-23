@@ -1,25 +1,25 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Data Science for Social Impact
+bio:                'Data Science for Social Impact @ University of Pretoria'
+description:        "Data Science for Social Impact @ University of Pretoria"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Comments
-disqus_shortname:   default
+# disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
-
+analytics-id:       "UA-146375537-3"
+# twitter:            default
+# facebook:           default
+# instagram:          default
+github:             dsfsi
+youtube:            https://www.youtube.com/channel/UCuRj9LMcG-YFiT4eBt93DAg
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+location:           Tshwane, South Africa
+# phone:              310-318-5555
+email:              vukosi.marivate@cs.up.ac.za # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg

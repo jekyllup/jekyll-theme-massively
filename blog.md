@@ -1,9 +1,17 @@
 ---
 layout: blog
-title: Jekyll Theme - Blog Page - Massively
-description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+title: Data Science for Social Impact - News
+description: 
 sitemap:
     priority: 1.0
     lastmod: 2017-11-02
     changefreq: weekly
 ---
+## Blog
+We have news available here in the form of blog posts. See below.
+
+## Newsletter
+
+We have a newsletter that covers Data Science topics in and around Gauteng, South Africa, Africa and beyond.
+
+[Subscribe](https://tinyletter.com/datascience-up) | [Newsletter Archive](https://tinyletter.com/datascience-up/archive)
