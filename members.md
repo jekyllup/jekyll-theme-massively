@@ -32,6 +32,7 @@ The group is made up of a number of people who work on our core themes.
 ## Masters 
 * Amica De Jager [UP][ML, NLP]
 * Andani Madodonga [UP - MIT Big Data Science][NLP]
+* Derwin Ngomane [UP - MIT Big Data Science][NLP]
 * Hombakazi Ngejane [UP][ML, NLP]
 * Jesse Parvess [UP - MIT Big Data Science][NLP]
 * Makgatho Letladi [UP][ML, NLP]
