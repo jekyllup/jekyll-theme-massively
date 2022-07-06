@@ -8,6 +8,8 @@ sitemap:
     changefreq: monthly
 ---
 
+
+
 ### 2022
 
 * R. Rockefeller, B. Bah, V. Marivate, and H.G. Zimmermann. **Improving the Predictive Power of Historical Consistent Neural Networks**, *Engineering Proceedings*, 2022. [ML] <> [[Paper URL](https://www.mdpi.com/2673-4591/18/1/36)] **DOI:** [10.3390/engproc2022018036](https://dx.doi.org/10.3390/engproc2022018036) 
@@ -35,12 +37,14 @@ sitemap:
 
 * W. Nekoto, V. Marivate, T. Matsila, T. Fasubaa, T. Fagbohungbe, S.O. Akinola, S. Muhammad, S.K. Kabenamualu, S. Osei, F. Sackey, and  others. **Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages**, *Findings of the Association for Computational Linguistics: EMNLP 2020*. 2020. [NLP][SOC] <> [[Paper URL](https://aclanthology.org/2020.findings-emnlp.195)] [[Preprint URL](https://arxiv.org/abs/2010.02353)] [[Dataset](https://github.com/masakhane-io/masakhane-mt)] **DOI:** [10.18653/v1/2020.findings-emnlp.195](https://dx.doi.org/10.18653/v1/2020.findings-emnlp.195) 
 * N. Mtsweni, H.M. Combrink, and V. Marivate. **Mapping the South African health landscape in response to COVID-19**, *arXiv preprint arXiv:2006.15216*, 2020. [SOC] <> [[Preprint URL](https://arxiv.org/abs/2006.15216)] [[Dataset](https://github.com/dsfsi/covid19za/tree/master/data)] 
-* V. Marivate and T. Sefara. **Improving short text classification through global augmentation methods**, *International Cross-Domain Conference for Machine Learning and Knowledge Extraction*. 2020. [NLP] <> [[Paper URL](https://link.springer.com/chapter/10.1007/978-3-030-57321-8_21)] [[Preprint URL](https://arxiv.org/abs/1907.03752)] **DOI:** [https://doi.org/10.1007/978-3-030-57321-8_21](https://dx.doi.org/https://doi.org/10.1007/978-3-030-57321-8_21) 
+* V. Marivate and T. Sefara. **Improving short text classification through global augmentation methods**, *International Cross-Domain Conference for Machine Learning and Knowledge Extraction*. 2020. [NLP] <> [[Paper URL](https://link.springer.com/chapter/10.1007/978-3-030-57321-8_21)] [[Preprint URL](https://arxiv.org/abs/1907.03752)] **DOI:** [10.1007/978-3-030-57321-8_21](https://dx.doi.org/10.1007/978-3-030-57321-8_21) 
 * K. Naidoo and V. Marivate. **Unsupervised anomaly detection of healthcare providers using generative adversarial networks**, *Conference on e-Business, e-Services and e-Society*. 2020. [ML] <> [[Paper URL](https://link.springer.com/chapter/10.1007/978-3-030-44999-5_35)] [[Preprint URL](https://repository.up.ac.za/handle/2263/78373)] **DOI:** [10.1007/978-3-030-44999-5_35](https://dx.doi.org/10.1007/978-3-030-44999-5_35) 
 * V. Marivate and H.M. Combrink. **Use of Available Data To Inform The COVID-19 Outbreak in South Africa: A Case Study**, *Data Science Journal*, 2020. [SOC] <> [[Paper URL](https://datascience.codata.org/article/10.5334/dsj-2020-019/)] [[Preprint URL](https://arxiv.org/abs/2004.04813)] [[Dataset](https://github.com/dsfsi/covid19za)] **DOI:** [10.5334/dsj-2020-019](https://dx.doi.org/10.5334/dsj-2020-019) 
 * V. Marivate, T. Sefara, V. Chabalala, K. Makhaya, T. Mokgonyane, R. Mokoena, and A. Modupe. **Investigating an Approach for Low Resource Language Dataset Creation, Curation and Classification: Setswana and Sepedi**, *Proceedings of the first workshop on Resources for African Indigenous Languages*. 2020. [NLP] <> [[Paper URL](https://aclanthology.org/2020.rail-1.3)] [[Preprint URL](https://arxiv.org/abs/2003.04986)] [[Dataset](https://zenodo.org/record/3668495)] 
 * I. Orife, J. Kreutzer, B. Sibanda, D. Whitenack, K. Siminyu, L. Martinus, J.T. Ali, J. Abbott, V. Marivate, S. Kabongo, and  others. **Masakhane--Machine Translation For Africa**, *arXiv preprint arXiv:2003.11529*, 2020. [NLP][SOC] <> [[Preprint URL](https://arxiv.org/abs/2003.11529)] 
 * V. Marivate. **Why African natural language processing now? A view from South Africa# AfricaNLP**, **, 2020. [ML][NLP] <> [[Paper URL](https://mistra.org.za/mistra-media/why-african-natural-language-processing-now-a-view-from-south-africa-africanlp/)] 
+*  Henry Wandera,  Vukosi Marivate, and  David Sengeh. **Investigating similarities and differences between South African and
+Sierra Leonean school outcomes using Machine Learning**, *CoRR*, 2020. [ML][SOC] <> [[Paper URL](https://arxiv.org/abs/2004.11369)] 
 
 ### 2019
 
