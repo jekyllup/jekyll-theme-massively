@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Training Cross-Lingual embeddings for Setswana and Sepedi"
+date: 2022-06-09
+image: "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0267714.g001"
+---
+## Members
+Mack Makgatho, Vukosi Marivate, Tshephisho Sefara, Valencia Wagner
+
+## Abstract
+How can we transfer semantic information between two low-resourced African languages? With one language having more resources than the other? The problem is that African languages still lag in the advances of Natural Language Processing techniques, one reason being the lack of representative data, having a technique that can transfer information between languages can help mitigate against the data problem. This paper trains Setswana and Sepedi monolingual word vectors and uses VecMap to create cross-lingual embeddings for Setswana-Sepedi since cross-lingual embeddings can be used as a method of transferring semantic information from rich to low-resourced languages.
+
+Word embeddings are word vectors that represent words as continuous floating numbers where semantically similar words are mapped to nearby points in n-dimensional space. Each point captures the meaning of a word with semantically similar words having similar vector values near the point. The vectors are captured in a manner that, words used in a similar context will be mapped very close to each other on a vector space. The geometric relations between words can be understood by determining the cosine distance between word vectors. The idea of word embeddings is based on the distribution hypothesis that states, semantically similar words are distributed in similar contexts (Harris, 1954). The monolingaul embeddings can be used to do cross-lingaul transfer thus improving one language from another.
+
+Cross-lingual embeddings leverages monolingual embeddings by learning a shared vector space for two separately trained monolingual vectors such that words with similar meaning are represented by similar vectors. In this work we investigate cross-lingual embeddings for Setswana-Sepedi monolingual word vector. We use the unsupervised cross lingual embeddings in VecMap to train the Setswana-Sepedi cross-language word embeddings. We evaluate the quality of the Setswana-Sepedi cross-lingual word representation using a semantic evaluation task. For the semantic similarity task, we translated the WordSim and SimLex tasks into Setswana and Sepedi. We release this dataset as part of this work for other researchers. We evaluate the intrinsic quality of the embeddings to determine if there is improvement in the semantic representation of the word embeddings.
+## Publications
