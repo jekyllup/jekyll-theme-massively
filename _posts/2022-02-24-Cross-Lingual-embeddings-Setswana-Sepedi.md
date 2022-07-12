@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Training Cross-Lingual embeddings for Setswana and Sepedi"
+title: "[Publication] Training Cross-Lingual embeddings for Setswana and Sepedi"
 date: 2022-02-24
 image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/2022-02-24-Cross-Lingual-embeddings-Setswana-Sepedi.PNG"
 excerpt: "Paper by Mack Makgatho, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
