@@ -2,7 +2,6 @@
 layout: post
 title: "Training Cross-Lingual embeddings for Setswana and Sepedi"
 date: 2022-06-09
-image: "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0267714.g001"
 ---
 ## Members
 Mack Makgatho, Vukosi Marivate, Tshephisho Sefara, Valencia Wagner
