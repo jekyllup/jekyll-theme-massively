@@ -2,7 +2,7 @@
 layout: post
 title: "Discriminatory Gleason grade group signatures of prostate cancer: An application of machine learning methods"
 date: 2022-06-09
-image: "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0267714.g001"
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/2022-06-09-Discriminatory-Gleason-grade-group-signatures-prostate-cancer.PNG"
 excerpt: "Paper by Mpho Mokoatle, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
 ---
 ## Members
