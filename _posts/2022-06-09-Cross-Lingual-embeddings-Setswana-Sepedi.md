@@ -2,6 +2,7 @@
 layout: post
 title: "Training Cross-Lingual embeddings for Setswana and Sepedi"
 date: 2022-06-09
+excerpt: "Paper by Mack Makgatho, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
 ---
 ## Members
 Mack Makgatho, Vukosi Marivate, Tshephisho Sefara, Valencia Wagner
