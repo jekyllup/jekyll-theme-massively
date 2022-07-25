@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UP Expert Lecture Series: ‘Riendzo ri lehile: Tackling Natural Language Processing for African languages to make better sense of our world’"
-date:   2022-07-27
+date:   2022-07-25
 excerpt: "presented by Professor Vukosi Marivate"
 image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/uplecture202207.jpg"
 
