@@ -7,9 +7,9 @@ image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/uplecture202
 
 ---
 
-## Live Stream
+## Recorded Live Stream
 
-Live stream will be on 27 June 2022 at 18:00 SAST. It will be on youtube -> [https://bit.ly/VMInvitedLectureUP](https://bit.ly/VMInvitedLectureUP)
+The recorded live stream is available [https://www.youtube.com/watch?v=62hKoHNNv9I](https://www.youtube.com/watch?v=62hKoHNNv9I){:target="_blank"}
 
 ## Talk Details
 
@@ -24,12 +24,17 @@ The UP Expert Lecture Series provides a public platform for UP researchers to en
 
 ## Video, Slides and Notes
 
-### Notes
+### [Public Lecture Video + Q&A](https://www.youtube.com/watch?v=62hKoHNNv9I){:target="_blank"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/62hKoHNNv9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Slides
+* Google Slides (comments open) - [Link](https://docs.google.com/presentation/d/1BRSzgoS5haQzHGj4VrGUq4CQ1awyq6EmNbi_dmEFHio/edit?usp=sharing){:target="_blank"}
+
+### Notes
 #### DSFSI Research
+* Our publications - [https://dsfsi.github.io/publications/](https://dsfsi.github.io/publications/)
 
 #### Community
-
 * Masakhane NLP [https://www.masakhane.io/](https://www.masakhane.io/){:target="_blank"}
 * Deep Learning Indaba [https://deeplearningindaba.com/](https://deeplearningindaba.com/){:target="_blank"}
 
