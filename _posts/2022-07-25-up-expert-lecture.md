@@ -24,4 +24,17 @@ The UP Expert Lecture Series provides a public platform for UP researchers to en
 
 ## Video, Slides and Notes
 
-* content will be uploaded soon
+### Notes
+
+#### DSFSI Research
+
+#### Community
+
+* Masakhane NLP [https://www.masakhane.io/](https://www.masakhane.io/){:target="_blank"}
+* Deep Learning Indaba [https://deeplearningindaba.com/](https://deeplearningindaba.com/){:target="_blank"}
+
+#### Call to action
+
+* Dr V Marivate talk @ Council for Higher Education - 4IR and Transformation in Higher Education: **Building a Grassroot Machine Learning /Artificial Intelligence Community: The Case for Cooperation over Competition in a Small Pond.** [Youtube](https://www.youtube.com/watch?v=hdLD95j6ePA){:target="_blank"}
+* Get in touch [vukosi.marivate@cs.up.ac.za](mailto:vukosi.marivate@cs.up.ac.za)
+* DSFSI Newsletter [https://tinyletter.com/datascience-up/](https://tinyletter.com/datascience-up/){:target="_blank"}
