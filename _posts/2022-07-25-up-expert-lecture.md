@@ -9,7 +9,7 @@ image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/uplecture202
 
 ## Recorded Live Stream
 
-The recorded live stream is available [https://www.youtube.com/watch?v=62hKoHNNv9I](https://www.youtube.com/watch?v=62hKoHNNv9I){:target="_blank"}
+The recorded live stream is available [Video](#){:target="_blank"}
 
 ## Talk Details
 
@@ -24,11 +24,11 @@ The UP Expert Lecture Series provides a public platform for UP researchers to en
 
 ## Video, Slides and Notes
 
-### [Public Lecture Video + Q&A](https://www.youtube.com/watch?v=62hKoHNNv9I){:target="_blank"}
+### [Public Lecture Video + Q&A](#){:target="_blank"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/62hKoHNNv9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Slides
-* Google Slides (comments open) - [Link](https://docs.google.com/presentation/d/1BRSzgoS5haQzHGj4VrGUq4CQ1awyq6EmNbi_dmEFHio/edit?usp=sharing){:target="_blank"}
+* PDF Slides(comments open) - [Link](https://drive.google.com/file/d/1SjJIzWxtjdnzM3u-c5C7SWaniLNxW-nr/view?usp=sharing){:target="_blank"}
 
 ### Notes
 #### DSFSI Research
