@@ -24,7 +24,7 @@ The UP Expert Lecture Series provides a public platform for UP researchers to en
 
 ## Video, Slides and Notes
 
-### [Public Lecture Video + Q&A]([#](https://www.youtube.com/watch?v=N2GCuzFu43c)){:target="_blank"}
+### [Public Lecture Video + Q&A]([https://www.youtube.com/watch?v=N2GCuzFu43c](https://www.youtube.com/watch?v=N2GCuzFu43c)){:target="_blank"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N2GCuzFu43c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Slides
@@ -34,7 +34,7 @@ The UP Expert Lecture Series provides a public platform for UP researchers to en
 
 #### DSFSI Research and Tools
 * Our publications - [https://dsfsi.github.io/publications/](https://dsfsi.github.io/publications/)
-* Masakhane Translate Web Tool - [http://translate.masakhane.io/}(http://translate.masakhane.io/){:target="_blank"}
+* Masakhane Translate Web Tool - [http://translate.masakhane.io/](http://translate.masakhane.io/){:target="_blank"}
 
 #### Community
 * Masakhane NLP [https://www.masakhane.io/](https://www.masakhane.io/){:target="_blank"}
