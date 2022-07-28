@@ -9,7 +9,7 @@ image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/uplecture202
 
 ## Recorded Live Stream
 
-The recorded live stream is available [Video](#){:target="_blank"}
+The recorded live stream is available [Video](https://www.youtube.com/watch?v=N2GCuzFu43c){:target="_blank"}
 
 ## Talk Details
 
@@ -24,15 +24,17 @@ The UP Expert Lecture Series provides a public platform for UP researchers to en
 
 ## Video, Slides and Notes
 
-### [Public Lecture Video + Q&A](#){:target="_blank"}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/62hKoHNNv9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### [Public Lecture Video + Q&A]([#](https://www.youtube.com/watch?v=N2GCuzFu43c)){:target="_blank"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N2GCuzFu43c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Slides
 * PDF Slides(comments open) - [Link](https://drive.google.com/file/d/1SjJIzWxtjdnzM3u-c5C7SWaniLNxW-nr/view?usp=sharing){:target="_blank"}
 
 ### Notes
-#### DSFSI Research
+
+#### DSFSI Research and Tools
 * Our publications - [https://dsfsi.github.io/publications/](https://dsfsi.github.io/publications/)
+* Masakhane Translate Web Tool - [http://translate.masakhane.io/}(http://translate.masakhane.io/){:target="_blank"}
 
 #### Community
 * Masakhane NLP [https://www.masakhane.io/](https://www.masakhane.io/){:target="_blank"}
