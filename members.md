@@ -16,7 +16,7 @@ The group is made up of a number of people who work on our core themes.
 
 ## Faculty
 
-* Assoc. Prof Vukosi Marivate (UP ABSA Chair of Data Science)
+* Assoc. Prof Vukosi Marivate (UP ABSA Chair of Data Science) [[ORCID](https://orcid.org/0000-0002-6731-6267){:target="_blank"}]
 * Abiodun Modupe
 * Tshepiso Mokoena
 
@@ -24,10 +24,10 @@ The group is made up of a number of people who work on our core themes.
 
 * Abiodun Modupe [Wits][NLP, ML, SM]
 * Baphumelele Masikisiki [UP][NLP,Soc]
-* Herkulaas Combrink [UP][ML,Soc]
-* Mpho Mokoatle [UP][NLP,Soc]
+* Herkulaas Combrink [UP][ML,Soc][[ORCID](https://orcid.org/0000-0001-7741-3418){:target="_blank"}]
+* Mpho Mokoatle [UP][NLP,Soc][[ORCID](https://orcid.org/0000-0001-7689-2840){:target="_blank"}]
 * Rockerfeller [AIMS][ML,Soc]
-* Temitope Kekere [UP][NLP,Soc]
+* Temitope Kekere [UP][NLP,Soc][[ORCID](https://orcid.org/0000-0002-5362-2685){:target="_blank"}]
 
 ## Masters 
 * Amica De Jager [UP][ML, NLP]
@@ -42,6 +42,7 @@ The group is made up of a number of people who work on our core themes.
 * Nozuko Twala [UP - MIT Big Data Science][NLP]
 * Shaun Johnson [UP - MIT Big Data Science][NLP]
 * Thapelo Sindane [UP][NLP]
+* Tsholofelo Gomba [UP][ML, SOC][[ORCID](https://orcid.org/0000-0002-9569-0774){:target="_blank"}]
 * Yolanda Nkalashe [UP - MIT Big Data Science][NLP]
 
 ## Honours
