@@ -45,3 +45,7 @@ The UP Expert Lecture Series provides a public platform for UP researchers to en
 * Dr V Marivate talk @ Council for Higher Education - 4IR and Transformation in Higher Education: **Building a Grassroot Machine Learning /Artificial Intelligence Community: The Case for Cooperation over Competition in a Small Pond.** [Youtube](https://www.youtube.com/watch?v=hdLD95j6ePA){:target="_blank"}
 * Get in touch [vukosi.marivate@cs.up.ac.za](mailto:vukosi.marivate@cs.up.ac.za)
 * DSFSI Newsletter [https://tinyletter.com/datascience-up/](https://tinyletter.com/datascience-up/){:target="_blank"}
+
+### News and Media
+
+* NLP enables speakers of African languages to make better sense of our world [[URL](https://www.up.ac.za/faculty-of-engineering-built-environment-it/news/post_3091878-nlp-enables-speakers-of-african-languages-to-make-better-sense-of-our-world){:target="_blank"}]
