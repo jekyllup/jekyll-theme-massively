@@ -22,4 +22,7 @@ The Indaba is known for high quality [practical sessions](https://deeplearningin
 ## Presentations and Panels
 Vukosi will be presenting about the Lacuna fund at the NLP workshop on Thursday. Vukosi will also be a panalist on the Panel Discussion on Friday evening.
 
+<img src="https://github.com/dsfsi/dsfsi.github.io/raw/master/images/dsfsi-indaba-2022.jpeg" width="800">
+*Caption: A few DSFSI lab members at the Indaba*
+
 We look forward to reconnecting with old friends, making new ones and **Strenghthening African Machine Learning** at Deep Learning Indaba 2022. 
