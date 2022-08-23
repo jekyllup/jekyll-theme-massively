@@ -11,7 +11,7 @@ The [Deep Learning Indaba](https://deeplearningindaba.com/){:target="_blank"} re
 
 ## Posters
 Masters students, Matimba and Thapelo will be presenting posters at this years Indaba. The titles of the posters are
-* Xitsonga <>English translation using NMT with Back translation
+* Xitsonga <>English translation using NMT with Back translation [Poster Link](https://drive.google.com/file/d/1F4sTGsbWZMT-S4TwfwEroczc_EigFXQ0/view?usp=sharing){:target="_blank"}
 * Cross-Lingual Embedding Methods and Applications: A Systematic Review for Low-Resourced Scenarios [Poster Link](https://storage.googleapis.com/indaba-public/Thapelo%20Andrew_Sindane_4865_poster.pdf){:target="_blank"}
 
 You can learn more about oure research via our [publications here](https://dsfsi.github.io/publications/){:target="_blank"}
