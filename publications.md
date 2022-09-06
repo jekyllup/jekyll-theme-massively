@@ -10,6 +10,7 @@ sitemap:
 
 ### 2022
 
+* M. Ledwaba and V. Marivate. **Semi-supervised learning approaches for predicting South African political sentiment for local government elections**, *arXiv preprint arXiv:2205.02223*, 2022. [ML][NLP] <> [[Preprint URL](https://arxiv.org/abs/2205.02223)] 
 * A. Modupe, T. Celik, V. Marivate, and O.O. Olugbara. **Post-Authorship Attribution Using Regularized Deep Neural Network**, *Applied Sciences*, 2022. [ML][NLP] <> [[Paper URL](https://www.mdpi.com/2076-3417/12/15/7518)] **DOI:** [10.3390/app12157518](https://dx.doi.org/10.3390/app12157518) 
 * R. Rockefeller, B. Bah, V. Marivate, and H.G. Zimmermann. **Improving the Predictive Power of Historical Consistent Neural Networks**, *Engineering Proceedings*, 2022. [ML] <> [[Paper URL](https://www.mdpi.com/2673-4591/18/1/36)] **DOI:** [10.3390/engproc2022018036](https://dx.doi.org/10.3390/engproc2022018036) 
 * S. Kabongo Kabenamualu, V. Marivate, and H. Kamper. **LiSTra Automatic Speech Translation: English to Lingala Case Study**, *Proceedings of The Workshop on Dataset Creation for Lower-Resourced Languages within the 13th Language Resources and Evaluation Conference*. 2022. [NLP] <> [[Paper URL](https://aclanthology.org/2022.dclrl-1.8)] [[Preprint URL](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.8.pdf)] 
