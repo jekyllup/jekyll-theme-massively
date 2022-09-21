@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site
 # disqus_shortname:   default
 
 # Social
-analytics-id:       "UA-146375537-3"
+analytics-id:       "331851394"
 twitter:            DSFSI_Research
 # facebook:           default
 # instagram:          default
@@ -57,6 +57,7 @@ gems:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-twitter-plugin
 
 paginate: 6
 paginate_path: "/blog/page:num/"
