@@ -2,7 +2,7 @@
 layout: post
 title:  "Go Tsamaya Ke Go Bona: Deep Learning Indaba #3 - A journey just beginning."
 date:   2019-10-14
-excerpt: "WGo Tsamaya Ke Go Bona: Deep Learning #3 - A journey just beginning. By Vukosi Marivate"
+excerpt: "Go Tsamaya Ke Go Bona: Deep Learning Indaba #3 - A journey just beginning. By Vukosi Marivate"
 image: ""
 ---
 ## What is the Deep Learning Indaba?
