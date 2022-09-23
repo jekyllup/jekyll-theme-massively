@@ -15,14 +15,14 @@ The world is a diverse place with thousands of languages and cultural traditions
 ### Speaker Bio
 Mukondleteri Dumela is a Software Developer with a keen focus on African languages. Hebegan my career in the University of Pretoria in 2009 while studying towards a Bachelor of Information Science in Multimedia. Mukondleteri has since then been working on various projects to advance the status of technology for African languages. 
 
-I am founder of the two projects:
+**I am founder of the two projects:**
 
-Angula
+**Angula**
 Angula teaches people African languages using the voices of native speakers. 
 - Angula is in BETA and is set for release in September 2022
 - The link is https://angula.app
 
-Xitsonga.org
+**Xitsonga.org**
 Xitsonga.org is a non profit organisation that is focused on digitising the Xitsonga language.
 - The website has been accessed by over a million people.
 - Our apps have downloads of over 200 000.
