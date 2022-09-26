@@ -27,3 +27,5 @@ William Bird is the director of Media Monitoring Africa and initiator of Real411
 
 ### [Video 1 - Talk + Q&A](https://youtu.be/NlQ6hjNWni0)
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/NlQ6hjNWni0" title="DSFSISeminar2022:MMA-Disinformation and covid what can we learn from the disinformers and doorknobs?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+To get future information about Seminars and events, subscribe to the newsletter https://tinyletter.com/datascience-up/
