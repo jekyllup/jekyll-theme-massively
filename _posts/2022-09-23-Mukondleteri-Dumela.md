@@ -4,7 +4,6 @@ title:  "#DS4SocietySeminar 2022 <> Why language technologies for African langua
 date:   2022-09-23
 excerpt: "Mukondleteri Dumela"
 image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/2022-09-23-Mukondleteri-Dumela.PNG"
-
 ---
 
 ## Talk Details
@@ -30,9 +29,9 @@ Xitsonga.org is a non profit organisation that is focused on digitising the Xits
 
 ## Video, Slides and Notes
 
-* content will be uploaded soon
-
-### [Video 1 - Talk + Q&A](https://youtu.be/mXM7qBFRQj8)
+### [Video 1 - Talk + Q&A](https://youtu.be/fM7XIZaSRmE)
 <iframe width="900" height="506" src="https://www.youtube.com/embed/fM7XIZaSRmE" title="DS4SocietySeminar-Mukondleteri Dumela -Why language technologies for African languages are important" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### [Slides](https://github.com/dsfsi/dsfsi.github.io/raw/master/files/Mukondleteri-Dumela_Presentation.pdf)
 
 To get future information about Seminars and events, subscribe to the newsletter https://tinyletter.com/datascience-up/
