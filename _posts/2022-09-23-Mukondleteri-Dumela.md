@@ -4,6 +4,7 @@ title:  "#DS4SocietySeminar 2022 <> Why language technologies for African langua
 date:   2022-09-23
 excerpt: "Mukondleteri Dumela"
 image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/2022-09-23-Mukondleteri-Dumela.PNG"
+
 ---
 
 ## Talk Details

@@ -32,7 +32,7 @@ Herkulaas MvE Combrink & Prof Vukosi Marivate: Faculty of Engineering, Building 
 
 * content will be uploaded soon
 
-### [Video 1 - Talk + Q&A](https://www.youtu.be/1iY6qRzgXHw" 
+### [Video 1 - Talk + Q&A](https://www.youtu.be/1iY6qRzgXHw) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1iY6qRzgXHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 To get future information about Seminars and events, subscribe to the newsletter https://tinyletter.com/datascience-up/
