@@ -19,20 +19,26 @@ Mukondleteri Dumela is a Software Developer with a keen focus on African languag
 **Angula**
 Angula teaches people African languages using the voices of native speakers. 
 - Angula is in BETA and is set for release in September 2022
-- The link is https://angula.app
+- The link is [https://angula.app](https://angula.app)
 
 **Xitsonga.org**
 Xitsonga.org is a non profit organisation that is focused on digitising the Xitsonga language.
 - The website has been accessed by over a million people.
 - Our apps have downloads of over 200 000.
 - Xitsonga Dictionary app won the 2020 Best Educational Solution at the MTN App Awards
-- The link is https://xitsonga.org 
+- The link is [https://xitsonga.org](https://xitsonga.org)
 
 ## Video, Slides and Notes
 
-### [Video 1 - Talk + Q&A](https://youtu.be/fM7XIZaSRmE)
+### [Video - Talk + Q&A](https://youtu.be/fM7XIZaSRmE)
 <iframe width="900" height="506" src="https://www.youtube.com/embed/fM7XIZaSRmE" title="DS4SocietySeminar-Mukondleteri Dumela -Why language technologies for African languages are important" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [Slides](https://github.com/dsfsi/dsfsi.github.io/raw/master/files/Mukondleteri-Dumela_Presentation.pdf)
+### Slides
 
-To get future information about Seminars and events, subscribe to the newsletter https://tinyletter.com/datascience-up/
+* [Mukondleteri-Dumela_Presentation](https://github.com/dsfsi/dsfsi.github.io/raw/master/files/Mukondleteri-Dumela_Presentation.pdf)
+
+## Get notified about future seminars
+
+* To get future information about Seminars and events, subscribe to the newsletter [https://tinyletter.com/datascience-up/](https://tinyletter.com/datascience-up/)
+* Subscribe to the Youtube Channel [YT: DSFSI](https://www.youtube.com/channel/UCuRj9LMcG-YFiT4eBt93DAg)
+* Follow us on Twitter [@DSFSI_Research](https://twitter.com/DSFSI_Research)
