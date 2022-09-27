@@ -18,9 +18,11 @@ Dr. Sekou L. Remy is a Research Scientist at IBM Research - Africa.  With a keen
 
 ## Video, Slides and Notes
 
-* content will be uploaded soon
-
-### [Video 1 - Talk + Q&A](https://youtu.be/mXM7qBFRQj8)
+### [Video - Talk + Q&A](https://youtu.be/mXM7qBFRQj8)
 <iframe width="900" height="506" src="https://www.youtube.com/embed/mXM7qBFRQj8" title="#DS4SocietySeminar- Sekou Remy - Overcoming Digital Gravity when using AI in Public Health Decisions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-To get future information about Seminars and events, subscribe to the newsletter https://tinyletter.com/datascience-up/
+## Get notified about future seminars
+
+* To get future information about Seminars and events, subscribe to the newsletter [https://tinyletter.com/datascience-up/](https://tinyletter.com/datascience-up/)
+* Subscribe to the Youtube Channel [YT: DSFSI](https://www.youtube.com/channel/UCuRj9LMcG-YFiT4eBt93DAg)
+* Follow us on Twitter [@DSFSI_Research](https://twitter.com/DSFSI_Research)
