@@ -21,9 +21,11 @@ Rediet Abebe is an Assistant Professor of Computer Science at the University of 
 
 ## Video, Slides and Notes
 
-* content will be uploaded soon
-
-### [Video 1 - Talk + Q&A](https://youtu.be/uka4wGvbwK4)
+### [Video - Talk + Q&A](https://youtu.be/uka4wGvbwK4)
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/uka4wGvbwK4" title="DSFSI Seminar 2022: Rediet Abebe-Algorithms on Trial: Interrogating Evidentiary Statistical Software" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-To get future information about Seminars and events, subscribe to the newsletter https://tinyletter.com/datascience-up/
+## Get notified about future seminars
+
+* To get future information about Seminars and events, subscribe to the newsletter [https://tinyletter.com/datascience-up/](https://tinyletter.com/datascience-up/)
+* Subscribe to the Youtube Channel [YT: DSFSI](https://www.youtube.com/channel/UCuRj9LMcG-YFiT4eBt93DAg)
+* Follow us on Twitter [@DSFSI_Research](https://twitter.com/DSFSI_Research)
