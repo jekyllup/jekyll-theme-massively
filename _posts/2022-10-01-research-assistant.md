@@ -3,7 +3,7 @@ layout: post
 title:  "DSFSI is looking for a part-time research assistant(s) for the Summer break."
 date:   2021-09-30
 excerpt: "DSFSI Paid Positions"
-image: 
+image: https://github.com/dsfsi/dsfsi.github.io/raw/master/images/collaborate.png
 ---
 
 
@@ -21,3 +21,5 @@ The student will also be encouraged to use the opportunity to do some research w
 If you are interested in the paid position, please fill in this form [https://bit.ly/DSFSIAssistantRecruit](https://bit.ly/DSFSIAssistantRecruit) by Monday 17 October 2022
 
 We have 2/3 slots. 
+
+*Image Attribution: The Noun Project*
