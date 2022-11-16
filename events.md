@@ -4,8 +4,8 @@ title: Data Science for Social Impact - Events
 description:
 sitemap:
     priority: 0.7
-    lastmod: 2021-08-07
-    changefreq: weekly
+    lastmod: 2022-07-07
+    changefreq: monthly
 ---
 
 ## Seminars @ DS@UP🚀 - Data Science for Society Seminar Series #DS4SocietySeminar
@@ -14,7 +14,7 @@ sitemap:
 
 The dates of the series as well as some of the speakers are now available below. If you want to be updated on the seminar series, please sign up to the [DS@UP Newsletter](https://tinyletter.com/datascience-up/). 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT7_vvDj48GiymNpZhxpE_q0LMfSWSCAlLnQOFPz0AUlFr8SO4vWkMW2pVxYaoBCUyrJArsPmVwcvaX/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT7_vvDj48GiymNpZhxpE_q0LMfSWSCAlLnQOFPz0AUlFr8SO4vWkMW2pVxYaoBCUyrJArsPmVwcvaX/pubhtml?widget=true&amp;headers=false"  width="600" height="400"></iframe>
 
 ### 2021 Series
 

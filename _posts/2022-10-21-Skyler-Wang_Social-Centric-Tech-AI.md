@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "#DS4SocietySeminar 2022 <> From Human to Social-Centric Tech & AI: Interdisciplinarity in Massively Multilingual Machine Translation."
-date:   2022-10-221
+date:   2022-10-21
 excerpt: "Skyler Wang"
 image:  "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/2022-10-21-Skyler-Wang_Social-Centric-Tech-AI.PNG"
 

@@ -4,14 +4,18 @@ title: Data Science for Social Impact - Publications
 description:
 sitemap:
     priority: 1.0
-    lastmod: 2022-07-06
+    lastmod: 2022-10-13
     changefreq: monthly
 ---
 
-
-
 ### 2022
 
+*  Herkulaas Combrink,  Vukosi Marivate, and  Benjamin Rosman. **Reinforcement Learning in Education: A Multi-Armed Bandit Approach**, *arXiv preprint arXiv: Arxiv-2211.00779*, 2022. [ML][SOC] <> [[Paper URL]()] [[Preprint URL](https://arxiv.org/abs/2211.00779)] **DOI:** [](https://dx.doi.org/) 
+*  Herkulaas MvE Combrink,  Vukosi Marivate, and  Benjamin Rosman. **Comparing Synthetic Tabular Data Generation Between a Probabilistic Model and a Deep Learning Model for Education Use Cases**, *arXiv preprint arXiv: Arxiv-2210.08528*, 2022. [ML][SOC] <> [[Paper URL]()] [[Preprint URL](https://arxiv.org/abs/2210.08528)] **DOI:** [](https://dx.doi.org/) 
+*  Nicolle Garber and  Vukosi Marivate. **Conversational Pattern Mining using Motif Detection**, *Pan-African Artificial Intelligence and Smart Systems (To Appear)*. 2022. [ML][NLP] <> [[Paper URL]()] [[Preprint URL]()] **DOI:** [](https://dx.doi.org/) 
+*  David Adelani,  Graham Neubig,  Sebastian Ruder,  Shruti Rijhwani,  Dietrich Klakow,  Michael Coenraad Beukman,  Chester Palen-Michel,  Constantine Lignos,  Jesujoba Alabi,  Shamsuddeen Hassan Muhammad,  Peter Nabende,  Cheikh M. Bamba Dione,  Andiswa Bukula,  Rooweither Mabuya,  Bonaventure F. P. Dossou,  Blessing Sibanda,  Happy Buzaaba,  Jonathan Mukiibi,  Godson K. KALIPE,  Derguene Mbaye,  Amelia Taylor,  Fatoumata Ouoba Kabore,  Chris Chinenye Emezue,  Anuoluwapo Aremu,  Perez Ogayo,  Catherine Gitau,  Edwin Munkoh-Buabeng,  victoire Memdjokam Koagne,  Allahsera Auguste Tapo,  Tebogo Macucwa,  Vukosi Marivate,  MBONING TCHIAZE Elvis,  Tajuddeen Gwadabe,  Tosin Adewumi,  Orevaoghene Ahia,  Joyce Nakatumba-Nabende,  Neo Lerato Mokono,  Ignatius Ezeani,  Chiamaka Chukwuneke,  Mofetoluwa Oluwaseun Adeyemi,  Gilles Quentin HACHEME,  Idris Abdulmumin,  Odunayo Jude Ogundepo,  Oreen Yousuf, and  Tatiana Moteu. **AfroNER: Africa-centric Transfer Learning for Named Entity Recognition**, *Conference on Empirical Methods in Natural Language Processing (EMNLP)*. 2022. [ML][NLP] <> [[Paper URL]()] [[Preprint URL](https://arxiv.org/abs/2210.12391)] **DOI:** [](https://dx.doi.org/)
+* M. Ledwaba and V. Marivate. **Semi-Supervised Learning Approaches for Predicting South African Political Sentiment for Local Government Elections**, *DG.O 2022: The 23rd Annual International Conference on Digital Government Research*. 2022. [ML][NLP] <> [[Paper URL](https://dl.acm.org/doi/10.1145/3543434.3543484)] [[Preprint URL](https://arxiv.org/abs/2205.02223)] **DOI:** [10.1145/3543434.3543484](https://dx.doi.org/10.1145/3543434.3543484) 
+* A. Modupe, T. Celik, V. Marivate, and O.O. Olugbara. **Post-Authorship Attribution Using Regularized Deep Neural Network**, *Applied Sciences*, 2022. [ML][NLP] <> [[Paper URL](https://www.mdpi.com/2076-3417/12/15/7518)] **DOI:** [10.3390/app12157518](https://dx.doi.org/10.3390/app12157518) 
 * R. Rockefeller, B. Bah, V. Marivate, and H.G. Zimmermann. **Improving the Predictive Power of Historical Consistent Neural Networks**, *Engineering Proceedings*, 2022. [ML] <> [[Paper URL](https://www.mdpi.com/2673-4591/18/1/36)] **DOI:** [10.3390/engproc2022018036](https://dx.doi.org/10.3390/engproc2022018036) 
 * S. Kabongo Kabenamualu, V. Marivate, and H. Kamper. **LiSTra Automatic Speech Translation: English to Lingala Case Study**, *Proceedings of The Workshop on Dataset Creation for Lower-Resourced Languages within the 13th Language Resources and Evaluation Conference*. 2022. [NLP] <> [[Paper URL](https://aclanthology.org/2022.dclrl-1.8)] [[Preprint URL](http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.8.pdf)] 
 * M. Mokoatle, D. Mapiye, V. Marivate, V.M. Hayes, and R. Bornman. **Discriminatory Gleason grade group signatures of prostate cancer: An application of machine learning methods**, *PLOS ONE*, 2022. [ML][NLP] <> [[Paper URL](https://doi.org/10.1371/journal.pone.0267714)] **DOI:** [10.1371/journal.pone.0267714](https://dx.doi.org/10.1371/journal.pone.0267714) 

@@ -17,13 +17,14 @@ We do a number of projects with partners and collaborators. See below. This list
 
 * Dr. Bubaccar Bah - [[African Institue for Mathematical Sciences](https://sites.google.com/aims.ac.za/bubacarr)]
 * Dr. Ciira Maina - [[Dedan Kimathi University](https://sites.google.com/site/cwamainadekut/)][[DSAIL](https://dekut-dsail.github.io/index.html)]
-* Prof. Turgay Celik - [[Wits University](https://www.wits.ac.za/staff/academic-a-z-listing/c/turgaycelikwitsacza/)]
-* Kathleen Siminyu - [[AI4D](https://ai4d.ai/)]
-* Nyalleng Moorosi - [Google AI]
 * Emily Muller - [[Imperial College/UCL](https://www.imperial.ac.uk/people/emily.muller)]
-* Tshepisho Sefara - [CSIR]
-* Tshepiso Mokoena - [Explore Data Science]
+* Kathleen Siminyu - [[AI4D](https://ai4d.ai/)]
 * Mahlatse Mbooi - [CSIR]
+* Maxamed Axmed - [[MSR](https://www.microsoft.com/en-us/research/people/maxmed/)]
+* Nyalleng Moorosi - [Google AI]
+* Tshepisho Sefara - [CSIR]
+* Tshepiso Mokoena - 
+* Prof. Turgay Celik - [[Wits University](https://www.wits.ac.za/staff/academic-a-z-listing/c/turgaycelikwitsacza/)]
 
 ## Datasets
 

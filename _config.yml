@@ -10,12 +10,12 @@ url: "" # the base hostname & protocol for your site
 # disqus_shortname:   default
 
 # Social
-analytics-id:       "UA-146375537-3"
-# twitter:            default
+analytics-id:       "G-BKN6KRKZTT"
+twitter:            DSFSI_Research
 # facebook:           default
 # instagram:          default
 github:             dsfsi
-youtube:            https://www.youtube.com/channel/UCuRj9LMcG-YFiT4eBt93DAg
+youtube:            @dsfsi_research
 # personal
 location:           Tshwane, South Africa
 # phone:              310-318-5555
@@ -57,6 +57,7 @@ gems:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-twitter-plugin
 
 paginate: 6
 paginate_path: "/blog/page:num/"
