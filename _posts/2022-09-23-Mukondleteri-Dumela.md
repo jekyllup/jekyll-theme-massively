@@ -19,14 +19,14 @@ Mukondleteri Dumela is a Software Developer with a keen focus on African languag
 **Angula**
 Angula teaches people African languages using the voices of native speakers. 
 - Angula is in BETA and is set for release in September 2022
-- The link is https://angula.app
+- The [link](https://angula.app) is https://angula.app
 
 **Xitsonga.org**
 Xitsonga.org is a non profit organisation that is focused on digitising the Xitsonga language.
 - The website has been accessed by over a million people.
 - Our apps have downloads of over 200 000.
 - Xitsonga Dictionary app won the 2020 Best Educational Solution at the MTN App Awards
-- The link is https://xitsonga.org 
+- The [link](https://xitsonga.org) is https://xitsonga.org
 
 ## Video, Slides and Notes
 
@@ -35,4 +35,4 @@ Xitsonga.org is a non profit organisation that is focused on digitising the Xits
 
 ### [Slides](https://github.com/dsfsi/dsfsi.github.io/raw/master/files/Mukondleteri-Dumela_Presentation.pdf)
 
-To get future information about Seminars and events, subscribe to the newsletter https://tinyletter.com/datascience-up/
+To get future information about Seminars and events, subscribe to the [newsletter](https://tinyletter.com/datascience-up/)

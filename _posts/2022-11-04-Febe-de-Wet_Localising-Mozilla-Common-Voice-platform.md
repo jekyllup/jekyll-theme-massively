@@ -23,4 +23,4 @@ Febe de Wet is an associate professor at the North-West University's Department 
 ### [Video 1 - Talk + Q&A](https://youtu.be/YUFKvf4gvhk)
 <iframe width="900" height="506" src="https://www.youtube.com/embed/YUFKvf4gvhk" title="Febe De Wet - Localising the Mozilla Common Voice platform for South Africa’s official languages" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-To get future information about Seminars and events, subscribe to the newsletter https://tinyletter.com/datascience-up/
+To get future information about Seminars and events, subscribe to the [newsletter](https://tinyletter.com/datascience-up/)
