@@ -4,12 +4,14 @@ title: Data Science for Social Impact - Publications
 description:
 sitemap:
     priority: 1.0
-    lastmod: 2022-10-13
+    lastmod: 2022-12-11
     changefreq: monthly
 ---
 
 ### 2022
 
+*  Andani Madodonga,  Vukosi Marivate, and  Matthew Adendorff. **Izindaba-Tindzaba: Machine learning news categorisation for Long and Short Text for isiZulu and Siswati (To Appear)**, *Journal of the Digital Humanities Association of Southern Africa *, 2022. [NLP] <> [[Paper URL]()] [[Preprint URL]()] **DOI:** [](https://dx.doi.org/) 
+*  Catherine Gitau and  Vukosi Marivate. **Textual Augmentation Techniques Applied to Low Resource Machine Translation: Case of SwahilI (To Appear)**, *Journal of the Digital Humanities Association of Southern Africa *, 2022. [NLP] <> [[Paper URL]()] [[Preprint URL]()] **DOI:** [](https://dx.doi.org/) 
 *  Herkulaas Combrink,  Vukosi Marivate, and  Benjamin Rosman. **Reinforcement Learning in Education: A Multi-Armed Bandit Approach**, *arXiv preprint arXiv: Arxiv-2211.00779*, 2022. [ML][SOC] <> [[Paper URL]()] [[Preprint URL](https://arxiv.org/abs/2211.00779)] **DOI:** [](https://dx.doi.org/) 
 *  Herkulaas MvE Combrink,  Vukosi Marivate, and  Benjamin Rosman. **Comparing Synthetic Tabular Data Generation Between a Probabilistic Model and a Deep Learning Model for Education Use Cases**, *arXiv preprint arXiv: Arxiv-2210.08528*, 2022. [ML][SOC] <> [[Paper URL]()] [[Preprint URL](https://arxiv.org/abs/2210.08528)] **DOI:** [](https://dx.doi.org/) 
 *  Nicolle Garber and  Vukosi Marivate. **Conversational Pattern Mining using Motif Detection**, *Pan-African Artificial Intelligence and Smart Systems (To Appear)*. 2022. [ML][NLP] <> [[Paper URL]()] [[Preprint URL](https://arxiv.org/abs/2211.06846)] **DOI:** [](https://dx.doi.org/) 
