@@ -4,12 +4,13 @@ title: Data Science for Social Impact - Publications
 description:
 sitemap:
     priority: 1.0
-    lastmod: 2022-12-11
+    lastmod: 2022-12-02
     changefreq: monthly
 ---
 
 ### 2022
 
+* D.I. Adelani, M.M.I. Alam, A. Anastasopoulos, A. Bhagia, M. Costa-Jussá, J. Dodge, F. Faisal, C. Federmann, N. Fedorova, F. Guzmán, V. Marivate, and  others. **Findings of the WMT 2022 shared task on large-scale machine translation evaluation for african languages**, *Proceedings of the Seventh Conference on Machine Translation, Online. Association for Computational Linguistics*. 2022. [NLP] <> [[Paper URL](https://www.statmt.org/wmt22/pdf/2022.wmt-1.72.pdf)] 
 *  Andani Madodonga,  Vukosi Marivate, and  Matthew Adendorff. **Izindaba-Tindzaba: Machine learning news categorisation for Long and Short Text for isiZulu and Siswati (To Appear)**, *Journal of the Digital Humanities Association of Southern Africa *, 2022. [NLP] <> [[Paper URL]()] [[Preprint URL]()] **DOI:** [](https://dx.doi.org/) 
 *  Catherine Gitau and  Vukosi Marivate. **Textual Augmentation Techniques Applied to Low Resource Machine Translation: Case of SwahilI (To Appear)**, *Journal of the Digital Humanities Association of Southern Africa *, 2022. [NLP] <> [[Paper URL]()] [[Preprint URL]()] **DOI:** [](https://dx.doi.org/) 
 *  Herkulaas Combrink,  Vukosi Marivate, and  Benjamin Rosman. **Reinforcement Learning in Education: A Multi-Armed Bandit Approach**, *arXiv preprint arXiv: Arxiv-2211.00779*, 2022. [ML][SOC] <> [[Paper URL]()] [[Preprint URL](https://arxiv.org/abs/2211.00779)] **DOI:** [](https://dx.doi.org/) 
