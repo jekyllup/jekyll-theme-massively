@@ -12,7 +12,7 @@ The [Data Science for Social Impact (DSFSI)](https://dsfsi.github.io/) research 
 * Participate in broader research activities in the DSFSI Lab
 * Co-supervision of students
 
-### Topic Area: Topic classification modelling of code-mixed and code-switched languages for low-resource South African languages
+### Topic Area: Code-switching and mixing classification modelling for low-resource South African languages.
 
 Code-switching and code-mixing are when bilingual speakers switch between multiple languages during written or spoken communication . Both are complex processes that involve different levels of code-switching or code-mixing in accordance with proficiency in the languages used . The current language models which use natural language processing and speech models break down when people use different codes/languages for different contexts or interrupt the language processing pipeline (the systems are built only for one language), forcing users to communicate in unnatural manners. Four significant challenges occur in building code-switching and code-mixing models:
 * A shortage of code-switched data on which to train language models; 
