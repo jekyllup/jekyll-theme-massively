@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "[Publication] Investigating Statistical and Machine Learning Techniques to Improve the Credit Approval Process in Developing Countries"
+date:   2021-03-30
+excerpt: "Publication by Moses, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
+image: "https://github.com/dsfsi/dsfsi.github.io/raw/master/images/Moses.png"
+---
+## Members
+Moses Lusinga, Tshepiso Mokoena, Abiodun Modupe, Vukosi Marivate
+
+## Abstract
+The implementation of machine learning models that lie at the heart of traditional financial institutions like banks has primarily remained a "black box". Techniques such as extreme gradient boosting, random forest and support vector machines are challenging to interpret. This restricts the commercial application of these techniques as they lack transparency and often hide potential biases inherited by the machine learning algorithms. Ultimately, this further limits the ability of these techniques to assess an individual’s ability to pay for a loan. The biases lead to credit applications being rejected or individuals being offered "unfair" credit terms based on their credit risk. Recently there have been attempts to predict credit default risk in literature. However, the majority of studies are conducted using data from developed countries, where most individuals are banked and data is complete. Therefore, this study aims to investigate and compare statistical classification techniques and machine learning techniques, with the focus being on interpreting the results and explaining which features contribute to the credit approval processes that may excel in both developed and developing countries. To achieve this goal, we explored three datasets from FinTech organisations, namely Home Credit, Xente, and Super Lender. Two of the datasets are from Uganda and Nigeria (developing countries in Africa) and one from the USA (a developed country in North America). We adopted Shapley Additive exPlanation (SHAP) to interpret the models. Using SHAP, we identified that for all three datasets, the external ratings, total due and loan duration increase the likelihood of an individual defaulting on a loan. Additionally, we also found that the tree-based algorithms, particularly the extreme gradient boosting algorithm outperforms logistic regression, random forest and other statistical learning techniques.
+## Publications
+* M. Lusinga, T. Mokoena, A. Modupe and V. Mariate, "Investigating Statistical and Machine Learning Techniques to Improve the Credit Approval Process in Developing Countries," 2021 IEEE AFRICON, 2021, pp. 1-6, doi: 10.1109/AFRICON51333.2021.9570906.

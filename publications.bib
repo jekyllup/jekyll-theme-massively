@@ -1,0 +1,580 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% https://bibdesk.sourceforge.io/
+
+%% Created for Vukosi Marivate at 2022-05-05 10:59:32 +0200 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+%% 2022
+
+
+
+@Article{app12157518,
+AUTHOR = {Modupe, Abiodun and Celik, Turgay and Marivate, Vukosi and Olugbara, Oludayo O.},
+TITLE = {Post-Authorship Attribution Using Regularized Deep Neural Network},
+JOURNAL = {Applied Sciences},
+VOLUME = {12},
+YEAR = {2022},
+NUMBER = {15},
+ARTICLE-NUMBER = {7518},
+URL = {https://www.mdpi.com/2076-3417/12/15/7518},
+ISSN = {2076-3417},
+ABSTRACT = {Post-authorship attribution is a scientific process of using stylometric features to identify the genuine writer of an online text snippet such as an email, blog, forum post, or chat log. It has useful applications in manifold domains, for instance, in a verification process to proactively detect misogynistic, misandrist, xenophobic, and abusive posts on the internet or social networks. The process assumes that texts can be characterized by sequences of words that agglutinate the functional and content lyrics of a writer. However, defining an appropriate characterization of text to capture the unique writing style of an author is a complex endeavor in the discipline of computational linguistics. Moreover, posts are typically short texts with obfuscating vocabularies that might impact the accuracy of authorship attribution. The vocabularies include idioms, onomatopoeias, homophones, phonemes, synonyms, acronyms, anaphora, and polysemy. The method of the regularized deep neural network (RDNN) is introduced in this paper to circumvent the intrinsic challenges of post-authorship attribution. It is based on a convolutional neural network, bidirectional long short-term memory encoder, and distributed highway network. The neural network was used to extract lexical stylometric features that are fed into the bidirectional encoder to extract a syntactic feature-vector representation. The feature vector was then supplied as input to the distributed high networks for regularization to minimize the network-generalization error. The regularized feature vector was ultimately passed to the bidirectional decoder to learn the writing style of an author. The feature-classification layer consists of a fully connected network and a SoftMax function to make the prediction. The RDNN method was tested against thirteen state-of-the-art methods using four benchmark experimental datasets to validate its performance. Experimental results have demonstrated the effectiveness of the method when compared to the existing state-of-the-art methods on three datasets while producing comparable results on one dataset.},
+DOI = {10.3390/app12157518},
+keywords = {ML,NLP}
+}
+
+
+
+
+@Article{engproc2022018036,
+AUTHOR = {Rockefeller, Rockefeller and Bah, Bubacarr and Marivate, Vukosi and Zimmermann, Hans-Georg},
+TITLE = {Improving the Predictive Power of Historical Consistent Neural Networks},
+JOURNAL = {Engineering Proceedings},
+VOLUME = {18},
+year = {2022},
+NUMBER = {1},
+ARTICLE-NUMBER = {36},
+URL = {https://www.mdpi.com/2673-4591/18/1/36},
+ISSN = {2673-4591},
+ABSTRACT = {The Historical Consistent Neural Networks (HCNN) are an extension of the standard Recurrent Neural Networks (RNN): they allow the modeling of highly-interacting dynamical systems across multiple time scales. HCNN do not draw any distinction between inputs and outputs, but model observables embedded in the dynamics of a large state space. In this paper, we propose to improve the predictive power of the (Vanilla) HCNN using three methods: (1) HCNN with Partial Teacher Forcing, (2) HCNN with Sparse State Transition Matrix, and (3) a Long Short Term Memory Formulation of HCNN. We investigated the effect of those long memory improvement methods on three chaotic time-series mathematically generated from the Rabinovich&ndash;Fabrikant, the Rossler System and the Lorenz system. To complement our study, we compared the accuracy of the different HCNN variants with well-known recurrent neural networks methods such as Vanilla RNN and LSTM for the same prediction tasks. Overall, our results show that the Vanilla HCNN is superior to RNN and LSTM. This is even more the case if you include the above long memory extensions (1), (2) and (3). We demonstrate that (1) and (3) are superior for the modeling of our chaotic dynamical systems. We show that for these deterministic systems, the ensembles are narrowed.},
+DOI = {10.3390/engproc2022018036},
+keywords = {ML},
+}
+
+
+
+@InProceedings{kabongokabenamualu-marivate-kamper:2022:DCLRL,
+  author    = {Kabongo Kabenamualu, Salomon  and  Marivate, Vukosi  and  Kamper, Herman},
+  title     = {LiSTra Automatic Speech Translation: English to Lingala Case Study},
+  booktitle      = {Proceedings of The Workshop on Dataset Creation for Lower-Resourced Languages within the 13th Language Resources and Evaluation Conference},
+  month          = {June},
+  year           = {2022},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {63--67},
+  abstract  = {In recent years there has been great interest in addressing the data scarcity of African languages and providing baseline models for different Natural Language Processing tasks (Orife et al., 2020). Several initiatives (Nekoto et al., 2020) on the continent uses the Bible as a data source to provide proof of concept for some NLP tasks. In this work, we present the Lingala Speech Translation (LiSTra) dataset, release a full pipeline for the construction of such dataset in other languages, and report baselines using both the traditional cascade approach (Automatic Speech Recognition - Machine Translation), and a revolutionary transformer based End-2-End architecture (Liu et al., 2020) with a custom interactive attention that allows information sharing between the recognition decoder and the translation decoder.},
+  url       = {https://aclanthology.org/2022.dclrl-1.8},
+  preprint_url = {http://www.lrec-conf.org/proceedings/lrec2022/workshops/DCLRL/pdf/2022.dclrl-1.8.pdf},
+  keywords = {NLP},
+
+}
+
+
+@article{mokoatle2022gleason,
+    doi = {10.1371/journal.pone.0267714},
+    author = {Mokoatle, Mpho and Mapiye, Darlington and Marivate, Vukosi and Hayes, Vanessa M. and Bornman, Riana},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Discriminatory Gleason grade group signatures of prostate cancer: An application of machine learning methods},
+    year = {2022},
+    month = {06},
+    volume = {17},
+    url = {https://doi.org/10.1371/journal.pone.0267714},
+    pages = {1-17},
+    abstract = {One of the most precise methods to detect prostate cancer is by evaluation of a stained biopsy by a pathologist under a microscope. Regions of the tissue are assessed and graded according to the observed histological pattern. However, this is not only laborious, but also relies on the experience of the pathologist and tends to suffer from the lack of reproducibility of biopsy outcomes across pathologists. As a result, computational approaches are being sought and machine learning has been gaining momentum in the prediction of the Gleason grade group. To date, machine learning literature has addressed this problem by using features from magnetic resonance imaging images, whole slide images, tissue microarrays, gene expression data, and clinical features. However, there is a gap with regards to predicting the Gleason grade group using DNA sequences as the only input source to the machine learning models. In this work, using whole genome sequence data from South African prostate cancer patients, an application of machine learning and biological experiments were combined to understand the challenges that are associated with the prediction of the Gleason grade group. A series of machine learning binary classifiers (XGBoost, LSTM, GRU, LR, RF) were created only relying on DNA sequences input features. All the models were not able to adequately discriminate between the DNA sequences of the studied Gleason grade groups (Gleason grade group 1 and 5). However, the models were further evaluated in the prediction of tumor DNA sequences from matched-normal DNA sequences, given DNA sequences as the only input source. In this new problem, the models performed acceptably better than before with the XGBoost model achieving the highest accuracy of 74 ± 01, F1 score of 79 ± 01, recall of 99 ± 0.0, and precision of 66 ± 0.1.},
+    number = {6},
+	keywords = {ML,NLP},
+	doi = {10.1016/j.patcog.2021.108227},
+}
+
+@article{Makgatho_Marivate_Sefara_Wagner_2022, 
+	title={Training Cross-Lingual embeddings for Setswana and Sepedi}, 
+	volume={3},
+	url={https://upjournals.up.ac.za/index.php/dhasa/article/view/3822}, 
+	doi={10.55492/dhasa.v3i03.3822}, 
+	number={03}, 
+	journal={Journal of the Digital Humanities Association of Southern Africa }, 
+	author={Makgatho, Mack and Marivate, Vukosi and Sefara, Tshephisho and Wagner, Valencia}, 
+	year={2022},
+	preprint_url={https://arxiv.org/abs/2111.06230},
+	dataset_url={https://zenodo.org/record/5673974},
+	keywords = {NLP},
+	month={Feb.} 
+}
+
+@article{mokoena2022anomaly,
+	preprint_url = {https://repository.up.ac.za/handle/2263/82935},
+	author = {Mokoena, Tshepiso and Celik, Turgay and Marivate, Vukosi},
+	date-added = {2022-05-05 10:54:19 +0200},
+	date-modified = {2022-05-05 10:54:58 +0200},
+	journal = {Pattern Recognition},
+	keywords = {ML},
+	pages = {108227},
+	publisher = {Elsevier},
+	title = {Why is this an anomaly? Explaining anomalies using sequential explanations},
+	url = {https://www.sciencedirect.com/science/article/pii/S0031320321004088},
+	volume = {121},
+	year = {2022},
+	doi = {10.1016/j.patcog.2021.108227},
+	}
+
+
+%% 2021
+
+@article{dhole2021nl,
+  	title={NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation},
+  	author={Dhole, Kaustubh D and Gangal, Varun and Gehrmann, Sebastian and Gupta, Aadesh and Li, Zhenhao and Mahamood, Saad and Mahendiran, Abinaya and Mille, Simon and Srivastava, Ashish and Tan, Samson and others},
+  	journal={arXiv preprint arXiv:2112.02721},
+  	preprint_url = {https://arxiv.org/abs/2112.02721},
+	keywords = {NLP},
+  	year={2021}
+}
+
+@inproceedings{de2021fake,
+	preprint_url = {https://arxiv.org/abs/2108.02941},
+	dataset_url = {https://github.com/dsfsi/za-fake-news-2020},
+	author = {de Wet, Harm and Marivate, Vukosi},
+	booktitle = {2021 IEEE AFRICON},
+	date-added = {2022-05-05 10:56:44 +0200},
+	date-modified = {2022-05-05 10:56:51 +0200},
+	keywords = {NLP,SOC},
+	organization = {IEEE},
+	pages = {1--6},
+	title = {Is it Fake? News Disinformation Detection on South African News Websites},
+	url = {https://ieeexplore.ieee.org/abstract/document/9570905},
+	year = {2021},
+	doi={10.1109/AFRICON51333.2021.9570905}
+	}
+
+@inproceedings{behr2021empirical,
+	preprint_url = {https://arxiv.org/abs/2108.04449},
+	author = {Behr, David and wa Maina, Ciira and Marivate, Vukosi},
+	booktitle = {2021 IEEE AFRICON},
+	date-added = {2022-05-05 10:56:11 +0200},
+	date-modified = {2022-05-05 10:56:27 +0200},
+	keywords = {ML,SOC},
+	organization = {IEEE},
+	pages = {1--6},
+	title = {An empirical investigation into audio pipeline approaches for classifying bird species},
+	url = {https://ieeexplore.ieee.org/abstract/document/9570862},
+	year = {2021},
+  	doi={10.1109/AFRICON51333.2021.9570862}
+  }
+
+@inproceedings{nthimo2021call,
+	title={Call Centre Shift Schedule Optimisation using Local Search Heuristics},
+	author={Nthimo, Liketso and Mokoena, Tshepiso and Modupe, Abiodun and Marivate, Vukosi},
+	booktitle={2021 IEEE AFRICON},
+	pages={1--6},
+	year={2021},
+	organization={IEEE},
+	keywords = {ML},
+	url = {https://ieeexplore.ieee.org/abstract/document/9570947},
+	doi = {10.1109/AFRICON51333.2021.9570947}
+}
+
+@inproceedings{marivate2021extracting,
+  title={Extracting and categorising the reactions to COVID-19 by the South African public-A social media study},
+  author={Marivate, Vukosi and Moodley, Avashlin and Saba, Athandiwe},
+  booktitle={2021 IEEE AFRICON},
+  pages={1--6},
+  year={2021},
+  organization={IEEE},
+  keywords = {NLP,SOC},
+  preprint_url={https://arxiv.org/abs/2006.06336},
+  doi={10.1109/AFRICON51333.2021.9571010},
+  url={https://ieeexplore.ieee.org/abstract/document/9571010}
+}
+
+@inproceedings{terblanche2021towards,
+  title={Towards Financial Sentiment Analysis in a South African Landscape},
+  author={Terblanche, Michelle and Marivate, Vukosi},
+  booktitle={International Cross-Domain Conference for Machine Learning and Knowledge Extraction},
+  pages={185--202},
+  year={2021},
+  keywords = {NLP,SOC},
+  organization={Springer},
+  url={https://link.springer.com/chapter/10.1007/978-3-030-84060-0_12},
+  preprint_url={https://arxiv.org/abs/2106.10004},
+  dataset_url={https://doi.org/10.25403/UPresearchdata.14401178.v1},
+  doi={10.1007/978-3-030-84060-0_12}
+}
+
+@article{marivate2021fourth,
+  title={The Fourth Industrial Revolution-what does it mean to our future faculty?},
+  author={Marivate, Vukosi and Aghoghovwia, Philip and Ismail, Yaseera and Mahomed-Asmail, Faheema and Steenhuisen, Sandy-Lynn},
+  journal={South African Journal of Science},
+  volume={117},
+  number={5-6},
+  pages={1--3},
+  year={2021},
+  keywords = {SOC},
+  publisher={Academy of Science of South Africa},
+  url={http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S0038-23532021000300011},
+  doi={10.17159/sajs.2021/10702},
+  preprint_url={https://repository.up.ac.za/handle/2263/81059}
+}
+
+@article{oladeji2021monitoring,
+  title={Monitoring Information-Seeking Patterns and Obesity Prevalence in Africa With Internet Search Data: Observational Study},
+  author={Oladeji, Olubusola and Zhang, Chi and Moradi, Tiam and Tarapore, Dharmesh and Stokes, Andrew C and Marivate, Vukosi and Sengeh, Moinina D and Nsoesie, Elaine O and others},
+  journal={JMIR public health and surveillance},
+  volume={7},
+  number={4},
+  pages={e24348},
+  keywords = {NLP,SOC},
+  year={2021},
+  publisher={JMIR Publications Inc., Toronto, Canada},
+  doi={10.2196/24348},
+  url={https://publichealth.jmir.org/2021/4/e24348/}
+}
+
+@inproceedings{sefara2021transformer,
+  title={Transformer-based machine translation for low-resourced languages embedded with language identification},
+  author={Sefara, Tshephisho J and Zwane, Skhumbuzo G and Gama, Nelisiwe and Sibisi, Hlawulani and Senoamadi, Phillemon N and Marivate, Vukosi},
+  booktitle={2021 Conference on Information Communications Technology and Society (ICTAS)},
+  pages={127--132},
+  year={2021},
+  organization={IEEE},
+  keywords = {NLP},
+  url={https://ieeexplore.ieee.org/abstract/document/9394996},
+  doi={10.1109/ICTAS50802.2021.9394996}
+}
+
+@article{kraemer2021data,
+  title={Data curation during a pandemic and lessons learned from COVID-19},
+  author={Kraemer, Moritz UG and Scarpino, Samuel V and Marivate, Vukosi and Gutierrez, Bernardo and Xu, Bo and Lee, Graham and Hawkins, Jared B and Rivers, Caitlin and Pigott, David M and Katz, Rebecca and others},
+  journal={Nature Computational Science},
+  volume={1},
+  number={1},
+  pages={9--10},
+  year={2021},
+  publisher={Nature Publishing Group},
+  doi = {10.1038/s43588-020-00015-6},
+  url={https://www.nature.com/articles/s43588-020-00015-6},
+  keywords = {SOC}
+}
+
+@article{ngejane2021digital,
+  title={Digital forensics supported by machine learning for the detection of online sexual predatory chats},
+  author={Ngejane, Cynthia H and Eloff, Jan HP and Sefara, Tshephisho J and Marivate, Vukosi N},
+  journal={Forensic science international: Digital investigation},
+  volume={36},
+  pages={301109},
+  year={2021},
+  publisher={Elsevier},
+  doi ={10.1016/j.fsidi.2021.301109},
+  url={https://www.sciencedirect.com/science/article/pii/S2666281721000032},
+  preprint_url={https://repository.up.ac.za/handle/2263/79468},
+  keywords={NLP},
+}
+
+@article{marivate2021,
+  title={Africa's responses to covid-19: an early data science view},
+  author={Marivate, Vukosi and Nsoesie, Elaine and Combrink, Herkulaas MVE},
+  journal={COVID-19 from the Margins},
+  pages={110},
+  url={https://networkcultures.org/wp-content/uploads/2021/02/Covid19FromTheMargins-1.pdf#page=110},
+  preprint_url = {https://data-activism.net/2020/12/bigdatasur-covid-africas-responses-to-covid-19-an-early-data-science-view/},
+  keywords = {SOC}
+  year = {2021}
+}
+
+%% 2020
+
+
+@inproceedings{nekoto2020participatory,
+  title={Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages},
+  author={Nekoto, Wilhelmina and Marivate, Vukosi and Matsila, Tshinondiwa and Fasubaa, Timi and Fagbohungbe, Taiwo and Akinola, Solomon Oluwole and Muhammad, Shamsuddeen and Kabenamualu, Salomon Kabongo and Osei, Salomey and Sackey, Freshia and others},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2020},
+  pages={2144--2160},
+  year={2020},
+  keywords={NLP,SOC},
+  url={https://aclanthology.org/2020.findings-emnlp.195},
+  doi={10.18653/v1/2020.findings-emnlp.195},
+  preprint_url={https://arxiv.org/abs/2010.02353},
+  dataset_url={https://github.com/masakhane-io/masakhane-mt}
+}
+
+@article{mtsweni2020mapping,
+  title={Mapping the South African health landscape in response to COVID-19},
+  author={Mtsweni, Nompumelelo and Combrink, Herkulaas MvE and Marivate, Vukosi},
+  journal={arXiv preprint arXiv:2006.15216},
+  year={2020},
+  keywords={SOC},
+  preprint_url={https://arxiv.org/abs/2006.15216},
+  dataset_url = {https://github.com/dsfsi/covid19za/tree/master/data}  
+}
+
+@inproceedings{combrink2020,
+author = {Combrink, Herkulaas and Marivate, Vukosi and Rosman, Benjamin},
+year = {2021},
+booktitle = {Southern African Conference for Artificial Intelligence Research},
+month = {12},
+pages = {23--34},
+title = {A Framework for Undergraduate Data Collection Strategies for Student Support Recommendation Systems in Higher Education},
+preprint_url = {https://www.raillab.org/content/Combrink_Marivate_Rosman_2020_CCIS_2.pdf},
+keywords = {ML,SOC}
+}
+
+
+@inproceedings{marivate2020improving,
+  title={Improving short text classification through global augmentation methods},
+  author={Marivate, Vukosi and Sefara, Tshephisho},
+  booktitle={International Cross-Domain Conference for Machine Learning and Knowledge Extraction},
+  pages={385--399},
+  year={2020},
+  organization={Springer},
+  url = {https://link.springer.com/chapter/10.1007/978-3-030-57321-8_21},
+  preprint_url = {https://arxiv.org/abs/1907.03752},
+  sofware_url = {https://github.com/dsfsi/textaugment/},
+  keywords = {NLP},
+  doi = {10.1007/978-3-030-57321-8_21}
+}
+
+@inproceedings{naidoo2020unsupervised,
+  title={Unsupervised anomaly detection of healthcare providers using generative adversarial networks},
+  author={Naidoo, Krishnan and Marivate, Vukosi},
+  booktitle={Conference on e-Business, e-Services and e-Society},
+  pages={419--430},
+  year={2020},
+  organization={Springer},
+  url = {https://link.springer.com/chapter/10.1007/978-3-030-44999-5_35},
+  preprint_url = {https://repository.up.ac.za/handle/2263/78373},
+  keywords = {ML},
+  doi = {10.1007/978-3-030-44999-5_35}
+}
+
+@article{marivate2020use,
+  title={Use of Available Data To Inform The COVID-19 Outbreak in South Africa: A Case Study},
+  author={Marivate, Vukosi and Combrink, Herkulaas MvE},
+  journal={Data Science Journal},
+  volume={19},
+  number={1},
+  year={2020},
+  publisher={Ubiquity Press},
+  url = {https://datascience.codata.org/article/10.5334/dsj-2020-019/},
+  preprint_url = {https://arxiv.org/abs/2004.04813},
+  dataset_url = {https://github.com/dsfsi/covid19za},
+  keywords = {SOC},
+  doi = {10.5334/dsj-2020-019}
+}
+
+
+@inproceedings{marivate2020investigating,
+    title = {Investigating an Approach for Low Resource Language Dataset Creation, Curation and Classification: Setswana and Sepedi},
+    author = {Marivate, Vukosi  and
+      Sefara, Tshephisho  and
+      Chabalala, Vongani  and
+      Makhaya, Keamogetswe  and
+      Mokgonyane, Tumisho  and
+      Mokoena, Rethabile  and
+      Modupe, Abiodun},
+    booktitle = {Proceedings of the first workshop on Resources for African Indigenous Languages},
+    year = {2020},
+    address = {Marseille, France},
+    publisher = {European Language Resources Association (ELRA)},
+    url = {https://aclanthology.org/2020.rail-1.3},
+    pages = {15--20},
+    abstract = {The recent advances in Natural Language Processing have only been a boon for well represented languages, negating research in lesser known global languages. This is in part due to the availability of curated data and research resources. One of the current challenges concerning low-resourced languages are clear guidelines on the collection, curation and preparation of datasets for different use-cases. In this work, we take on the task of creating two datasets that are focused on news headlines (i.e short text) for Setswana and Sepedi and the creation of a news topic classification task from these datasets. In this study, we document our work, propose baselines for classification, and investigate an approach on data augmentation better suited to low-resourced languages in order to improve the performance of the classifiers.},
+    language = {English},
+    ISBN = {979-10-95546-60-3},
+	preprint_url ={https://arxiv.org/abs/2003.04986},
+	dataset_url = {https://zenodo.org/record/3668495},
+	keywords = {NLP}
+}
+
+@article{orife2020masakhane,
+  title={Masakhane--Machine Translation For Africa},
+  author={Orife, Iroro and Kreutzer, Julia and Sibanda, Blessing and Whitenack, Daniel and Siminyu, Kathleen and Martinus, Laura and Ali, Jamiil Toure and Abbott, Jade and Marivate, Vukosi and Kabongo, Salomon and others},
+  journal={arXiv preprint arXiv:2003.11529},
+  year={2020},
+  keywords = {NLP,SOC},
+  preprint_url = {https://arxiv.org/abs/2003.11529}
+}
+
+@article{marivate2020african,
+  title={Why African natural language processing now? A view from South Africa\# AfricaNLP},
+  author={Marivate, Vukosi},
+  year={2020},
+  keywords = {ML,NLP},
+  url = {https://mistra.org.za/mistra-media/why-african-natural-language-processing-now-a-view-from-south-africa-africanlp/}
+}
+
+@article{DBLP:journals/corr/abs-2004-11369,
+  author    = {Henry Wandera and
+               Vukosi Marivate and
+               David Sengeh},
+  title     = {Investigating similarities and differences between South African and
+               Sierra Leonean school outcomes using Machine Learning},
+  journal   = {CoRR},
+  volume    = {abs/2004.11369},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2004.11369},
+  eprinttype = {arXiv},
+  eprint    = {2004.11369},
+  timestamp = {Sat, 23 Jan 2021 01:14:33 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2004-11369.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords = {ML,SOC}
+}
+
+%% 2019
+@inproceedings{wandera2019predicting,
+  title={Predicting National School Performance for Policy Making in South Africa},
+  author={Wandera, Henry and Marivate, Vukosi and Sengeh, Moinina David},
+  booktitle={2019 6th International Conference on Soft Computing \& Machine Intelligence (ISCMI)},
+  pages={23--28},
+  year={2019},
+  organization={IEEE},
+  url = {https://ieeexplore.ieee.org/abstract/document/9004323},
+  keywords ={ML,SOC}
+}
+
+@inproceedings{moodley2019topic,
+  title={Topic modelling of news articles for two consecutive elections in South Africa},
+  author={Moodley, Avashlin and Marivate, Vukosi},
+  booktitle={2019 6th International Conference on Soft Computing \& Machine Intelligence (ISCMI)},
+  pages={131--136},
+  year={2019},
+  organization={IEEE},
+  url = {https://ieeexplore.ieee.org/abstract/document/9004342},
+  keywords = {NLP,SOC}
+}
+
+
+@inproceedings{mokoatle2019predicting,
+  title={Predicting road traffic accident severity using accident report data in South Africa},
+  author={Mokoatle, Mpho and Vukosi Marivate, Dr and Michael Esiefarienrhe Bukohwo, Professor},
+  booktitle={Proceedings of the 20th annual international conference on digital government research},
+  pages={11--17},
+  year={2019},
+  url = {https://dl.acm.org/doi/abs/10.1145/3325112.3325211},
+  keywords = {ML,SOC}
+}
+
+%% 2018
+
+@inproceedings{marivate2018exploring,
+  title={Exploring data science for public good in South Africa: evaluating factors that lead to success},
+  author={Marivate, Vukosi and Moorosi, Nyalleng},
+  booktitle={Proceedings of the 19th Annual International Conference on Digital Government Research: Governance in the Data Age},
+  pages={1--6},
+  year={2018},
+  url = {https://dl.acm.org/doi/abs/10.1145/3209281.3209366},
+  keywords = {ML,SOC}
+}
+
+@inproceedings{mokoatle2018collision,
+  title={Collision Course: Challenges with Road Traffic Accident Data in South Africa},
+  author={Mokoatle, Mpho and Marivate, Vukosi},
+  booktitle={2018 International Conference on Advances in Big Data, Computing and Data Communication Systems (icABCD)},
+  pages={1--6},
+  year={2018},
+  organization={IEEE},
+  url = {https://ieeexplore.ieee.org/abstract/document/8465419},
+  keywords = {ML,SOC}
+}
+
+%% 2017
+
+@inproceedings{mokoena2017bringing,
+  title={Bringing sequential feature explanations to life},
+  author={Mokoena, Tshepiso and Lebogo, Ofentswe and Dlaba, Asive and Marivate, Vukosi},
+  booktitle={2017 IEEE AFRICON},
+  pages={59--64},
+  year={2017},
+  organization={IEEE},
+  url ={https://ieeexplore.ieee.org/abstract/document/8095456},
+  keywords = {ML,NLP}
+}
+
+@inproceedings{marivate2017employment,
+  title={Employment relations: a data driven analysis of job markets using online job boards and online professional networks},
+  author={Marivate, Vukosi and Moorosi, Nyalleng},
+  booktitle={Proceedings of the International Conference on Web Intelligence},
+  pages={1110--1113},
+  year={2017},
+  url = {https://dl.acm.org/doi/abs/10.1145/3106426.3115589},
+  keywords = {NLP,SOC}
+}
+
+@inproceedings{modupe2017semi,
+  title={Semi-supervised probabilistics approach for normalising informal short text messages},
+  author={Modupe, Abiodun and Celik, Turgay and Marivate, Vukosi and Diale, Melvin},
+  booktitle={2017 Conference on Information Communication Technology and Society (ICTAS)},
+  pages={1--8},
+  year={2017},
+  organization={IEEE},
+  keywords = {NLP},
+  url = {https://ieeexplore.ieee.org/abstract/document/7920659}
+}
+
+@inproceedings{moorosi2017critical,
+  title={A Critical and Systemic Consideration of Data for Sustainable Development in Africa},
+  author={Moorosi, Nyalleng and Thinyane, Mamello and Marivate, Vukosi},
+  booktitle={International Conference on Social Implications of Computers in Developing Countries},
+  pages={232--241},
+  year={2017},
+  organization={Springer},
+  keywords = {SOC},
+  url = {https://link.springer.com/chapter/10.1007/978-3-319-59111-7_20}
+}
+
+%% 2016
+
+@inproceedings{monamo2016multifaceted,
+  title={A multifaceted approach to Bitcoin fraud detection: Global and local outliers},
+  author={Monamo, Patrick M and Marivate, Vukosi and Twala, Bhesipho},
+  booktitle={2016 15th IEEE International Conference on Machine Learning and Applications (ICMLA)},
+  pages={188--194},
+  year={2016},
+  organization={IEEE},
+  url = {https://ieeexplore.ieee.org/abstract/document/7838143},
+  keywords = {ML}
+}
+
+@inproceedings{marivate2016catching,
+  title={Catching crime: Detection of public safety incidents using social media},
+  author={Marivate, Vukosi N and Moiloa, Pelonomi},
+  booktitle={2016 Pattern Recognition Association of South Africa and Robotics and Mechatronics International Conference (PRASA-RobMech)}, 
+  year={2016},
+  publisher={IEEE},
+  url = {https://ieeexplore.ieee.org/abstract/document/7813140},
+  doi={10.1109/RoboMech.2016.7813140},
+  keywords = {NLP,SOC}
+
+}
+
+@inproceedings{monamo2016,
+author={Monamo, Patrick and Marivate, Vukosi and Twala, Bheki},
+  booktitle={2016 Information Security for South Africa (ISSA)}, 
+  title={Unsupervised learning for robust Bitcoin fraud detection}, 
+  year={2016},
+  volume={},
+  number={},
+  pages={129-134},
+  doi={10.1109/ISSA.2016.7802939},
+  url = {https://ieeexplore.ieee.org/abstract/document/7802939},
+  keywords = {ML,SOC}
+  }
+
+%% 2015
+
+@INPROCEEDINGS{marivate2015,  
+	author={Marivate, Vukosi N.},  
+	booktitle={2015 Pattern Recognition Association of South Africa and Robotics and Mechatronics International Conference (PRASA-RobMech)},   
+	title={Extracting South African safety and security incident patterns from social media},
+	year={2015}, 
+	pages={106-111}, 
+	doi={10.1109/RoboMech.2015.7359507},
+	url = {https://ieeexplore.ieee.org/abstract/document/7359507},
+	keywords = {NLP,SOC}
+}
+
+
+@INPROCEEDINGS{moorosi2015,
+  author={Moorosi, Nyalleng and Marivate, Vukosi},
+  booktitle={2015 Second International Conference on Information Security and Cyber Forensics (InfoSec)}, 
+  title={Privacy in mining crime data from social Media: A South African perspective}, 
+  year={2015},
+  volume={},
+  number={},
+  pages={171-175},
+  doi={10.1109/InfoSec.2015.7435524},
+  url = {https://ieeexplore.ieee.org/abstract/document/7435524},
+  keywords = {ML,SOC},
+  }
+s
