@@ -27,7 +27,8 @@ Code-switching and code-mixing are when bilingual speakers switch between multip
 
 Closing date for applications: **29 January  2023**
 
-Apply here https://bit.ly/DSFSIPostdoc 
+Apply here [https://bit.ly/DSFSIPostdoc](https://bit.ly/DSFSIPostdoc) 
+
 **Note:** *Do share with those who might be interested in this opportunity. If there are any questions,, feel free to get in contact with Prof. Vukosi Marivate (vukosi.marivate@cs.up.ac.za)*
 
 When you send an email, please use this subject.
