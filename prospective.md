@@ -48,7 +48,7 @@ For hounours students, projects are mostly towards research. Best you try to mak
 
 ### Potential Projects Available for CS Honours Students
 
-See the [2022 COS 700 DSFSI list](https://docs.google.com/document/d/1ROb7tHQaTIoUxm-la0Lm1am0II1Wvba0dlwddd4SC-M/edit?usp=sharing)
+See the [2023 COS 700 DSFSI list](https://docs.google.com/document/d/1L7qJotkuRtUH_S2E_rftO0LCWXlz6VDtcPegbAd-xCo/edit?usp=sharingf)
 
 ## All Undegrad Students @ University of Pretoria
 
