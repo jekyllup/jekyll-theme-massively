@@ -2,6 +2,7 @@
 layout: post
 title:  "Vukosi Marivate - AfricanML: Where to next? [IndabaX South Africa 2022] "
 date:   2023-02-13
+image: https://github.com/dsfsi/dsfsi.github.io/raw/master/images/dlix2022keynote.jpeg
 excerpt: ""
 ---
 
