@@ -17,7 +17,8 @@ The group is made up of a number of people who work on our core themes.
 ## Faculty
 
 * Assoc. Prof Vukosi Marivate (UP ABSA Chair of Data Science) [[ORCID](https://orcid.org/0000-0002-6731-6267){:target="_blank"}]
-* Abiodun Modupe
+* Abiodun Modupe [[ORCID](https://orcid.org/0000-0002-9732-6466){:target="_blank"}]
+* Seani Rananga
 * Tshepiso Mokoena
 
 ## PhD Students
@@ -31,10 +32,8 @@ The group is made up of a number of people who work on our core themes.
 
 ## Masters 
 * Amica De Jager [UP][ML, NLP]
-* Andani Madodonga [UP - MIT Big Data Science][NLP]
 * Derwin Ngomane [UP - MIT Big Data Science][NLP]
 * Hombakazi Ngejane [UP][ML, NLP]
-* Jesse Parvess [UP - MIT Big Data Science][NLP]
 * Makgatho Letladi [UP][ML, NLP]
 * Matimba Shingange [UP - MIT Big Data Science][NLP]
 * Mohlatlego Nakeng [UP - MIT Big Data Science][NLP]
@@ -43,15 +42,8 @@ The group is made up of a number of people who work on our core themes.
 * Shaun Johnson [UP - MIT Big Data Science][NLP]
 * Thapelo Sindane [UP][NLP]
 * Tsholofelo Gomba [UP][ML, SOC][[ORCID](https://orcid.org/0000-0002-9569-0774){:target="_blank"}]
-* Yolanda Nkalashe [UP - MIT Big Data Science][NLP]
 
 ## Honours
-* Nonhle Maseko
-* Pitso Khoboko
-* Neo Mokono
-* Shrey Mandalia
-* Shivaan Pillay
-* Akhona Sekwati
 
 ## Interns
 
@@ -60,7 +52,14 @@ The group is made up of a number of people who work on our core themes.
 ### 2022
 * Khutso Sepuru [UP - MIT Big Data Science][ML]
 * Palesa Lepamo [UP - MIT Big Data Science][ML,Soc]
+* Andani Madodonga [UP - MIT Big Data Science][NLP]
 * Carel Nchachi [UP - MIT Big Data Science][NLP,Soc]
+* Yolanda Nkalashe [UP - MIT Big Data Science][NLP]
+* Jesse Parvess [UP - MIT Big Data Science][NLP]
+* Pitso Khoboko [UP, CS Hons]
+* Shrey Mandalia [UP, CS Hons]
+* Shivaan Pillay [UP, CS Hons]
+* Akhona Sekwati [UP, CS Hons]
 
 ### 2021
 * Neo Mokono [UP, CS Hons]
@@ -74,7 +73,6 @@ The group is made up of a number of people who work on our core themes.
 * Nicole Garber[UP - MIT Big Data Science][ML, NLP][[Dissertation Announcement](https://dsfsi.github.io/blog/Garber-dissseration)]
 * Lamont Theron [UP - MIT Big Data Science][ML,NLP][[Dissertation Announcement](https://dsfsi.github.io/blog/Theron-dissseration)]
 * Thapelo Sindane [UP - Research Assistant]
-
 
 ### 2020
 * Alon Behr [UP, CS Hons][ML, SOC]
