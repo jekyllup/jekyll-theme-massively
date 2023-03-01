@@ -51,8 +51,7 @@ sass:
   style:            compressed
 
 # Gems
-# gems:
-plugins :
+gems:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
