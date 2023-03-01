@@ -50,6 +50,7 @@ Table 1: Baseline performance of models based on F1 score
 2. Data modification through augmentation improved model performance and further research can be carried out on how to conduct augmentation on African languages that includes lexical and context-based techniques instead of purely random rearrangement. Also, the models performed best when only the top 10 labels were included in the training process.  
 
 Table 2: Experimentation results of models based on the F1 score
+
 | Experimentation                    | Dataset      | Language | AfriBERTa | Afro-XLMR | AfroLM |
 | ---------------------------------- | ------------ | -------- | --------- | --------- | ------ |
 | Freezing lower layers              | isiZulu News | isiZulu  | 0.424     | 0.464     | 0.384  |
@@ -58,6 +59,7 @@ Table 2: Experimentation results of models based on the F1 score
 | Augmented Data                     | isiZulu News | isiZulu  | 0.538     | 0.724     | 0.591  |
 
 Table 3: Results of the experimentation carried out on the combined dataset (F1 Score) 
+
 | Experimentation                  | Dataset          | Language | AfriBERTa |
 | -------------------------------- | ---------------- | -------- | --------- |
 | Original                         | Combined_Dataset | All      | 0.726     |
