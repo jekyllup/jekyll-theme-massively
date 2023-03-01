@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "DSFSI Summer Research Experience: Fine-tuning Multilingual Pre-trained African Language  Models"
-date:   2023-01-27
-excerpt: "By Rozina Myoya and Fiskani Banda"
+date:   2023-03-01
+excerpt: "Rozina Myoya and Fiskani Banda - The aim of the research was to  explore the application of Pre-trained Language Models(PLMs) on a multilingual classification task. The study concluded that PLMs perform best on downstream tasks on the languages they were pre-trained on, thus emphasising the importance of including low resource languages in the pre-training process of LMs."
 image: /images/2023-03-01-Summer-Internship-post.png
 ---
 
@@ -88,7 +88,7 @@ I would suggest applying for this position because it gives you the opportunity 
 ### Rozina
 I would definitely recommend others apply for this position in future because it is the perfect environment to test your knowledge of deep learning through practical problem solving. Also, it provides the perfect opportunity for developing or enhancing your research skills, including scientific writing, as evidenced by the research papers we produced at the end of the program. In addition to that, participation in the program provides valuable experience in research collaboration and how to effectively communicate your ideas using deep learning jargon. The experience is truly invaluable and presents the perfect opportunity to step out of your academic comfort zone and apply your theoretical knowledge to tangible, real-world scenarios.
 
-## Who are we ? 
+## Author Bios ? 
 
 ### Fiskani Banda 
 
