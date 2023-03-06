@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "[Dissertation] South African isiZulu and siSwati News Corpus Creation, Annotation and Categorisation"
-date: 2023-03-03
+date: 2023-03-06
 excerpt: "Masters dissertation by Andani Madodonga, Faculty of Engineering, Built Environment and Information Technology University of Pretoria, Pretoria"
-image: ""
+image: /images/Andani_MiniDissertation.jpg
 ---
 ## Members
 Andani Madodonga, MITC Big Data Science
