@@ -52,10 +52,10 @@ The group is made up of a number of people who work on our core themes.
 ### 2022
 * Khutso Sepuru [UP - MIT Big Data Science][ML]
 * Palesa Lepamo [UP - MIT Big Data Science][ML,Soc]
-* Andani Madodonga [UP - MIT Big Data Science][NLP]
+* Andani Madodonga [UP - MIT Big Data Science][NLP] [[Dissertation Announcement](https://dsfsi.github.io/blog/Andani-dissertation/)]
 * Carel Nchachi [UP - MIT Big Data Science][NLP,Soc]
-* Yolanda Nkalashe [UP - MIT Big Data Science][NLP]
-* Jesse Parvess [UP - MIT Big Data Science][NLP]
+* Yolanda Nkalashe [UP - MIT Big Data Science][NLP] [[Dissertation Announcement](https://dsfsi.github.io/blog/Yolanda-dissertation/)]
+* Jesse Parvess [UP - MIT Big Data Science][NLP] [[Dissertation Announcement](https://dsfsi.github.io/blog/Jesse-dissertation/)]
 * Pitso Khoboko [UP, CS Hons]
 * Shrey Mandalia [UP, CS Hons]
 * Shivaan Pillay [UP, CS Hons]
