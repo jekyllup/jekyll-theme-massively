@@ -10,6 +10,10 @@ sitemap:
 
 ## Seminars @ DS@UP🚀 - Data Science for Society Seminar Series #DS4SocietySeminar
 
+### 2023 Series
+
+Loading......
+
 ### 2022 Series
 
 The dates of the series as well as some of the speakers are now available below. If you want to be updated on the seminar series, please sign up to the [DS@UP Newsletter](https://tinyletter.com/datascience-up/). 
