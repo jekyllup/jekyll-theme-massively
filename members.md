@@ -29,8 +29,10 @@ The group is made up of a number of people who work on our core themes.
 * Mpho Mokoatle [UP][NLP,Soc][[ORCID](https://orcid.org/0000-0001-7689-2840){:target="_blank"}]
 * Rockerfeller [AIMS][ML,Soc]
 * Temitope Kekere [UP][NLP,Soc][[ORCID](https://orcid.org/0000-0002-5362-2685){:target="_blank"}]
+* Mhlasakululeka Mvubu
 
-## Masters 
+## Masters
+
 * Amica De Jager [UP][ML, NLP]
 * Derwin Ngomane [UP - MIT Big Data Science][NLP]
 * Hombakazi Ngejane [UP][ML, NLP]
@@ -42,14 +44,24 @@ The group is made up of a number of people who work on our core themes.
 * Shaun Johnson [UP - MIT Big Data Science][NLP]
 * Thapelo Sindane [UP][NLP]
 * Tsholofelo Gomba [UP][ML, SOC][[ORCID](https://orcid.org/0000-0002-9569-0774){:target="_blank"}]
+* Rozina Myoya [UP - MIT Big Data Science]
+* Marc Gagiano [UP - MIT Big Data Science]
+* Penelope Matloga [UP - MIT Big Data Science]
+* Fiskani Banda [UP - MIT Big Data Science][NLP]
+* Tsholofelo Gomba [UP]
+* Miehleketo Mathebula [UP]
 
 ## Honours
+
+* Amukelani Chauke [UP]
+* Alex Molokomme [UP]
 
 ## Interns
 
 ## Alumni
 
 ### 2022
+
 * Khutso Sepuru [UP - MIT Big Data Science][ML]
 * Palesa Lepamo [UP - MIT Big Data Science][ML,Soc]
 * Andani Madodonga [UP - MIT Big Data Science][NLP] [[Dissertation Announcement](https://dsfsi.github.io/blog/Andani-dissertation/)]
@@ -62,6 +74,7 @@ The group is made up of a number of people who work on our core themes.
 * Akhona Sekwati [UP, CS Hons]
 
 ### 2021
+
 * Neo Mokono [UP, CS Hons]
 * Tsholofelo Gomba [UP, CS Hons]
 * Andreas Bayer [UP - MIT Big Data Science][ML, NLP] [[Dissertation Announcement](https://dsfsi.github.io/blog/Andreas-dissertation/)]
@@ -75,6 +88,7 @@ The group is made up of a number of people who work on our core themes.
 * Thapelo Sindane [UP - Research Assistant]
 
 ### 2020
+
 * Alon Behr [UP, CS Hons][ML, SOC]
 * Boitshoko Pule [UP, CS Hons][NLP, SOC]
 * Harm de Wet [UP, CS Hons][NLP, SOC]
@@ -85,6 +99,7 @@ The group is made up of a number of people who work on our core themes.
 * Avashlin Moodley [UP - MIT Big Data Science][NLP,SOC] [[Dissertation Announcement](https://dsfsi.github.io/blog/Avashlin-Moodly-dissertation/)]
 
 ### Earlier
+
 * Mpho Mokoatle [MSc][NWU][ML,Soc][[Dissertation Announcement](https://dsfsi.github.io/blog/Mokoatle-dissertation)] - 2019  
 * Patrick Monamo [MSc][UJ][ML][[Dissertation Announcement](https://dsfsi.github.io/blog/Monamo-dissertation)] - 2018 
 * Jessica Nemasisi [Hons][UniVen][ML] - 2017
@@ -93,4 +108,3 @@ The group is made up of a number of people who work on our core themes.
 * Nkosinathi Hlophe [AIMS-CSIR, 2018][ML] [[Dissertation Announcement](https://dsfsi.github.io/blog/Nkosinathi-dissertation)]
 * Shané van Graan   [AIMS-CSIR, 2018][ML] [[Dissertation Announcement](https://dsfsi.github.io/blog/shane-dissertation)]
 * Phillemon Ntona Senoamadi [AIMS-CSIR, 2018][ML][[Dissertation Announcement](https://dsfsi.github.io/blog/phillemon-dissertation)]
-
