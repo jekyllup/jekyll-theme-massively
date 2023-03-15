@@ -16,7 +16,9 @@ Commentable [Google Slides](https://docs.google.com/presentation/d/1Ad3vv-5OIqJv
 
 ## Resources
 
-### Past DS@UP🚀 Newsletter Editions with discussions of Large Langauge MOdels
+### Past DS@UP🚀 Newsletter Editions with discussions of Large Langauge Models
+
+[Technical but accessible] Below are editions of our newsletter that many resources on learning more about Language Models. They cover not just the technical details, but challenges as well. 
 
 * [#34: Begin, the AI wars Have!!! - Feb 2023](https://tinyletter.com/datascience-up/letters/ds-up-34-begin-the-ai-wars-have){:target="_blank"}
 * [#32: Redux - Oct 2022](https://tinyletter.com/datascience-up/letters/ds-up-32-redux){:target="_blank"}
@@ -26,9 +28,11 @@ You can subscribe to the newsletter here: [https://tinyletter.com/datascience-up
 
 ### Media
 
-* [Podcast] The Limitations of ChatGPT with Emily M. Bender and Casey Fiesler - [URL](https://www.radicalai.org/chatgpt-limitations){:target="_blank"}
-
+* [Podcast] The Limitations of ChatGPT with Emily M. Bender and Casey Fiesler - [URL](https://www.radicalai.org/chatgpt-limitations){:target="_blank"} [For everyone]
+ 
 #### The UPs and Downs of what Large Langauge Models might mean (The AI Wars)
+
+[For everyone] Below is a list of very accessible videos from the ColdFusion Youtube channel that tries to explain what has been going on in the last couple of months when it comes to the impact of Generative AI models and the effect they are having on the Big Tech Industry. 
 
 * ⬆️ The euphoria begins. ChatGPT will change everything, especially search engines, but will it? <> **📽️ It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)** - [URL](https://www.youtube.com/watch?v=0uQqMxXoNVs){:target="_blank"}
 * ➡️ The lines are drawn for Bigtech <:> **📽️ Google Panics Over ChatGPT [The AI Wars Have Begun]** - [URL](https://www.youtube.com/watch?v=Nh5i5obZ8OY){:target="_blank"}
