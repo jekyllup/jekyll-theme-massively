@@ -18,7 +18,19 @@ Commentable [Google Slides](https://docs.google.com/presentation/d/1Ad3vv-5OIqJv
 
 ### Past DS@UP🚀 Newsletter Editions with discussions of Large Langauge MOdels
 
+* [#34: Begin, the AI wars Have!!! - Feb 2023](https://tinyletter.com/datascience-up/letters/ds-up-34-begin-the-ai-wars-have){:target="_blank"}
 * [#32: Redux - Oct 2022](https://tinyletter.com/datascience-up/letters/ds-up-32-redux){:target="_blank"}
 * [#31: Di June July - Jul 2022](https://tinyletter.com/datascience-up/letters/ds-up-31-di-june-july){:target="_blank"}
 
 You can subscribe to the newsletter here: [https://tinyletter.com/datascience-up/](https://tinyletter.com/datascience-up/){:target="_blank"}
+
+### Media
+
+* [Podcast] The Limitations of ChatGPT with Emily M. Bender and Casey Fiesler - [URL](https://www.radicalai.org/chatgpt-limitations){:target="_blank"}
+
+#### The UPs and Downs of what Large Langauge Models might mean (The AI Wars)
+
+* ⬆️ The euphoria begins. ChatGPT will change everything, especially search engines, but will it? <> **📽️ It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)** - [URL](https://www.youtube.com/watch?v=0uQqMxXoNVs){:target="_blank"}
+* ➡️ The lines are drawn for Bigtech <:> **📽️ Google Panics Over ChatGPT [The AI Wars Have Begun]** - [URL](https://www.youtube.com/watch?v=Nh5i5obZ8OY){:target="_blank"}
+* ⬇️ It all goes downhill very quick <> **📽️ ChatGPT Has A Serious Problem**- [URL]([https://www.youtube.com/watch?v=0uQqMxXoNVs](https://www.youtube.com/watch?v=ce616lsed9Y)){:target="_blank"}
+
