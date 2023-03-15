@@ -12,6 +12,13 @@ Natural Language Processing (NLP) and Artificial Intelligence (AI) have made sig
 
 ## Slides
 
-Commentable [Google Slides](https://docs.google.com/presentation/d/1Ad3vv-5OIqJvaqdsEkx1e0mOSPXcRoZUZ1PwEB4-6iQ/edit?usp=sharing)
+Commentable [Google Slides](https://docs.google.com/presentation/d/1Ad3vv-5OIqJvaqdsEkx1e0mOSPXcRoZUZ1PwEB4-6iQ/edit?usp=sharing){:target="_blank"}
 
 ## Resources
+
+### Past DS@UP🚀 Newsletter Editions with discussions of Large Langauge MOdels
+
+* [#32: Redux - Oct 2022](https://tinyletter.com/datascience-up/letters/ds-up-32-redux){:target="_blank"}
+* [#31: Di June July - Jul 2022](https://tinyletter.com/datascience-up/letters/ds-up-31-di-june-july){:target="_blank"}
+
+You can subscribe to the newsletter here: [https://tinyletter.com/datascience-up/](https://tinyletter.com/datascience-up/){:target="_blank"}
