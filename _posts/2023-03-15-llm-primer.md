@@ -2,7 +2,7 @@
 layout: post
 title: "The DSFSI Large Langauge Models Primer <> AI and Language: A Mirror to Ourselves - Understanding how we got to ChatGPT and what it actually means"
 date: 2023-03-15
-excerpt: "Tutorial by Vukosi Marivate"
+excerpt: "Primer/Tutorial by Prof. Vukosi Marivate"
 image: 
 ---
 
@@ -12,7 +12,7 @@ Natural Language Processing (NLP) and Artificial Intelligence (AI) have made sig
 
 ## Slides
 
-Commentable [Google Slides](https://docs.google.com/presentation/d/1Ad3vv-5OIqJvaqdsEkx1e0mOSPXcRoZUZ1PwEB4-6iQ/edit?usp=sharing){:target="_blank"}
+Commentable [Google Slides](https://docs.google.com/presentation/d/1dUbIpGw1kNoAETrrP1o6WkMWmHZZrkFqxDnHzB8Uj8M/edit?usp=sharing){:target="_blank"}
 
 ## Resources
 
