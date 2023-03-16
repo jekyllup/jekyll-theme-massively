@@ -49,7 +49,7 @@ The group is made up of a number of people who work on our core themes.
 * Penelope Matloga [UP - MIT Big Data Science]
 * Fiskani Banda [UP - MIT Big Data Science][NLP]
 * Tsholofelo Gomba [UP]
-* Miehleketo Mathebula [UP]
+* Miehleketo Mathebula [UP][NLP]
 
 ## Honours
 
