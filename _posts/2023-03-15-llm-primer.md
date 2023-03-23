@@ -14,6 +14,10 @@ Natural Language Processing (NLP) and Artificial Intelligence (AI) have made sig
 
 Commentable [Google Slides](https://docs.google.com/presentation/d/1dUbIpGw1kNoAETrrP1o6WkMWmHZZrkFqxDnHzB8Uj8M/edit?usp=sharing){:target="_blank"}
 
+### The Feather-Brick Test
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As part of my Language Model Primer/Tutorial, I have included this logic question example: &quot;What weighs more, 1 KG of Feathers or 2 KG of Bricks?&quot;<br><br>Results from popular LLMs are doing? This is inspired by <a href="https://twitter.com/IMAO_?ref_src=twsrc%5Etfw">@IMAO_</a>&#39;s example. Just changed to metric. <a href="https://twitter.com/hashtag/ChatGPT?src=hash&amp;ref_src=twsrc%5Etfw">#ChatGPT</a> - FAIL🔴 1/n <a href="https://t.co/Gok77t4l9L">pic.twitter.com/Gok77t4l9L</a></p>&mdash; @vukosi@sigmoid.social Vukosi Marivate 🇿🇦🚀📊 (@vukosi) <a href="https://twitter.com/vukosi/status/1638831477784997888?ref_src=twsrc%5Etfw">March 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Resources
 
 ### Past DS@UP🚀 Newsletter Editions with discussions of Large Langauge Models
