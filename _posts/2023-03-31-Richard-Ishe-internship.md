@@ -36,7 +36,7 @@ The technical details of each task are as follows, The task are omitted as they 
 
 ## Significant Results
 
-The most significant result we achieved was the sentence alignment of the government cabinet speeches on the github repo [[Github URL](https://github.com/dsfsi/gov-za-multilingual)],  Vukuzenzele dataset on the github repo [[Github URL](https://github.com/dsfsi/vukuzenzele-nlp)]  as well a paper that is now in review. The paper preprint is available “Preparing the Vuk'uzenzele and ZA-gov-multilingual South African multilingual corpora” - [[Paper URL](https://arxiv.org/abs/2303.03750)]. The paper has been accepted for presentation at the Fourth workshop on Resources for African Indigenous Languages (RAIL).
+The most significant result we achieved was the sentence alignment of the government cabinet speeches on the github repo [[Github URL](https://github.com/dsfsi/gov-za-multilingual)],  Vukuzenzele dataset on the github repo [[Github URL](https://github.com/dsfsi/vukuzenzele-nlp)]  as well a paper that is now in review. The paper preprint is available “Preparing the Vuk'uzenzele and ZA-gov-multilingual South African multilingual corpora” - [[Paper URL](https://arxiv.org/abs/2303.03750)]. The paper has been accepted for presentation at [[the Fourth workshop on Resources for African Indigenous Languages (RAIL)](https://sadilar.org/index.php/en/2/374)].
 
 ## Personal Takeaways from the Summer Research program
 
