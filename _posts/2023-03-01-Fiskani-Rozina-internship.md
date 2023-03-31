@@ -92,12 +92,8 @@ I would definitely recommend others apply for this position in future because it
 
 ### Fiskani Banda 
 
-I am Fiskani Banda. I am currently an MIT Big Data Science student at University of Pretoria. I previously studied Biomedical engineering as well as Information engineering at the University of Witwatersrand. My passion for Data Science started in 2020 during my vacation work for the Wits Business Intelligence Services , where I was introduced to the fundamentals of all things data. My current interest is Natural language processing. I am keen to learn  and do research in this field. 
+I am Fiskani Banda. I am currently an MIT Big Data Science student at University of Pretoria. I previously studied Biomedical engineering as well as Information engineering at the University of Witwatersrand. My passion for Data Science started in 2020 during my vacation work for the Wits Business Intelligence Services , where I was introduced to the fundamentals of all things data. My current interest is Natural language processing. I am keen to learn  and do research in this field.
 
 ### Rozina Myoya
 
 I am Rozina Myoya. I am currently an MIT Big Data Science candidate at the University of Pretoria completing my final year. My research focuses on Natural Language Processing applications in the public transport space. I like to describe myself as a transport engineer turned data scientist, but in actuality, my work has always been centred around data science and its potential to enhance our society. I am excited to be a part of this ever-evolving field and witness the revolutionary changes that are yet to come.
-
-
- 
-
