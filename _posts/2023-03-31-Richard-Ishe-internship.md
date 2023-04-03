@@ -36,7 +36,7 @@ The technical details of each task are as follows, The task are omitted as they 
 
 ## Significant Results
 
-The most significant result we achieved was the sentence alignment of the government cabinet speeches on the github repo [[https://github.com/dsfsi/gov-za-multilingual](https://github.com/dsfsi/gov-za-multilingual){:target="_blank"}],  Vukuzenzele dataset on the github repo [[https://github.com/dsfsi/vukuzenzele-nlp](https://github.com/dsfsi/vukuzenzele-nlp){:target="_blank"}]  as well a paper that is now in review. The paper preprint is available “Preparing the Vuk'uzenzele and ZA-gov-multilingual South African multilingual corpora” - [[https://arxiv.org/abs/2303.03750](https://arxiv.org/abs/2303.03750){:target="_blank"}]. The paper has been accepted for presentation at [[the Fourth workshop on Resources for African Indigenous Languages (RAIL)](https://sadilar.org/index.php/en/2/374){:target="_blank"}].
+The most significant result we achieved was the sentence alignment of the government cabinet speeches on the github repo [https://github.com/dsfsi/gov-za-multilingual](https://github.com/dsfsi/gov-za-multilingual){:target="_blank"},  Vukuzenzele dataset on the github repo [https://github.com/dsfsi/vukuzenzele-nlp](https://github.com/dsfsi/vukuzenzele-nlp){:target="_blank"}  as well a paper that is now in review. The paper preprint is available “Preparing the Vuk'uzenzele and ZA-gov-multilingual South African multilingual corpora” - [https://arxiv.org/abs/2303.03750](https://arxiv.org/abs/2303.03750){:target="_blank"}. The paper has been accepted for presentation at [[the Fourth workshop on Resources for African Indigenous Languages (RAIL)](https://sadilar.org/index.php/en/2/374){:target="_blank"}].
 
 ## Personal Takeaways from the Summer Research program
 
@@ -58,7 +58,7 @@ Yes I would suggest others interested in data science to apply for this position
 
 I would suggest others to apply for the position as a means to grow yourself and your skills while also contributing to — and collaborating with — a research group looking to positively impact the space it works in.
 
-## Author Bios ?
+## Author Bios
 
 ### Isheanesu Dzingirai
 
