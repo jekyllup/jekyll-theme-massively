@@ -36,25 +36,25 @@ The technical details of each task are as follows, The task are omitted as they 
 
 ## Significant Results
 
-The most significant result we achieved was the sentence alignment of the government cabinet speeches on the github repo [https://github.com/dsfsi/gov-za-multilingual](https://github.com/dsfsi/gov-za-multilingual){:target="_blank"},  Vukuzenzele dataset on the github repo [https://github.com/dsfsi/vukuzenzele-nlp](https://github.com/dsfsi/vukuzenzele-nlp){:target="_blank"}  as well a paper that is now in review. The paper preprint is available “Preparing the Vuk'uzenzele and ZA-gov-multilingual South African multilingual corpora” - [https://arxiv.org/abs/2303.03750](https://arxiv.org/abs/2303.03750){:target="_blank"}. The paper has been accepted for presentation at [[the Fourth workshop on Resources for African Indigenous Languages (RAIL)](https://sadilar.org/index.php/en/2/374){:target="_blank"}].
+The most significant result we achieved was the sentence alignment of the government cabinet speeches on the github repo [https://github.com/dsfsi/gov-za-multilingual](https://github.com/dsfsi/gov-za-multilingual),  Vukuzenzele dataset on the github repo [https://github.com/dsfsi/vukuzenzele-nlp](https://github.com/dsfsi/vukuzenzele-nlp) as well a paper that is now in review. The paper preprint is available “Preparing the Vuk'uzenzele and ZA-gov-multilingual South African multilingual corpora” - [https://arxiv.org/abs/2303.03750](https://arxiv.org/abs/2303.03750). The paper has been accepted for presentation at the [Fourth workshop on Resources for African Indigenous Languages (RAIL)](https://sadilar.org/index.php/en/2/374).
 
 ## Personal Takeaways from the Summer Research program
 
-### Ishe
+### Isheanesu Dzingirai
 
 My time with the Data Science for Social Impact Research group was nothing short of exceptional. Through my various interactions with the group members, I was able to expand my knowledge in NLP. I also enhanced my skill on how to write a research report which will truly benefit me with my honours research. I also learnt through the summer research program to always give back to the community and to do things that make a positive impact on people’s lives.I hope to work with them again in the future.
 
-### Richard
+### Richard Lastrucci
 
 I enjoyed my time working for the research group. I learnt many new things, technical and otherwise. I really liked web scraping - it is a task that involves some critical thinking and bare logic programming which I enjoyed thoroughly. I came into the group with a very narrow view of data science and have since developed a strong appreciation for language and language processing. I hope to have contributed in a meaningful way and am very grateful to have been given the opportunity.
 
 ## Why would you suggest others apply for this position in the future?
 
-### Ishe
+### Isheanesu Dzingirai
 
 Yes I would suggest others interested in data science to apply for this position as it provides the opportunity to work with a team of experts in the field, collaborate with people in academia, industry and non profit organisations while gaining experience in data analysis and machine learning.
 
-### Richard
+### Richard Lastrucci
 
 I would suggest others to apply for the position as a means to grow yourself and your skills while also contributing to — and collaborating with — a research group looking to positively impact the space it works in.
 
@@ -68,4 +68,4 @@ I am a well-presented, highly focused, and intelligent computer science graduate
 
 I am a 3rd year Computer Science student with a keen interest in programming and statistics. I hope to become a Data Scientist one day because I have a strong curiosity about the world around me and I appreciate data science as a tool to ask and answer questions relating to almost any topic.
 
-*You can read more about the other student team experience <> [DSFSI Summer Research Experience: Fine-tuning Multilingual Pre-trained African Language Models](https://dsfsi.github.io/blog/Fiskani-Rozina-internship/){:target="_blank"}*
+*You can read more about the other student team experience* <> [DSFSI Summer Research Experience: Fine-tuning Multilingual Pre-trained African Language Models](https://dsfsi.github.io/blog/Fiskani-Rozina-internship/)
