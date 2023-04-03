@@ -2,7 +2,7 @@
 layout: post
 title:  "From Data Engineering to Natural Language Corpora - The DSFSI 2022/2023 Summer Internship"
 date:   2023-03-31
-excerpt: "Richard and Ishe - The main focus was collection, processing and outputting parallel corpora in the 11 official languages of South Africa. We collected multilingual data by building web scrapers, we processed and cleaned this and other extracted data before performing sentence alignment to produce the parallel corpora. We also improved and documented Masakhane Web."
+excerpt: "Richard Lastrucci and Isheanesu Dzingirai - The main focus was collection, processing and creation of parallel corpora in the 11 official languages of South Africa. We collected multilingual data by building web scrapers, we processed and cleaned this and other extracted data before performing sentence alignment to produce the parallel corpora. We also improved and documented Masakhane Web."
 image: /images/2023-03-31-Summer-Internship-post.png
 ---
 
@@ -10,7 +10,7 @@ image: /images/2023-03-31-Summer-Internship-post.png
 
 For the recess period we worked on a variety of tasks that mostly involved the lower end of the data science pipeline, as well as some software development, documentation and research work. The main focus was collection, processing and outputting parallel corpora in the 11 official languages of South Africa. We collected multilingual data by building web scrapers, we processed and cleaned this and other extracted data before performing sentence alignment to produce the parallel corpora. For software development, we improved and documented Masakhane Web. Documentation was also created on how to instantiate and use GCP spot instances, and finally we collaborated on the compilation and editing of research papers for submission to journals.
 
-## Why is it important
+## Why is it important?
 
 Why each task is important is listed below.  The 1st point discusses the web scrapers created. The 2nd point discusses the importance of parallel corpora. The 3rd point discusses the development of Masakhane Web. The 4th point discusses the documentation for GCP.  Finally, the 5th point discusses the research work conducted.
 
@@ -36,7 +36,7 @@ The technical details of each task are as follows, The task are omitted as they 
 
 ## Significant Results
 
-The most significant result we achieved was the sentence alignment of the government cabinet speeches on the github repo [[Github URL](https://github.com/dsfsi/gov-za-multilingual)],  Vukuzenzele dataset on the github repo [[Github URL](https://github.com/dsfsi/vukuzenzele-nlp)]  as well a paper that is now in review. The paper preprint is available “Preparing the Vuk'uzenzele and ZA-gov-multilingual South African multilingual corpora” - [[Paper URL](https://arxiv.org/abs/2303.03750)]. The paper has been accepted for presentation at [[the Fourth workshop on Resources for African Indigenous Languages (RAIL)](https://sadilar.org/index.php/en/2/374)].
+The most significant result we achieved was the sentence alignment of the government cabinet speeches on the github repo [[https://github.com/dsfsi/gov-za-multilingual](https://github.com/dsfsi/gov-za-multilingual){:target="_blank"}],  Vukuzenzele dataset on the github repo [[https://github.com/dsfsi/vukuzenzele-nlp](https://github.com/dsfsi/vukuzenzele-nlp){:target="_blank"}]  as well a paper that is now in review. The paper preprint is available “Preparing the Vuk'uzenzele and ZA-gov-multilingual South African multilingual corpora” - [[https://arxiv.org/abs/2303.03750](https://arxiv.org/abs/2303.03750){:target="_blank"}]. The paper has been accepted for presentation at [[the Fourth workshop on Resources for African Indigenous Languages (RAIL)](https://sadilar.org/index.php/en/2/374){:target="_blank"}].
 
 ## Personal Takeaways from the Summer Research program
 
@@ -60,10 +60,12 @@ I would suggest others to apply for the position as a means to grow yourself and
 
 ## Author Bios ?
 
-### Ishe
+### Isheanesu Dzingirai
 
 I am a well-presented, highly focused, and intelligent computer science graduate and software engineer passionate about data science and machine learning with the aspiration of one day becoming a machine learning engineer. I am also proficient in a range of modern programming languages and technologies including Python, C++, and Java.
 
-### Richard
+### Richard Lastrucci
 
 I am a 3rd year Computer Science student with a keen interest in programming and statistics. I hope to become a Data Scientist one day because I have a strong curiosity about the world around me and I appreciate data science as a tool to ask and answer questions relating to almost any topic.
+
+*You can read more about the other student team experience <> [DSFSI Summer Research Experience: Fine-tuning Multilingual Pre-trained African Language Models](https://dsfsi.github.io/blog/Fiskani-Rozina-internship/){:target="_blank"}*
