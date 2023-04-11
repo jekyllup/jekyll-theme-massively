@@ -4,11 +4,12 @@ title: Data Science for Social Impact - Publications
 description:
 sitemap:
     priority: 1.0
-    lastmod: 2022-12-02
+    lastmod: 20223-04-11
     changefreq: monthly
 ---
 ### 2023
 
+*  Rendani Mbuvha,  David I. Adelani,  Tendani Mutavhatsindi,  Tshimangadzo Rakhuhu,  Aluwani Mauda,  Tshifhiwa Joshua Maumela,  Andisani Masindi,  Seani Rananga,  Vukosi Marivate, and  Tshilidzi Marwala. **MphayaNER: Named Entity Recognition for Tshivenda**, *arXiv preprint arXiv: Arxiv-2304.03952*, 2023. [NLP] <> [[Paper URL](https://arxiv.org/abs/2304.03952)] 
 * R. Lastrucci, I. Dzingirai, J. Rajab, A. Madodonga, M. Shingange, D. Njini, and V. Marivate. **Preparing the Vuk'uzenzele and ZA-gov-multilingual South African multilingual corpora**, *arXiv preprint arXiv:2303.03750*, 2023. [NLP] <> [[Paper URL](https://arxiv.org/abs/2303.03750)] [[Dataset](https://github.com/dsfsi/vukuzenzele-nlp)] 
 * M. Mokoatle, V. Marivate, D. Mapiye, R. Bornman, V. Hayes, and  others. **A review and comparative study of cancer detection using machine learning: SBERT and SimCSE application**, *BMC bioinformatics*, 2023. [NLP][SOC] <> [[Paper URL](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05235-x)] **DOI:** [https://doi.org/10.1186/s12859-023-05235-x](https://dx.doi.org/https://doi.org/10.1186/s12859-023-05235-x) 
 *  Andani Madodonga,  Vukosi Marivate, and  Matthew Adendorff. **Izindaba-Tindzaba: Machine learning news categorisation for Long and Short Text for isiZulu and Siswati**, *Journal of the Digital Humanities Association of Southern Africa *, 2023. [NLP] <> [[Paper URL](https://upjournals.up.ac.za/index.php/dhasa/article/view/4449)] **DOI:** [doi.org/10.55492/dhasa.v4i01.4449](https://dx.doi.org/doi.org/10.55492/dhasa.v4i01.4449) 
