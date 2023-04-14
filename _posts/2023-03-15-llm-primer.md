@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The DSFSI Large Langauge Models Primer <> AI and Language: A Mirror to Ourselves - Understanding how we got to ChatGPT and what it actually means"
+title: "The DSFSI Large Language Models Primer <> AI and Language: A Mirror to Ourselves - Understanding how we got to ChatGPT and what it actually means"
 date: 2023-03-15
 excerpt: "Primer/Tutorial by Prof. Vukosi Marivate"
 image: 
