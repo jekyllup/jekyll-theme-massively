@@ -29,7 +29,8 @@ The group is made up of a number of people who work on our core themes.
 * Mpho Mokoatle [UP][NLP,Soc][[ORCID](https://orcid.org/0000-0001-7689-2840){:target="_blank"}]
 * Rockerfeller [AIMS][ML,Soc]
 * Temitope Kekere [UP][NLP,Soc][[ORCID](https://orcid.org/0000-0002-5362-2685){:target="_blank"}]
-* Mhlasakululeka Mvubu
+* Mhlasakululeka Mvubu [UP]
+* Michelle Terblanche [UP]
 
 ## Masters
 
@@ -48,13 +49,29 @@ The group is made up of a number of people who work on our core themes.
 * Marc Gagiano [UP - MIT Big Data Science]
 * Penelope Matloga [UP - MIT Big Data Science]
 * Fiskani Banda [UP - MIT Big Data Science][NLP]
-* Tsholofelo Gomba [UP]
 * Miehleketo Mathebula [UP][NLP]
+* Pitso Khoboko [UP]
+* Kathleen Siminyu [UP]
+* Amica De Jager [UP]
+* Matome Ledwaba [UP - MIT Big Data Science]
+* Mack Makgatho [UP]
+* Yolanda Nkalashe [UP - MIT Big Data Science]
+* Nelson Phora [UP - MIT Big Data Science]
 
 ## Honours
 
 * Amukelani Chauke [UP]
 * Alex Molokomme [UP]
+* Lesiba Ledwaba [UP]
+* Richard Lastrucci [UP]
+* Matome Makgopa [UP]
+* Nhlakanipho Ngweya [UP]
+* Godfrey Tshehlo [UP]
+* David Walker [UP]
+* Amukelani Walker [UP]
+* Maduvha Malange [UP]
+* Mulweli Mukwevho [UP]
+* Kganshi Molokomme [UP]
 
 ## Interns
 
