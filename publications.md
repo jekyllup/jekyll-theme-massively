@@ -4,11 +4,12 @@ title: Data Science for Social Impact - Publications
 description:
 sitemap:
     priority: 1.0
-    lastmod: 20223-04-11
+    lastmod: 2023-04-18
     changefreq: monthly
 ---
 ### 2023
 
+* K.D. Dhole, V. Gangal, S. Gehrmann, A. Gupta, Z. Li, S. Mahamood, A. Mahendiran, S. Mille, A. Srivastava, S. Tan, and  others. **NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation**, *Northern European Journal of Language Technology (NEJLT)*, 2023. [NLP] <> [[Paper URL](https://nejlt.ep.liu.se/article/view/4725)] [[Preprint URL](https://arxiv.org/abs/2112.02721)] 
 *  Rendani Mbuvha,  David I. Adelani,  Tendani Mutavhatsindi,  Tshimangadzo Rakhuhu,  Aluwani Mauda,  Tshifhiwa Joshua Maumela,  Andisani Masindi,  Seani Rananga,  Vukosi Marivate, and  Tshilidzi Marwala. **MphayaNER: Named Entity Recognition for Tshivenda**, *arXiv preprint arXiv: Arxiv-2304.03952*, 2023. [NLP] <> [[Paper URL](https://arxiv.org/abs/2304.03952)] 
 * R. Lastrucci, I. Dzingirai, J. Rajab, A. Madodonga, M. Shingange, D. Njini, and V. Marivate. **Preparing the Vuk'uzenzele and ZA-gov-multilingual South African multilingual corpora**, *arXiv preprint arXiv:2303.03750*, 2023. [NLP] <> [[Paper URL](https://arxiv.org/abs/2303.03750)] [[Dataset](https://github.com/dsfsi/vukuzenzele-nlp)] 
 * M. Mokoatle, V. Marivate, D. Mapiye, R. Bornman, V. Hayes, and  others. **A review and comparative study of cancer detection using machine learning: SBERT and SimCSE application**, *BMC bioinformatics*, 2023. [NLP][SOC] <> [[Paper URL](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05235-x)] **DOI:** [https://doi.org/10.1186/s12859-023-05235-x](https://dx.doi.org/https://doi.org/10.1186/s12859-023-05235-x) 
@@ -32,7 +33,6 @@ sitemap:
 
 ### 2021
 
-* K.D. Dhole, V. Gangal, S. Gehrmann, A. Gupta, Z. Li, S. Mahamood, A. Mahendiran, S. Mille, A. Srivastava, S. Tan, and  others. **NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation**, *arXiv preprint arXiv:2112.02721*, 2021. [NLP] <> [[Preprint URL](https://arxiv.org/abs/2112.02721)] 
 * H. de Wet and V. Marivate. **Is it Fake? News Disinformation Detection on South African News Websites**, *2021 IEEE AFRICON*. 2021. [NLP][SOC] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/9570905)] [[Preprint URL](https://arxiv.org/abs/2108.02941)] [[Dataset](https://github.com/dsfsi/za-fake-news-2020)] **DOI:** [10.1109/AFRICON51333.2021.9570905](https://dx.doi.org/10.1109/AFRICON51333.2021.9570905) 
 * D. Behr, C. wa Maina, and V. Marivate. **An empirical investigation into audio pipeline approaches for classifying bird species**, *2021 IEEE AFRICON*. 2021. [ML][SOC] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/9570862)] [[Preprint URL](https://arxiv.org/abs/2108.04449)] **DOI:** [10.1109/AFRICON51333.2021.9570862](https://dx.doi.org/10.1109/AFRICON51333.2021.9570862) 
 * L. Nthimo, T. Mokoena, A. Modupe, and V. Marivate. **Call Centre Shift Schedule Optimisation using Local Search Heuristics**, *2021 IEEE AFRICON*. 2021. [ML] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/9570947)] **DOI:** [10.1109/AFRICON51333.2021.9570947](https://dx.doi.org/10.1109/AFRICON51333.2021.9570947) 
