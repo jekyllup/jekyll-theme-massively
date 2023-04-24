@@ -5,6 +5,11 @@
 ///
 
 /* Type */
+@font-face {
+  font-family: "THEvanillabeanR";
+  src: url("../fonts/THEvanillabeanR.otf") format("otf");
+  font-style: normal;
+}
 
 	html {
 		font-size: 16pt;
@@ -57,11 +62,13 @@
 	}
 
 	p {
+		font-family: "THEvanillabeanR";
 		text-align: justify;
 		margin: 0 0 _size(element-margin) 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
+		font-style: "THEvanillabeanR";
 		font-family: _font(family-heading);
 		font-weight: _font(weight-heading);
 		line-height: 1.5;
@@ -194,6 +201,9 @@
 
 		h1, h2, h3, h4, h5, h6 {
 			color: _palette($p, fg-bold);
+		}
+		ul,li{
+				font-family: "THEvanillabeanR";
 		}
 
 		blockquote {

@@ -1,0 +1,94 @@
+I"W<h5 id="vuejs-시작하기">Vue.js 시작하기</h5>
+
+<h5 id="1-vuejs란">1. Vue.js란?</h5>
+
+<h5 id="2-개발환경-설정">2. 개발환경 설정</h5>
+
+<h5 id="3-vuejs-애플리케이션-예제">3. Vue.js 애플리케이션 예제</h5>
+
+<hr />
+
+<h4 id="1-vuejs란-1">1. Vue.js란?</h4>
+
+<h5 id="vuejs의-특징">Vue.js의 특징</h5>
+
+<ul>
+  <li>
+    <p>유연하고 가볍다.</p>
+
+    <p>(전체 아키텍처 새로 구성 X, 일부 UI화면만 적용)</p>
+  </li>
+  <li>
+    <p>React와 마찬가지로 가상 DOM을 지원하고 있다. (빠른 렌더링 속도 지원)</p>
+  </li>
+  <li>
+    <p>MVVM 패턴을 따르고 있다.</p>
+  </li>
+</ul>
+
+<p><img src="/images/MVVM.png" alt="MVVM 패턴" title="MVVM 패턴" width="700" /></p>
+
+<hr />
+
+<h4 id="2-개발환경-설정-1">2. 개발환경 설정</h4>
+
+<ol>
+  <li>Node.js 설치 : npm install -g npm</li>
+  <li>Visual Studio Code 설치</li>
+  <li>Vue.js devtools 설치</li>
+  <li>Vue-CLI 설치 : npm install -g yarn @vue/cli</li>
+  <li>새 프로젝트 생성 : vue create [프로젝트 폴더명] / ‘Vue 프로젝트 매니저’ 이용</li>
+</ol>
+
+<hr />
+
+<h4 id="3-vuejs-애플리케이션-예제-1">3. Vue.js 애플리케이션 예제</h4>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="o">&lt;!</span><span class="nx">DOCTYPE</span> <span class="nx">html</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="nx">html</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="nx">head</span><span class="o">&gt;</span>
+  <span class="o">&lt;</span><span class="nx">meta</span> <span class="nx">charset</span><span class="o">=</span><span class="dl">"</span><span class="s2">utf-8</span><span class="dl">"</span><span class="o">&gt;</span>
+  <span class="o">&lt;</span><span class="nx">title</span><span class="o">&gt;</span><span class="nx">hello</span> <span class="nx">vue</span><span class="p">.</span><span class="nx">js</span><span class="o">&lt;</span><span class="sr">/title</span><span class="err">&gt;
+</span>  <span class="o">&lt;</span><span class="nx">script</span> <span class="nx">src</span><span class="o">=</span><span class="dl">"</span><span class="s2">https://unpkg.com/vue@2.5.16/dist/vue.js</span><span class="dl">"</span><span class="o">&gt;&lt;</span><span class="sr">/script</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="sr">/head</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="nx">body</span><span class="o">&gt;</span>
+  <span class="o">&lt;</span><span class="nx">div</span> <span class="nx">id</span><span class="o">=</span><span class="dl">"</span><span class="s2">simple</span><span class="dl">"</span><span class="o">&gt;</span>
+    <span class="o">&lt;</span><span class="nx">h2</span><span class="o">&gt;&lt;</span><span class="sr">/h2</span><span class="err">&gt;
+</span>  <span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>  <span class="o">&lt;</span><span class="nx">script</span> <span class="nx">type</span><span class="o">=</span><span class="dl">"</span><span class="s2">text/javascript</span><span class="dl">"</span><span class="o">&gt;</span>
+    <span class="kd">var</span> <span class="nx">model</span> <span class="o">=</span> <span class="p">{</span>
+      <span class="na">message</span> <span class="p">:</span> <span class="dl">'</span><span class="s1">첫번째 Vue.js 앱 입니다!</span><span class="dl">'</span>
+    <span class="p">};</span>
+
+    <span class="kd">var</span> <span class="nx">simple</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">Vue</span><span class="p">({</span>
+      <span class="na">el</span> <span class="p">:</span> <span class="dl">'</span><span class="s1">#simple</span><span class="dl">'</span><span class="p">,</span>
+      <span class="na">data</span> <span class="p">:</span> <span class="nx">model</span>
+    <span class="p">})</span>
+
+  <span class="o">&lt;</span><span class="sr">/script</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="sr">/body</span><span class="err">&gt;
+</span><span class="o">&lt;</span><span class="sr">/html</span><span class="err">&gt;
+</span>
+</code></pre></div></div>
+
+<hr />
+
+<h5 id="실행결과">실행결과</h5>
+
+<p><img src="/images/ch01.png" alt="실행결과1" width="880" /></p>
+
+<hr />
+
+<p><img src="/images/ch01-2.png" alt="실행결과2" width="880" /></p>
+
+<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="gh"># Console에서 변수의 값을 직접 변경.</span></code></pre></figure>
+
+<hr />
+
+<blockquote>
+  <p>MVVM 구조는 생소했으나, 익숙해져서 실제 프로젝트에도 적용하게 되면 구조 수정도 용이해질 것이다.<br />
+팀 프로젝트에는 MVC 구조를 사용했는데, Eclipse에서 수많은 패키지와 클래스를 수정하느라 번거로웠다.<br />
+아직은 예제 작성밖에 못하고, 개념도 확실히 이해하지 못했지만, MVVM 구조에 익숙해지면 코드 수정에 할애하는 시간이 훨씬 단축될 것이다.</p>
+</blockquote>
+:ET
