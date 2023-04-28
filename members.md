@@ -10,7 +10,7 @@ sitemap:
 
 The group is made up of a number of people who work on our core themes.
 
-| <img src="https://github.com/dsfsi/dsfsi.github.io/blob/master/images/dsfsi-group-pic-may-2022.png?raw=true" alt="drawing" style="width:900px;"/> |
+| <img src="https://github.com/dsfsi/dsfsi.github.io/blob/master/images/dsfsi_group_photo_2023.jpg?raw=true" alt="drawing" style="width:900px;"/> |
 |:--:|
 | <b>2022 DSFSI Group Picture</b>|
 
@@ -19,7 +19,6 @@ The group is made up of a number of people who work on our core themes.
 * Assoc. Prof Vukosi Marivate (UP ABSA Chair of Data Science) [[ORCID](https://orcid.org/0000-0002-6731-6267){:target="_blank"}]
 * Abiodun Modupe [[ORCID](https://orcid.org/0000-0002-9732-6466){:target="_blank"}]
 * Seani Rananga
-* Tshepiso Mokoena
 
 ## PhD Students
 
@@ -59,7 +58,6 @@ The group is made up of a number of people who work on our core themes.
 * Amukelani Chauke [UP]
 * Alex Molokomme [UP]
 * Lesiba Ledwaba [UP]
-* Richard Lastrucci [UP]
 * Matome Makgopa [UP]
 * Nhlakanipho Ngweya [UP]
 * Godfrey Tshehlo [UP]
@@ -67,6 +65,11 @@ The group is made up of a number of people who work on our core themes.
 * Maduvha Malange [UP]
 * Mulweli Mukwevho [UP]
 * Kganshi Molokomme [UP]
+
+## Research Assistants
+
+* Richard Lastrucci
+* Fiskani Banda
 
 ## Interns
 
@@ -84,6 +87,7 @@ The group is made up of a number of people who work on our core themes.
 * Shrey Mandalia [UP, CS Hons]
 * Shivaan Pillay [UP, CS Hons]
 * Akhona Sekwati [UP, CS Hons]
+* Tshepiso Mokoena [UP, Senior Member]
 
 ### 2021
 
