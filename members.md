@@ -10,7 +10,7 @@ sitemap:
 
 The group is made up of a number of people who work on our core themes.
 
-| <img src="https://github.com/dsfsi/dsfsi.github.io/blob/master/images/dsfsi-group-pic-may-2022.png?raw=true" alt="drawing" style="width:900px;"/> |
+| <img src="https://github.com/dsfsi/dsfsi.github.io/blob/master/images/dsfsi_group_photo_2023.jpg?raw=true" alt="drawing" style="width:900px;"/> |
 |:--:|
 | <b>2022 DSFSI Group Picture</b>|
 
@@ -19,7 +19,6 @@ The group is made up of a number of people who work on our core themes.
 * Assoc. Prof Vukosi Marivate (UP ABSA Chair of Data Science) [[ORCID](https://orcid.org/0000-0002-6731-6267){:target="_blank"}]
 * Abiodun Modupe [[ORCID](https://orcid.org/0000-0002-9732-6466){:target="_blank"}]
 * Seani Rananga
-* Tshepiso Mokoena
 
 ## PhD Students
 
@@ -29,18 +28,16 @@ The group is made up of a number of people who work on our core themes.
 * Mpho Mokoatle [UP][NLP,Soc][[ORCID](https://orcid.org/0000-0001-7689-2840){:target="_blank"}]
 * Rockerfeller [AIMS][ML,Soc]
 * Temitope Kekere [UP][NLP,Soc][[ORCID](https://orcid.org/0000-0002-5362-2685){:target="_blank"}]
-* Mhlasakululeka Mvubu
+* Mhlasakululeka Mvubu [UP]
+* Michelle Terblanche [UP]
 
 ## Masters
 
 * Amica De Jager [UP][ML, NLP]
 * Derwin Ngomane [UP - MIT Big Data Science][NLP]
-* Hombakazi Ngejane [UP][ML, NLP]
-* Makgatho Letladi [UP][ML, NLP]
 * Matimba Shingange [UP - MIT Big Data Science][NLP]
 * Mohlatlego Nakeng [UP - MIT Big Data Science][NLP]
 * Ndamulelo Nemakhavhani [UP - MIT Big Data Science][NLP]
-* Nozuko Twala [UP - MIT Big Data Science][NLP]
 * Shaun Johnson [UP - MIT Big Data Science][NLP]
 * Thapelo Sindane [UP][NLP]
 * Tsholofelo Gomba [UP][ML, SOC][[ORCID](https://orcid.org/0000-0002-9569-0774){:target="_blank"}]
@@ -48,13 +45,31 @@ The group is made up of a number of people who work on our core themes.
 * Marc Gagiano [UP - MIT Big Data Science]
 * Penelope Matloga [UP - MIT Big Data Science]
 * Fiskani Banda [UP - MIT Big Data Science][NLP]
-* Tsholofelo Gomba [UP]
 * Miehleketo Mathebula [UP][NLP]
+* Pitso Khoboko [UP]
+* Kathleen Siminyu [UP]
+* Matome Ledwaba [UP - MIT Big Data Science]
+* Mack Makgatho [UP]
+* Yolanda Nkalashe [UP - MIT Big Data Science]
+* Nelson Phora [UP - MIT Big Data Science]
 
 ## Honours
 
 * Amukelani Chauke [UP]
 * Alex Molokomme [UP]
+* Lesiba Ledwaba [UP]
+* Matome Makgopa [UP]
+* Nhlakanipho Ngweya [UP]
+* Godfrey Tshehlo [UP]
+* David Walker [UP]
+* Maduvha Malange [UP]
+* Mulweli Mukwevho [UP]
+* Kganshi Molokomme [UP]
+
+## Research Assistants
+
+* Richard Lastrucci
+* Fiskani Banda
 
 ## Interns
 
@@ -72,6 +87,7 @@ The group is made up of a number of people who work on our core themes.
 * Shrey Mandalia [UP, CS Hons]
 * Shivaan Pillay [UP, CS Hons]
 * Akhona Sekwati [UP, CS Hons]
+* Tshepiso Mokoena [UP, Senior Member]
 
 ### 2021
 
