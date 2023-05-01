@@ -4,7 +4,7 @@ title: Data Science for Social Impact - Members
 description: 
 sitemap:
     priority: 0.7
-    lastmod: 2022-05-12
+    lastmod: 2023-05-01
     changefreq: monthly
 ---
 
@@ -12,7 +12,7 @@ The group is made up of a number of people who work on our core themes.
 
 | <img src="https://github.com/dsfsi/dsfsi.github.io/blob/master/images/dsfsi_group_photo_2023.jpg?raw=true" alt="drawing" style="width:900px;"/> |
 |:--:|
-| <b>2022 DSFSI Group Picture</b>|
+| <b>2023 DSFSI Group Picture (Not all members pictured, this is our best effor 😄)</b>|
 
 ## Faculty
 
