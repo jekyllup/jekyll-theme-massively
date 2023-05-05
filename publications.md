@@ -4,17 +4,18 @@ title: Data Science for Social Impact - Publications
 description:
 sitemap:
     priority: 1.0
-    lastmod: 2023-04-18
+    lastmod: 2023-05-05
     changefreq: monthly
 ---
 ### 2023
 
+* H.M. Combrink, V. Marivate, and B. Masikisiki. **Technology-Enhanced Learning, Data Sharing, and Machine Learning Challenges in South African Education**, *Education Sciences*, 2023. [SOC] <> [[Paper URL](https://www.mdpi.com/2227-7102/13/5/438)] **DOI:** [10.3390/educsci13050438](https://dx.doi.org/10.3390/educsci13050438) 
 * K.D. Dhole, V. Gangal, S. Gehrmann, A. Gupta, Z. Li, S. Mahamood, A. Mahendiran, S. Mille, A. Srivastava, S. Tan, and  others. **NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation**, *Northern European Journal of Language Technology (NEJLT)*, 2023. [NLP] <> [[Paper URL](https://nejlt.ep.liu.se/article/view/4725)] [[Preprint URL](https://arxiv.org/abs/2112.02721)] [[Software/Library](https://github.com/GEM-benchmark/NL-Augmenter)] 
 * Rendani Mbuvha,  David I. Adelani,  Tendani Mutavhatsindi,  Tshimangadzo Rakhuhu,  Aluwani Mauda,  Tshifhiwa Joshua Maumela,  Andisani Masindi,  Seani Rananga,  Vukosi Marivate, and  Tshilidzi Marwala. **MphayaNER: Named Entity Recognition for Tshivenda**, *arXiv preprint arXiv: Arxiv-2304.03952*, 2023. [NLP] <> [[Paper URL](https://arxiv.org/abs/2304.03952)] 
 * R. Lastrucci, I. Dzingirai, J. Rajab, A. Madodonga, M. Shingange, D. Njini, and V. Marivate. **Preparing the Vuk'uzenzele and ZA-gov-multilingual South African multilingual corpora**, *arXiv preprint arXiv:2303.03750*, 2023. [NLP] <> [[Paper URL](https://arxiv.org/abs/2303.03750)] [[Dataset](https://github.com/dsfsi/vukuzenzele-nlp)] 
 * M. Mokoatle, V. Marivate, D. Mapiye, R. Bornman, V. Hayes, and  others. **A review and comparative study of cancer detection using machine learning: SBERT and SimCSE application**, *BMC bioinformatics*, 2023. [NLP][SOC] <> [[Paper URL](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05235-x)] **DOI:** [https://doi.org/10.1186/s12859-023-05235-x](https://dx.doi.org/https://doi.org/10.1186/s12859-023-05235-x) 
 *  Andani Madodonga,  Vukosi Marivate, and  Matthew Adendorff. **Izindaba-Tindzaba: Machine learning news categorisation for Long and Short Text for isiZulu and Siswati**, *Journal of the Digital Humanities Association of Southern Africa *, 2023. [NLP] <> [[Paper URL](https://upjournals.up.ac.za/index.php/dhasa/article/view/4449)] **DOI:** [doi.org/10.55492/dhasa.v4i01.4449](https://dx.doi.org/doi.org/10.55492/dhasa.v4i01.4449) 
-*  Catherine Gitau and  Vukosi Marivate. **Textual Augmentation Techniques Applied to Low Resource Machine Translation: Case of SwahilI**, *Journal of the Digital Humanities Association of Southern Africa *, 2023. [NLP] <> [[Paper URL](https://upjournals.up.ac.za/index.php/dhasa/article/view/4446)] **DOI:** [10.55492/dhasa.v4i01.4446](https://dx.doi.org/10.55492/dhasa.v4i01.4446) 
+*  Catherine Gitau and  Vukosi Marivate. **Textual Augmentation Techniques Applied to Low Resource Machine Translation: Case of Swahili**, *Journal of the Digital Humanities Association of Southern Africa *, 2023. [NLP] <> [[Paper URL](https://upjournals.up.ac.za/index.php/dhasa/article/view/4446)] **DOI:** [10.55492/dhasa.v4i01.4446](https://dx.doi.org/10.55492/dhasa.v4i01.4446) 
 * N. Garber and V. Marivate. **Conversational Pattern Mining using Motif Detection**, *Pan-African Artificial Intelligence and Smart Systems: Second EAI International Conference, PAAISS 2022, Dakar, Senegal, November 2-4, 2022, Proceedings*. 2023. [ML][NLP] <> [[Paper URL](https://link.springer.com/chapter/10.1007/978-3-031-25271-6_22)] [[Preprint URL](https://arxiv.org/abs/2211.06846)] **DOI:** [10.1007/978-3-031-25271-6_22](https://dx.doi.org/10.1007/978-3-031-25271-6_22) 
 
 ### 2022
