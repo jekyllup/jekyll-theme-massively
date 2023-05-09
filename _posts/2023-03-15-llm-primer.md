@@ -12,7 +12,9 @@ Natural Language Processing (NLP) and Artificial Intelligence (AI) have made sig
 
 ## Slides
 
-Commentable [Google Slides](https://docs.google.com/presentation/d/1dUbIpGw1kNoAETrrP1o6WkMWmHZZrkFqxDnHzB8Uj8M/edit?usp=sharing){:target="_blank"}
+* Commentable [Google Slide (Full Presentation)](https://docs.google.com/presentation/d/1dUbIpGw1kNoAETrrP1o6WkMWmHZZrkFqxDnHzB8Uj8M/edit?usp=sharing){:target="_blank"}
+( Commentable [Google Slide (Mini Presentation 20-30MIN)](https://docs.google.com/presentation/d/1UqyYP1P1EhnI6UM2NZCq7ekSZY12d1DTLgaONIxLivU/edit?usp=sharing){:target="_blank"}
+
 
 ### The Feather-Brick Test
 
