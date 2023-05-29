@@ -4,11 +4,11 @@ title: Data Science for Social Impact - Publications
 description:
 sitemap:
     priority: 1.0
-    lastmod: 2023-05-05
+    lastmod: 2023-05-29
     changefreq: monthly
 ---
 ### 2023
-
+*  Cheikh M. Bamba Dione,  David Adelani,  Peter Nabende,  Jesujoba Alabi,  Thapelo Sindane,  Happy Buzaaba,  Shamsuddeen Hassan Muhammad,  Chris Chinenye Emezue,  Perez Ogayo,  Anuoluwapo Aremu,  Catherine Gitau,  Derguene Mbaye,  Jonathan Mukiibi,  Blessing Sibanda,  Bonaventure F. P. Dossou,  Andiswa Bukula,  Rooweither Mabuya,  Allahsera Auguste Tapo,  Edwin Munkoh-Buabeng,  victoire Memdjokam Koagne,  Fatoumata Ouoba Kabore,  Amelia Taylor,  Godson Kalipe,  Tebogo Macucwa,  Vukosi Marivate,  Tajuddeen Gwadabe,  Mboning Tchiaze Elvis,  Ikechukwu Onyenwe,  Gratien Atindogbe,  Tolulope Adelani,  Idris Akinade,  Olanrewaju Samuel,  Marien Nahimana,  Théogène Musabeyezu,  Emile Niyomutabazi,  Ester Chimhenga,  Kudzai Gotosa,  Patrick Mizha,  Apelete Agbolo,  Seydou Traore,  Chinedu Uchechukwu,  Aliyu Yusuf,  Muhammad Abdullahi, and  Dietrich Klakow. **MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African Languages**, *Proceedings of ACL 2023 (To Appear)*. 2023. [NLP] <> [[Paper URL](#)] [[Preprint URL](https://arxiv.org/abs/2305.13989)] [[Dataset](https://github.com/masakhane-io/masakhane-pos)] **DOI:** [](https://dx.doi.org/) 
 * H.M. Combrink, V. Marivate, and B. Masikisiki. **Technology-Enhanced Learning, Data Sharing, and Machine Learning Challenges in South African Education**, *Education Sciences*, 2023. [SOC] <> [[Paper URL](https://www.mdpi.com/2227-7102/13/5/438)] **DOI:** [10.3390/educsci13050438](https://dx.doi.org/10.3390/educsci13050438) 
 * K.D. Dhole, V. Gangal, S. Gehrmann, A. Gupta, Z. Li, S. Mahamood, A. Mahendiran, S. Mille, A. Srivastava, S. Tan, and  others. **NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation**, *Northern European Journal of Language Technology (NEJLT)*, 2023. [NLP] <> [[Paper URL](https://nejlt.ep.liu.se/article/view/4725)] [[Preprint URL](https://arxiv.org/abs/2112.02721)] [[Software/Library](https://github.com/GEM-benchmark/NL-Augmenter)] 
 * Rendani Mbuvha,  David I. Adelani,  Tendani Mutavhatsindi,  Tshimangadzo Rakhuhu,  Aluwani Mauda,  Tshifhiwa Joshua Maumela,  Andisani Masindi,  Seani Rananga,  Vukosi Marivate, and  Tshilidzi Marwala. **MphayaNER: Named Entity Recognition for Tshivenda**, *arXiv preprint arXiv: Arxiv-2304.03952*, 2023. [NLP] <> [[Paper URL](https://arxiv.org/abs/2304.03952)] 
