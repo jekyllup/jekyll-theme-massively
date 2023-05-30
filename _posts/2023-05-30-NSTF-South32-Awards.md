@@ -17,3 +17,4 @@ For more information on the project, visit :
 
 * [Repository](https://github.com/dsfsi/covid19za){:target="_blank"}
 * [Paper](https://datascience.codata.org/articles/10.5334/dsj-2020-019){:target="_blank"}
+* [The Conversation Africa article](https://theconversation.com/covid-lessons-scientists-without-quality-data-are-like-unarmed-soldiers-in-a-war-zone-175102){:target="_blank"}
