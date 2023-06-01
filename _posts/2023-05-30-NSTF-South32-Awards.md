@@ -3,7 +3,7 @@ layout: post
 title:  "NSTF-South32 Awards 2022/2023 Finalist Announcement"
 date:   2023-05-30
 image: /images/2023-05-30-nstf-awards.jpg
-excerpt: "We are pleased to annouce that the Coronovirus COVID-19 (2019-nCoV) Data Repository for South Africa project led by DSFSI is a finalist for the NSTF-South32 Awards 2022/2023"
+excerpt: "We are pleased to announce that the Coronavirus COVID-19 (2019-nCoV) Data Repository for South Africa project led by the Data Science for Social Impact (DSFSI) Research Group at University of Pretoria is a finalist for the NSTF-South32 Awards 2022/2023"
 
 ---
 
