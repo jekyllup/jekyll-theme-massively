@@ -4,13 +4,24 @@ title: Data Science for Social Impact - Publications
 description:
 sitemap:
     priority: 1.0
-    lastmod: 2023-05-29
+    lastmod: 2023-06-21
     changefreq: monthly
 ---
+<details>
+<summary>Years (Dropdown):</summary>
 
-Years: [2023](#2023) ||  [2022](#2022) ||  [2021](#2021) ||  [2020](#2020) ||  [2019](#2019) ||  [2018](#2018) ||  [2017](#2017) ||  [2016](#2016) ||  [2015](#2015) || 
+* [2023](#2023)
+* [2022](#2022)
+* [2021](#2021)
+* [2020](#2020)
+* [2019](#2019)
+* [2018](#2018)
+* [2017](#2017)
+* [2016](#2016)
+* [2015](#2015)
+</details>
 
-### <a id="2023"></a> 2023
+## <a id="2023"></a> 2023
 
 * D. Ngomane, R. Mabuya, J. Abbott, and V. Marivate. **Unsupervised Cross-lingual Word Embedding Representation for English-isiZulu**, *Proceedings of the Fourth workshop on Resources for African Indigenous Languages (RAIL 2023)*. 2023. [NLP] <> [[Paper URL](https://aclanthology.org/2023.rail-1.2)] [[Dataset](https://doi.org/10.5281/zenodo.5035171)] 
 *  Trishanta Srikissoon and  Vukosi Marivate. **Combating Hate: How Multilingual Transformers Can Help Detect Topical Hate Speech**, *Proceedings of Society 5.0 Conference 2023*. 2023. [NLP] <> [[Paper URL](https://easychair.org/publications/paper/28NM)] **DOI:** [10.29007/1cm6](https://dx.doi.org/10.29007/1cm6) 
@@ -25,7 +36,7 @@ Years: [2023](#2023) ||  [2022](#2022) ||  [2021](#2021) ||  [2020](#2020) ||  [
 *  Catherine Gitau and  Vukosi Marivate. **Textual Augmentation Techniques Applied to Low Resource Machine Translation: Case of SwahilI**, *Journal of the Digital Humanities Association of Southern Africa *, 2023. [NLP] <> [[Paper URL](https://upjournals.up.ac.za/index.php/dhasa/article/view/4446)] [[Preprint URL](https://arxiv.org/abs/2306.07414)] **DOI:** [10.55492/dhasa.v4i01.4446](https://dx.doi.org/10.55492/dhasa.v4i01.4446) 
 * N. Garber and V. Marivate. **Conversational Pattern Mining using Motif Detection**, *Pan-African Artificial Intelligence and Smart Systems: Second EAI International Conference, PAAISS 2022, Dakar, Senegal, November 2-4, 2022, Proceedings*. 2023. [ML][NLP] <> [[Paper URL](https://link.springer.com/chapter/10.1007/978-3-031-25271-6_22)] [[Preprint URL](https://arxiv.org/abs/2211.06846)] **DOI:** [10.1007/978-3-031-25271-6_22](https://dx.doi.org/10.1007/978-3-031-25271-6_22) 
 
-### <a id="2022"></a> 2022
+## <a id="2022"></a> 2022
 
 * D.I. Adelani, M.M.I. Alam, A. Anastasopoulos, A. Bhagia, M. Costa-Jussá, J. Dodge, F. Faisal, C. Federmann, N. Fedorova, F. Guzmán, V. Marivate, and  others. **Findings of the WMT 2022 shared task on large-scale machine translation evaluation for african languages**, *Proceedings of the Seventh Conference on Machine Translation, Online. Association for Computational Linguistics*. 2022. [NLP] <> [[Paper URL](https://www.statmt.org/wmt22/pdf/2022.wmt-1.72.pdf)] 
 *  Herkulaas Combrink,  Vukosi Marivate, and  Benjamin Rosman. **Reinforcement Learning in Education: A Multi-Armed Bandit Approach**, *arXiv preprint arXiv: Arxiv-2211.00779*, 2022. [ML][SOC] <> [[Paper URL]()] [[Preprint URL](https://arxiv.org/abs/2211.00779)] **DOI:** [](https://dx.doi.org/) 
@@ -39,7 +50,7 @@ Years: [2023](#2023) ||  [2022](#2022) ||  [2021](#2021) ||  [2020](#2020) ||  [
 * M. Makgatho, V. Marivate, T. Sefara, and V. Wagner. **Training Cross-Lingual embeddings for Setswana and Sepedi**, *Journal of the Digital Humanities Association of Southern Africa *, 2022. [NLP] <> [[Paper URL](https://upjournals.up.ac.za/index.php/dhasa/article/view/3822)] [[Preprint URL](https://arxiv.org/abs/2111.06230)] [[Dataset](https://zenodo.org/record/5673974)] **DOI:** [10.55492/dhasa.v3i03.3822](https://dx.doi.org/10.55492/dhasa.v3i03.3822) 
 * T. Mokoena, T. Celik, and V. Marivate. **Why is this an anomaly? Explaining anomalies using sequential explanations**, *Pattern Recognition*, 2022. [ML] <> [[Paper URL](https://www.sciencedirect.com/science/article/pii/S0031320321004088)] [[Preprint URL](https://repository.up.ac.za/handle/2263/82935)] **DOI:** [10.1016/j.patcog.2021.108227](https://dx.doi.org/10.1016/j.patcog.2021.108227) 
 
-### <a id="2021"></a> 2021
+## <a id="2021"></a> 2021
 
 * H. de Wet and V. Marivate. **Is it Fake? News Disinformation Detection on South African News Websites**, *2021 IEEE AFRICON*. 2021. [NLP][SOC] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/9570905)] [[Preprint URL](https://arxiv.org/abs/2108.02941)] [[Dataset](https://github.com/dsfsi/za-fake-news-2020)] **DOI:** [10.1109/AFRICON51333.2021.9570905](https://dx.doi.org/10.1109/AFRICON51333.2021.9570905) 
 * D. Behr, C. wa Maina, and V. Marivate. **An empirical investigation into audio pipeline approaches for classifying bird species**, *2021 IEEE AFRICON*. 2021. [ML][SOC] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/9570862)] [[Preprint URL](https://arxiv.org/abs/2108.04449)] **DOI:** [10.1109/AFRICON51333.2021.9570862](https://dx.doi.org/10.1109/AFRICON51333.2021.9570862) 
@@ -53,7 +64,7 @@ Years: [2023](#2023) ||  [2022](#2022) ||  [2021](#2021) ||  [2020](#2020) ||  [
 * C.H. Ngejane, J.H. Eloff, T.J. Sefara, and V.N. Marivate. **Digital forensics supported by machine learning for the detection of online sexual predatory chats**, *Forensic science international: Digital investigation*, 2021. [NLP] <> [[Paper URL](https://www.sciencedirect.com/science/article/pii/S2666281721000032)] [[Preprint URL](https://repository.up.ac.za/handle/2263/79468)] **DOI:** [10.1016/j.fsidi.2021.301109](https://dx.doi.org/10.1016/j.fsidi.2021.301109) 
 * H. Combrink, V. Marivate, and B. Rosman. **A Framework for Undergraduate Data Collection Strategies for Student Support Recommendation Systems in Higher Education**, *Southern African Conference for Artificial Intelligence Research*. 2021. [ML][SOC] <> [[Preprint URL](https://www.raillab.org/content/Combrink_Marivate_Rosman_2020_CCIS_2.pdf)] 
 
-### <a id="2020"></a> 2020
+## <a id="2020"></a> 2020
 
 * W. Nekoto, V. Marivate, T. Matsila, T. Fasubaa, T. Fagbohungbe, S.O. Akinola, S. Muhammad, S.K. Kabenamualu, S. Osei, F. Sackey, and  others. **Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages**, *Findings of the Association for Computational Linguistics: EMNLP 2020*. 2020. [NLP][SOC] <> [[Paper URL](https://aclanthology.org/2020.findings-emnlp.195)] [[Preprint URL](https://arxiv.org/abs/2010.02353)] [[Dataset](https://github.com/masakhane-io/masakhane-mt)] **DOI:** [10.18653/v1/2020.findings-emnlp.195](https://dx.doi.org/10.18653/v1/2020.findings-emnlp.195) 
 * N. Mtsweni, H.M. Combrink, and V. Marivate. **Mapping the South African health landscape in response to COVID-19**, *arXiv preprint arXiv:2006.15216*, 2020. [SOC] <> [[Preprint URL](https://arxiv.org/abs/2006.15216)] [[Dataset](https://github.com/dsfsi/covid19za/tree/master/data)] 
@@ -66,31 +77,31 @@ Years: [2023](#2023) ||  [2022](#2022) ||  [2021](#2021) ||  [2020](#2020) ||  [
 *  Henry Wandera,  Vukosi Marivate, and  David Sengeh. **Investigating similarities and differences between South African and
 Sierra Leonean school outcomes using Machine Learning**, *CoRR*, 2020. [ML][SOC] <> [[Paper URL](https://arxiv.org/abs/2004.11369)] 
 
-### <a id="2019"></a> 2019
+## <a id="2019"></a> 2019
 
 * H. Wandera, V. Marivate, and M.D. Sengeh. **Predicting National School Performance for Policy Making in South Africa**, *2019 6th International Conference on Soft Computing & Machine Intelligence (ISCMI)*. 2019. [ML][SOC] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/9004323)] 
 * A. Moodley and V. Marivate. **Topic modelling of news articles for two consecutive elections in South Africa**, *2019 6th International Conference on Soft Computing & Machine Intelligence (ISCMI)*. 2019. [NLP][SOC] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/9004342)] 
 * M. Mokoatle, D. Vukosi Marivate, and P. Michael Esiefarienrhe Bukohwo. **Predicting road traffic accident severity using accident report data in South Africa**, *Proceedings of the 20th annual international conference on digital government research*. 2019. [ML][SOC] <> [[Paper URL](https://dl.acm.org/doi/abs/10.1145/3325112.3325211)] 
 
-### <a id="2018"></a> 2018
+## <a id="2018"></a> 2018
 
 * V. Marivate and N. Moorosi. **Exploring data science for public good in South Africa: evaluating factors that lead to success**, *Proceedings of the 19th Annual International Conference on Digital Government Research: Governance in the Data Age*. 2018. [ML][SOC] <> [[Paper URL](https://dl.acm.org/doi/abs/10.1145/3209281.3209366)] 
 * M. Mokoatle and V. Marivate. **Collision Course: Challenges with Road Traffic Accident Data in South Africa**, *2018 International Conference on Advances in Big Data, Computing and Data Communication Systems (icABCD)*. 2018. [ML][SOC] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/8465419)] 
 
-### <a id="2017"></a> 2017
+## <a id="2017"></a> 2017
 
 * T. Mokoena, O. Lebogo, A. Dlaba, and V. Marivate. **Bringing sequential feature explanations to life**, *2017 IEEE AFRICON*. 2017. [ML][NLP] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/8095456)] 
 * V. Marivate and N. Moorosi. **Employment relations: a data driven analysis of job markets using online job boards and online professional networks**, *Proceedings of the International Conference on Web Intelligence*. 2017. [NLP][SOC] <> [[Paper URL](https://dl.acm.org/doi/abs/10.1145/3106426.3115589)] 
 * A. Modupe, T. Celik, V. Marivate, and M. Diale. **Semi-supervised probabilistics approach for normalising informal short text messages**, *2017 Conference on Information Communication Technology and Society (ICTAS)*. 2017. [NLP] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/7920659)] 
 * N. Moorosi, M. Thinyane, and V. Marivate. **A Critical and Systemic Consideration of Data for Sustainable Development in Africa**, *International Conference on Social Implications of Computers in Developing Countries*. 2017. [SOC] <> [[Paper URL](https://link.springer.com/chapter/10.1007/978-3-319-59111-7_20)] 
 
-### <a id="2016"></a> 2016
+## <a id="2016"></a> 2016
 
 * P.M. Monamo, V. Marivate, and B. Twala. **A multifaceted approach to Bitcoin fraud detection: Global and local outliers**, *2016 15th IEEE International Conference on Machine Learning and Applications (ICMLA)*. 2016. [ML] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/7838143)] 
 * V.N. Marivate and P. Moiloa. **Catching crime: Detection of public safety incidents using social media**, *2016 Pattern Recognition Association of South Africa and Robotics and Mechatronics International Conference (PRASA-RobMech)*. 2016. [NLP][SOC] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/7813140)] **DOI:** [10.1109/RoboMech.2016.7813140](https://dx.doi.org/10.1109/RoboMech.2016.7813140) 
 * P. Monamo, V. Marivate, and B. Twala. **Unsupervised learning for robust Bitcoin fraud detection**, *2016 Information Security for South Africa (ISSA)*. 2016. [ML][SOC] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/7802939)] **DOI:** [10.1109/ISSA.2016.7802939](https://dx.doi.org/10.1109/ISSA.2016.7802939) 
 
-### <a id="2015"></a> 2015
+## <a id="2015"></a> 2015
 
 * V.N. Marivate. **Extracting South African safety and security incident patterns from social media**, *2015 Pattern Recognition Association of South Africa and Robotics and Mechatronics International Conference (PRASA-RobMech)*. 2015. [NLP][SOC] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/7359507)] **DOI:** [10.1109/RoboMech.2015.7359507](https://dx.doi.org/10.1109/RoboMech.2015.7359507) 
 * N. Moorosi and V. Marivate. **Privacy in mining crime data from social Media: A South African perspective**, *2015 Second International Conference on Information Security and Cyber Forensics (InfoSec)*. 2015. [ML][SOC] <> [[Paper URL](https://ieeexplore.ieee.org/abstract/document/7435524)] **DOI:** [10.1109/InfoSec.2015.7435524](https://dx.doi.org/10.1109/InfoSec.2015.7435524) 
