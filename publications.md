@@ -1,25 +1,16 @@
 ---
 layout: page
 title: Data Science for Social Impact - Publications
-description:
+description: These are the DSFSI research group's publications/contributions with connected datasets and/or software.
 sitemap:
     priority: 1.0
-    lastmod: 2023-06-21
+    lastmod: 2023-06-22
     changefreq: monthly
 ---
 <details>
 <summary>Years (Dropdown):</summary>
 
-* [2023](#2023)
-* [2022](#2022)
-* [2021](#2021)
-* [2020](#2020)
-* [2019](#2019)
-* [2018](#2018)
-* [2017](#2017)
-* [2016](#2016)
-* [2015](#2015)
-</details>
+[2023](#2023) || [2022](#2022) || [2021](#2021) || [2020](#2020) || [2019](#2019) || [2018](#2018) || [2017](#2017) || [2016](#2016) || [2015](#2015) || </details>
 
 ## <a id="2023"></a> 2023
 
