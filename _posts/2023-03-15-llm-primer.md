@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "The DSFSI Large Language Models Primer <> AI and Language: A Mirror to Ourselves - Understanding how we got to ChatGPT and what it actually means"
-date: 2023-03-15
+date: 2023-07-13e
 excerpt: "Primer/Tutorial by Prof. Vukosi Marivate"
-image: 
+image: images/2023-07-13-llm-primer.png
 ---
+
+Last Update: 13 July 2023
 
 ## Abstract
 
@@ -34,6 +36,7 @@ You can subscribe to the newsletter here: [https://tinyletter.com/datascience-up
 
 ### Media
 
+* [Podcast] The Hidden Workforce That Helped Filter Violence and Abuse Out of ChatGPT = [URL](https://www.wsj.com/podcasts/the-journal/the-hidden-workforce-that-helped-filter-violence-and-abuse-out-of-chatgpt/ffc2427f-bdd8-47b7-9a4b-27e7267cf413){:target="_blank"} [For everyone]
 * [Podcast] The Limitations of ChatGPT with Emily M. Bender and Casey Fiesler - [URL](https://www.radicalai.org/chatgpt-limitations){:target="_blank"} [For everyone]
  
 #### The UPs and Downs of what Large Langauge Models might mean (The AI Wars)
