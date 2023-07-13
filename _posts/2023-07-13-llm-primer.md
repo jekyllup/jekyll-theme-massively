@@ -3,7 +3,7 @@ layout: post
 title: "The DSFSI Large Language Models Primer <> AI and Language: A Mirror to Ourselves - Understanding how we got to ChatGPT and what it actually means"
 date: 2023-07-13
 excerpt: "Primer/Tutorial by Prof. Vukosi Marivate"
-image: images/2023-07-13-llm-primer.png
+image: /images/2023-07-13-llm-primer.png
 ---
 
 Last Update: 13 July 2023
