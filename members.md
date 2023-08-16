@@ -10,15 +10,18 @@ sitemap:
 
 The group is made up of a number of people who work on our core themes.
 
-| <img src="https://github.com/dsfsi/dsfsi.github.io/blob/master/images/dsfsi_group_photo_2023.jpg?raw=true" alt="drawing" style="width:900px;"/> |
+| <img src="https://github.com/dsfsi/dsfsi.github.io/blob/master/images/dsfsi_group_photo_2023.png?raw=true" alt="drawing" style="width:900px;"/> |
 |:--:|
-| <b>2023 DSFSI Group Picture (Not all members pictured, this is our best effor 😄)</b>|
+| <b>2023 DSFSI Group Picture (Not all members pictured, this is our best effort 😄)</b>|
 
 ## Faculty
 
 * Assoc. Prof Vukosi Marivate (UP ABSA Chair of Data Science) [[ORCID](https://orcid.org/0000-0002-6731-6267){:target="_blank"}]
 * Abiodun Modupe [[ORCID](https://orcid.org/0000-0002-9732-6466){:target="_blank"}]
 * Seani Rananga
+
+## Postdoctoral Fellows
+* Kayode Olaleye[[Website](https://kayodeolaleye.github.io/){:target="_blank"}]
 
 ## PhD Students
 
@@ -65,6 +68,7 @@ The group is made up of a number of people who work on our core themes.
 * Maduvha Malange [UP]
 * Mulweli Mukwevho [UP]
 * Kganshi Molokomme [UP]
+* Daniel Njini [UP]
 
 ## Research Assistants
 
