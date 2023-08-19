@@ -4,14 +4,14 @@ title: Data Science for Social Impact - Publications
 description: These are the DSFSI research group's publications/contributions with connected datasets and/or software.
 sitemap:
     priority: 1.0
-    lastmod: 2023-07-06
+    lastmod: 2023-08-19
     changefreq: monthly
 ---
 [2023](#2023) || [2022](#2022) || [2021](#2021) || [2020](#2020) || [2019](#2019) || [2018](#2018) || [2017](#2017) || [2016](#2016) || [2015](#2015) || 
 
 ## <a id="2023"></a> 2023
 
-* Kekere, T., Marivate, V. and Hattingh, M. 2023. **Exploring COVID-19 public perceptions in South Africa through sentiment analysis and topic modelling of Twitter posts**, *The African Journal of Information and Communication (AJIC)*. South Africa, (31). doi: 10.23962/ajic.i31.14834.[NLP] <> [[Paper URL](https://ajic.wits.ac.za/article/view/14834)]
+* T. Kekere, V. Marivate, and M. Hattingh. **Exploring COVID-19 public perceptions in South Africa through sentiment analysis and topic modelling of Twitter posts**, *The African Journal of Information and Communication (AJIC)*, 2023. [NLP][ SOC] <> [[Paper URL](https://ajic.wits.ac.za/article/view/14834)] **DOI:** [10.23962/ajic.i31.14834](https://dx.doi.org/10.23962/ajic.i31.14834) 
 *  Abiodun Modupe,  Turgay Celik,  Vukosi Marivate, and  Oludayo O. Olugbara. **Integrating Bidirectional Long Short-Term Memory with Subword Embedding for Authorship Attribution**, *Proceedings of IEEE SMC 2023 (Accepted, to Appear)*. 2023. [NLP] <> [[Preprint URL](https://arxiv.org/abs/2306.14933)] 
 * D. Ngomane, R. Mabuya, J. Abbott, and V. Marivate. **Unsupervised Cross-lingual Word Embedding Representation for English-isiZulu**, *Proceedings of the Fourth workshop on Resources for African Indigenous Languages (RAIL 2023)*. 2023. [NLP] <> [[Paper URL](https://aclanthology.org/2023.rail-1.2)] [[Dataset](10.5281/zenodo.5035171)] 
 *  Trishanta Srikissoon and  Vukosi Marivate. **Combating Hate: How Multilingual Transformers Can Help Detect Topical Hate Speech**, *Proceedings of Society 5.0 Conference 2023*. 2023. [NLP] <> [[Paper URL](https://easychair.org/publications/paper/28NM)] **DOI:** [10.29007/1cm6](https://dx.doi.org/10.29007/1cm6) 
