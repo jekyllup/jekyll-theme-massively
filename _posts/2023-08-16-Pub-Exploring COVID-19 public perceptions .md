@@ -2,7 +2,7 @@
 layout: post
 title: "[Publication] Exploring COVID-19 public perceptions in South Africa through sentiment analysis and topic modelling of Twitter posts"
 date: 2023-08-16
-image:
+image: /images/2023-08-16-Pub-Exploring-Covid_19.jpg
 excerpt: "Paper by Temitope Kekere and Vukosi Marivate"
 ---
 
