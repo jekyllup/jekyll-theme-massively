@@ -12,11 +12,11 @@ sitemap:
 
 ### 2023 Series
 
-Loading......
+The dates of the series as well as some of the speakers are now available below. If you want to be updated on the seminar series, please sign up to the [DS@UP Newsletter](https://tinyletter.com/datascience-up/). 
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRstQBV2-WnGUX3zRjdGhg6SFDPr2ZbghhXWq-Q7mwph3yLpLCaiv8tAVJZhubLMDi-nR0hX_aFWFu/pubhtml?widget=true&amp;headers=false"  width="600" height="400"></iframe>
 
 ### 2022 Series
-
-The dates of the series as well as some of the speakers are now available below. If you want to be updated on the seminar series, please sign up to the [DS@UP Newsletter](https://tinyletter.com/datascience-up/). 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT7_vvDj48GiymNpZhxpE_q0LMfSWSCAlLnQOFPz0AUlFr8SO4vWkMW2pVxYaoBCUyrJArsPmVwcvaX/pubhtml?widget=true&amp;headers=false"  width="600" height="400"></iframe>
 
