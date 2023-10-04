@@ -28,4 +28,4 @@ Gabriel is a software engineer by training and has a Masters in Information Mana
 * content will be uploaded soon 
     
 ### [Talk](https://youtu.be/Dtz1uIeNZKE )
-<iframe width="560" height="315" src="https://youtu.be/Dtz1uIeNZKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dtz1uIeNZKE?si=oNd54caYSOQ9F-MJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

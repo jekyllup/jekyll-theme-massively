@@ -25,5 +25,5 @@ Dr Okorie is 'Africa Correspondent’ at award-winning intellectual property law
 
 * content will be uploaded soon 
     
-### [Talk](https://www.youtube.com/watch?v=A3gMIFYe1uk  )
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=A3gMIFYe1uk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### [Talk](https://www.youtube.com/watch?v=A3gMIFYe1uk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A3gMIFYe1uk?si=ujaaRV_2F7ugE6Ve" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

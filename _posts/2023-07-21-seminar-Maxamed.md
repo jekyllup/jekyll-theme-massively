@@ -25,4 +25,4 @@ Paper - [[MEGA: Multilingual Evaluation of Generative AI](https://arxiv.org/abs/
 * content will be uploaded soon 
     
 ### [Talk](https://www.youtube.com/watch?v=-CW9gbJVT2A)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-CW9gbJVT2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-CW9gbJVT2A?si=91Dy8K5V3D-MY0l0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
