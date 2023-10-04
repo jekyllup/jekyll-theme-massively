@@ -10,7 +10,7 @@ sitemap:
 
 The group is made up of a number of people who work on our core themes.
 
-| <img src="https://github.com/dsfsi/dsfsi.github.io/blob/master/images/dsfsi_group_photo_2023.png?raw=true" alt="drawing" style="width:900px;"/> |
+| <img src="https://github.com/dsfsi/dsfsi.github.io/blob/master/images/dsfsi_group_photo_2023.jpg?raw=true" alt="drawing" style="width:900px;"/> |
 |:--:|
 | <b>2023 DSFSI Group Picture (Not all members pictured, this is our best effort 😄)</b>|
 
@@ -32,7 +32,7 @@ The group is made up of a number of people who work on our core themes.
 * Rockerfeller [AIMS][ML,Soc]
 * Temitope Kekere [UP][NLP,Soc][[ORCID](https://orcid.org/0000-0002-5362-2685){:target="_blank"}]
 * Mhlasakululeka Mvubu [UP]
-* Michelle Terblanche [UP]
+* Michelle Terblanche [UP][[ORCID](https://orcid.org/0000-0002-1460-3596){:target="_blank"}]
 
 ## Masters
 
@@ -53,7 +53,6 @@ The group is made up of a number of people who work on our core themes.
 * Kathleen Siminyu [UP]
 * Matome Ledwaba [UP - MIT Big Data Science]
 * Mack Makgatho [UP]
-* Yolanda Nkalashe [UP - MIT Big Data Science]
 * Nelson Phora [UP - MIT Big Data Science]
 
 ## Honours
@@ -74,6 +73,9 @@ The group is made up of a number of people who work on our core themes.
 
 * Richard Lastrucci
 * Fiskani Banda
+* Christiaan Lombard
+* Rotondwa Sithagu
+* Thichaona Ketro Sithole
 
 ## Interns
 
