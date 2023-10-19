@@ -4,13 +4,14 @@ title: Data Science for Social Impact - Publications
 description: These are the DSFSI research group's publications/contributions with connected datasets and/or software.
 sitemap:
     priority: 1.0
-    lastmod: 2023-10-04
+    lastmod: 2023-10-16
     changefreq: monthly
 ---
 [2023](#2023) || [2022](#2022) || [2021](#2021) || [2020](#2020) || [2019](#2019) || [2018](#2018) || [2017](#2017) || [2016](#2016) || [2015](#2015) || 
 
 ## <a id="2023"></a> 2023
 
+*  Vukosi Marivate,  Moseli Mots'Oehli,  Valencia Wagner,  Richard Lastrucci, and  Isheanesu Dzingirai. **PuoBERTa: Training and evaluation of a curated language model for Setswana**, *SACAIR 2023 (To Appear)*. 2023. [NLP] <> [[Preprint URL](https://arxiv.org/abs/2310.09141)] [[Dataset](https://github.com/dsfsi/PuoBERTa)] [[Software/Library](https://huggingface.co/dsfsi/PuoBERTa)]
 *  Baphumelele Masikisiki,  Vukosi Marivate, and  Yvette Hlope. **Investigating the Efficacy of Large Language Models in Reflective Assessment Methods through Chain of Thoughts Prompting**, *AfriCHI 2023 (To Appear)*. 2023. [NLP][ SOC] <> [[Preprint URL](https://arxiv.org/abs/2310.00272)] [[Dataset](https://github.com/dsfsi/edu-assessment-llm-prompt)] 
 * T. Kekere, V. Marivate, and M. Hattingh. **Exploring COVID-19 public perceptions in South Africa through sentiment analysis and topic modelling of Twitter posts**, *The African Journal of Information and Communication (AJIC)*, 2023. [NLP][ SOC] <> [[Paper URL](https://ajic.wits.ac.za/article/view/14834)] **DOI:** [10.23962/ajic.i31.14834](https://dx.doi.org/10.23962/ajic.i31.14834) 
 *  Abiodun Modupe,  Turgay Celik,  Vukosi Marivate, and  Oludayo O. Olugbara. **Integrating Bidirectional Long Short-Term Memory with Subword Embedding for Authorship Attribution**, *2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*. 2023. [NLP] <> [[Preprint URL](https://arxiv.org/abs/2306.14933)] 
