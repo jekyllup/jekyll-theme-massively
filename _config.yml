@@ -1,6 +1,6 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
+title:              Rahul Dhurkunde 
+bio:                'Curious to solve real world problems'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,15 +11,15 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
+twitter:            rahuldhurkunde
 facebook:           default
-instagram:          default
-github:             default
+instagram:          ctrahuld
+github:             rahuldhurkunde
 
 # personal
-location:           Los Angeles, CA
+location:           Hannover, Germany
 phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+email:              rahul.dhurkunde@aei.mpg.de # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
